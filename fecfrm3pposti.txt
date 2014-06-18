@@ -1,0 +1,407 @@
+INSTRUCTIONS FOR FEC FORM 3P PAGE 3
+
+Federal Election Commission
+
+Instructions For FEC Form 3P, Page 3
+Post-Election Detailed Summary Page
+WHEN TO USE THIS FORM:
+Use this form in lieu of the Detailed
+Summary Page and Line Numbers
+14 and 15 of the Report of Receipts
+and Disbursements for the reporting
+period that includes the date of the
+general election. (The election cycle
+for disclosure purposes begins the day
+after the general election for a seat or
+office, and ends on the day of the next
+general election for that seat or office.
+See 11 CFR 100.3(b).) For example, if
+the candidate participated in the general
+election, use this form for the 30-day
+Post-General report, since the coverage
+dates for that report would include
+general election day.
+This form covers activity spanning
+two election cycles. There are three
+Columns of activity disclosed on the
+report. The first column, Column A,
+is used to report the total amount of
+receipts and disbursements for each
+category of activity during the reporting
+period; i.e., activity that occurred both
+before and after the date of the general
+election. The second column, Column
+B, discloses the aggregate election
+cycle-to-date totals for each category of
+activity, incorporating information from
+the last report filed. Finally, Column C
+only includes activity that occurred after
+the date of the general election through
+the end of the reporting period.
+If there are no receipts or
+disbursements for a particular category
+during a reporting period or election
+cycle, enter “0.”
+INSTRUCTIONS FOR COLUMN A
+Column A includes the total receipts
+and disbursements for each category
+of activity during the reporting period.
+Use the appropriate Schedules A-P or
+B-P to list each receipt or disbursement
+required to be itemized. The total for
+
+each category (“Total This Period” from
+Schedule A-P or Schedule B-P) should
+then be added to any unitemized receipts
+or disbursements for that category, and
+entered on the appropriate line of the
+Post-Election Detailed Summary Page,
+page 3, in Column A.
+INSTRUCTIONS FOR COLUMN B
+Fill in the date of the just-ended
+general election. To derive the totals
+for Column B, first separate the Column
+A receipts and disbursements for each
+category by date—those that occurred
+through the date of the general election,
+and those that occurred after the date
+of the general election. Column B will
+include those receipts and disbursements
+received or made from the beginning
+of the reporting period through the date
+of the general election, added to the
+“Election Cycle-to-Date” figure from
+Column B of the Detailed Summary
+Page, page 2, of the committee’s last
+report. Column B will then represent all
+of the activity that occurred during the
+just-ended election cycle up through the
+date of the general election.
+INSTRUCTIONS FOR COLUMN C
+Fill in the date of the day after the
+just-ended Presidential election. (For
+example, for the 2012 election, fill in
+“11/7/12.”) Fill in the last day of the
+reporting period. To derive the total
+for each line, add those transactions
+from Column A that occurred during
+the period beginning the day after
+the general election through the end
+of the reporting period. Column C
+will then represent those receipts and
+disbursements received or made the day
+after the general election and throughout
+the remainder of the reporting period.
+
+LINE BY LINE INSTRUCTIONS
+LINE 16. Enter total amount of federal
+funds received by the committee during
+the reporting period. These receipts must
+be itemized on Schedule A-P regardless
+of the amount.
+LINE 17(a)(i). Enter the total amount
+of itemized contributions (other than
+loans) from individuals/persons other
+than political committees on Line 17(a)
+(i). Each contribution made by a person
+who has made one or more contributions
+during the election cycle aggregating
+in excess of $200 must be itemized
+on Schedule A-P. The committee must
+provide the identification (full name,
+mailing address, occupation and name
+of employer) of the person, the date and
+amount of each contribution aggregating
+in excess of $200, the aggregate election
+cycle-to-date total and whether the
+contribution is for a primary, general or
+other election.
+LINE 17(a)(ii). Enter the total amount
+of unitemized contributions (other than
+loans) from individuals/persons other
+than political committees on Line 17(a)
+(ii).
+LINE 17(a)(iii). For Columns A, B, and
+C, add Lines 17(a)(i) and 17(a)(ii) to
+derive figures for Line 17(a)(iii).
+LINE 17(b). Enter the total amount of
+contributions (other than loans) from
+political party committees on Line
+17(b). These contributions must be
+itemized on Schedule A-P regardless
+of the amount. For each contribution,
+provide the identification (full name
+and address) of the committee, the date
+and amount of the contribution, the
+aggregate election cycle-to-date total
+and whether the contribution is for a
+primary, general or other election.
+
+Federal Election Commission (Revised 03/2011), Page 1
+
+INSTRUCTIONS FOR FEC FORM 3P PAGE 3
+
+LINE 17(c). Enter the total amount of
+contributions (other than loans) from
+other political committees on Line 17(c).
+These contributions must be itemized on
+Schedule A-P regardless of the amount.
+For each contribution, include the
+aggregate election cycle-to-date total,
+and whether the contribution is for a
+primary, general, or other election. Do
+not abbreviate committee names.
+LINE 17(d). Enter the total amount of
+contributions (other than loans) from the
+candidate on Line 17(d). If the candidate
+makes one or more contributions during
+the election cycle aggregating in excess
+of $200, the committee must provide on
+Schedule A-P the identification of the
+candidate (full name, mailing address,
+occupation and name of employer), the
+date and amount of each contribution
+aggregating in excess of $200, and the
+aggregate election cycle-to-date totals.
+LINE 17(e). For Columns A, B and C,
+add Lines 17(a)(iii), 17(b), 17(c) and
+17(d) to derive figures for Line 17(e).
+LINE 18. Enter the total amount
+of transfers from other authorized
+committees of the same candidate.
+Loans and loan repayments received
+from other authorized committees of
+the same candidate must be included on
+this line and not on Line 19(b). These
+transfers must be itemized on Schedule
+A-P, regardless of the amount. For
+each transfer, provide the identification
+(full name and mailing address) of the
+committee, the date and amount of
+the transfer and the aggregate election
+cycle-to-date total.
+LINE 19(a). Enter the total amount
+of loans made or guaranteed by the
+candidate on Line 19(a). This category
+includes personal loans from the
+candidate and loans from lending
+institutions which are secured, endorsed
+or guaranteed by the candidate and
+used in connection with the candidate’s
+campaign for Federal office. All loans
+made, guaranteed or endorsed by the
+candidate must be itemized on Schedule
+A-P, regardless of the amount. For each
+loan, provide the identification of the
+candidate (full name, mailing address,
+
+occupation and name of employer), the
+date and amount of the loan and the
+aggregate election cycle-to-date total
+(see also instructions for Schedule C-P1). NOTE: A loan guaranteed by the
+candidate and any other person(s) must
+be apportioned between the candidate
+on Line 17(a) and the other person(s)
+on Line 17(b).
+LINE 19(b). Enter the total amount of
+all other loans received on Line 19(b).
+This category includes all other types of
+loans. These loans must be itemized on
+Schedule A-P, regardless of the amount.
+For each loan provide the identification
+(full name, mailing address and where
+applicable, occupation and name of
+employer) of the person making the
+loan, the date and amount of the loan,
+the aggregate election cycle-to-date
+total and whether the loan is for a
+primary, general or other election.
+The committee must also provide on
+Schedule C-P-1 the identification of any
+endorser or guarantor and the amount of
+the endorsement or guarantee (see also
+instructions for Schedule C-P-1).
+LINE 19(c). For Columns A, B, and C,
+add Lines 19(a) and 19(b) to derive the
+figures for Line 19(c).
+LINE 20(a). Enter the total amount
+of offsets to operating expenditures
+(including refunds, rebates and
+returns of deposits) on Line 20(a).
+For each person who provides rebates,
+refunds and other offsets to operating
+expenditures aggregating in excess
+of $200 during the election cycle, the
+committee must provide on Schedule
+A-P the identification of the person,
+the date and amount of each receipt
+aggregating in excess of $200 and the
+aggregate election cycle-to-date total.
+LINE 20(b). Follow the instructions for
+line 20(a) to report offsets to fundraising
+disbursements.
+LINE 20(c). Follow the instructions for
+line 20(a) to report offsets to legal and
+accounting disbursements.
+LINE 20(d). For Columns A, B, and
+C, add Lines 20(a), 20(b) and 20(c) to
+derive the figures for Line 20(d).
+
+Page 2, Federal Election Commission (Revised 03/2011)
+
+LINE 21. Enter the total amount of other
+receipts (including dividends, interest
+and repayments by persons of loans
+made by the committee) on Line 21. For
+each person who provides any dividends,
+interest or other receipts aggregating in
+excess of $200 during the election cycle,
+the committee must provide on Schedule
+A-P the identification of the person,
+the date and amount of each receipt
+aggregating in excess of $200 and the
+aggregate election cycle-to-date totals.
+LINE 22. For Columns A, B and C, add
+Lines 16, 17(e), 18, 19(c), 20(d) and 21
+to derive the figures for Line 22.
+LINE 23. Enter the total amount of
+operating expenditures on Line 23.
+Examples of operating expenditures
+are: media advertising, newspaper
+advertising, salaries, travel, rent and
+telephones. For each person who receives
+payments for operating expenditures
+aggregating in excess of $200 during
+the election cycle, the Committee must
+provide on Schedule B-P the full name
+and mailing address, date, amount, and
+purpose of the expenditure (see also
+instructions for Schedule B-P).
+LINE 24. Enter the total amount of
+transfers to other authorized committees
+of the same candidate on Line 24. These
+transfers must be itemized on Schedule
+B-P, regardless of the amount. For
+each transfer, provide the full name
+and mailing address of the recipient
+committee, the date, amount, and state
+that the purpose of the disbursement is
+a “transfer.”
+LINE 25. Enter the total amount of
+fundraising disbursements on Line
+25. For each person who receives
+payments for fundraising disbursements
+aggregating in excess of $200 during
+the election cycle, the committee must
+provide on Schedule B-P the full name
+and mailing address, date, amount, and
+purpose of the disbursement.
+LINE 26. Enter the total amount of exempt
+legal and accounting disbursements
+on Line 26. For each person who
+receives payments for exempt legal and
+accounting disbursements aggregating
+
+INSTRUCTIONS FOR FEC FORM 3P PAGE 3
+
+in excess of $200 during the election
+cycle, the committee must provide
+on Schedule B-P the full name and
+mailing address, the date and amount
+of each disbursement aggregating in
+excess of $200, and the purpose of the
+disbursement.
+LINE 27(a). Enter the total amount
+of loan repayments of loans made or
+guaranteed by the candidate on Line
+27(a). All loan repayments must be
+itemized on Schedule B-P, regardless
+of the amount. For each person who
+receives a loan repayment, provide
+the full name, mailing address, date,
+amount, and state that the purpose of the
+disbursement is a “loan repayment” (see
+also instructions for Schedule C-P-1).
+LINE 27(b). Enter the total amount of
+loan repayments of all other loans on
+Line 27(b). (See instructions for Line
+27(a) for other reporting requirements.)
+LINE 27(c). For Columns A, B and C,
+add Lines 27(a) and 27(b) to derive the
+figures for Line 27(c).
+LINE 28(a). Enter the total amount of
+contribution refunds to individuals/
+persons other than political committees
+on Line 20(a). For each person who
+receives a refund of a contribution which
+was previously itemized on Schedule
+A-P, the committee must provide on
+Schedule B-P the full name, mailing
+address, date and amount, and state
+that the purpose of the disbursement is
+a “contribution refund.”
+LINE 28(b). Enter the total amount of
+contribution refunds to political party
+committees on Line 28(b). All such
+refunds must be itemized on Schedule
+B-P, regardless of the amount. For
+each contribution refund, provide
+the full name, mailing address, date,
+amount, and state that the purpose of the
+disbursement is a “contribution refund.”
+LINE 28(c). Enter the total amount of
+contribution refunds to other political
+committees on Line 28(c). (See
+instructions for Line 28(b) for other
+reporting requirements.)
+
+LINE 28(d). For Columns A, B and
+C, add Lines 28(a), 28(b) and 28(c) to
+derive the figures for Line 28(d).
+LINE 29. Enter the total amount of other
+disbursements on Line 29. For each
+person who receives any disbursement(s)
+not otherwise disclosed that aggregates
+in excess of $200 during the election
+cycle, the committee must provide the
+full name and address of each such
+person, together with the date, amount
+and purpose of any such disbursement.
+LINE 30. For Columns A, B and C, add
+the totals on Lines 23, 24, 25, 26, 27(c),
+28(d) and 29 to derive the figures for
+Line 30.
+INSTRUCTIONS FOR PART III
+For this report only, substitute Part III
+of the Post-Election Detailed Summary
+Page, Page 3, in lieu of Line 14 of the
+Summary Page. Do not complete Line
+14 of the Summary Page for this report.
+To derive the Columns A, B and C totals
+for Part III, subtract the totals listed
+above in Line 28(d) from those listed
+for Line 17(e).
+INSTRUCTIONS FOR PART IV
+For this report only, substitute this
+part in lieu of Line 15 of the Summary
+Page. Do not complete Line 15 of the
+Summary Page for this report. To derive
+the Columns A, B and C totals for Part
+IV, subtract the totals listed above in
+Line 20(a) from those listed in line 23.
+INSTRUCTIONS FOR PART V
+LINE 31 Enter the total amount
+of items on hand to be liquidated on
+Line 31. This category is comprised of
+contributions received by the committee
+in the form of stocks, bonds, art objects
+and other similar items to be liquidated.
+The amount of such items on hand at
+the close of the reporting period must
+be disclosed on Line 31. For additional
+information regarding disclosure of
+these items, see 11 CFR 104.13(b).
+
+Federal Election Commission (Revised 03/2011), Page 3
+
+

@@ -1,0 +1,2010 @@
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+Federal Election Commission
+
+Report of Receipts and Disbursements by an Authorized Committee of
+a Candidate for the Office of President or Vice President
+(FEC DISCLOSURE FORM 3P)
+Use FEC FORM 3P to file your report.
+Listed below are the summary pages
+and schedules of FEC FORM 3P, with
+an explanation of what each discloses.
+Detailed instructions are included on the
+back of each form. These forms may be
+duplicated.
+FEC FORM 3P: Page 1, Summary
+Page
+Identifies the committee; discloses
+the committee’s total receipts and
+disbursements for the reporting period
+and the aggregate election cycle- todate.
+FEC FORM 3P: Page 2, Detailed
+Summary Page
+Summarizes receipts and
+disbursements by type of activity;
+shows reporting period and aggregate
+election cycle-to-date totals for each
+type of activity.
+FEC FORM 3P: Page 4,
+Allocation of Primary
+Expenditures by State for a
+Presidential Candidate
+Summarizes the allocation of primary
+expenditures by state; shows reporting
+period and campaign-to-date totals; to
+be used only by Presidential candidates
+receiving federal funds.
+FEC FORM 3P: Worksheet to
+Calculate Expenditures Subject
+to Overall Limitation of 2 u.S.C.
+§ 441a(b)(1)(A)
+Provides guidance concerning the
+calculation of the amount to be reported
+on Line 13 of FEC FORM 3P, Page
+1. This worksheet must be retained to
+support, in part, the amount reported
+on Line 13.
+
+FEC FORM 3P: Schedules
+A-P:	 Provides detailed information
+for each receipt that is required
+to be itemized. Use a separate
+Schedule A-P to support each
+line number that appears on the
+Detailed Summary Page.
+B-P:	 Provides detailed information
+for each disbursement that is
+required to be itemized. Use a
+separate Schedule B-P to support
+each line number that appears on
+the Detailed Summary Page.
+C-P:	 Shows all loans, endorsements
+and loan guarantees the
+committee receives or makes.
+C-P-1:	Shows all loans and lines of credit
+made by lending institutions to
+the committee.
+D-P:	 Shows debts and obligations
+owed to or by the committee that
+are required to be disclosed.
+Other Forms and Their Uses The forms
+listed below are also available. When
+ordering, please order by form number.
+FEC FORM 3P: Page 3, PostElection Detailed Summary Page
+Used for the reporting period that
+includes the general election, in lieu of
+the Detailed Summary Page and portions
+of the Summary Page. Summarizes
+receipts and disbursements by type of
+activity; shows reporting period and
+both current and upcoming election
+cycle to date totals for each type of
+activity.
+FEC FORM 2: Statement of
+Candidacy
+Used by the candidate to designate a
+Principal Campaign Committee; and, if
+applicable, to designate other authorized
+committees to receive and expend funds
+on his or her behalf.
+
+FEC FORM 1: Statement of
+Organization
+Used by all political committees to
+register under the federal election law.
+FEC FORM 8: Debt Settlement
+Plan
+Used by terminating committees to
+disclose the terms of debt settlements.
+Illegible and Non-FEC Forms
+Illegible reports and reports submitted
+on non-FEC forms are not acceptable
+and must be refiled.
+Electronic Filing
+Committees must file reports in an
+electronic format under 11 CFR 104.18
+if they have either received contributions
+or made expenditures in excess of
+$50,000 during the calendar year, or
+if they have reason to expect that they
+will exceed either of those thresholds. If
+the committee has reached this level of
+activity, DO NOT FILE THIS FORM
+ON PAPER. Instead, you must file this
+form in an electronic format. See the
+instructions for more information on
+filing electronically.
+Computerized Filing
+FEC FORM 3P may be filed
+in a computerized format, but the
+Commission must approve the
+computerized format before the report
+is filed. Submit sample formats to the
+Reports Analysis Division.
+Faxing Forms
+Reports may not be filed by FAX
+because original signatures are required.
+To request additional forms, call the
+Information Division at 800/424-9530
+or 202/694-1100.
+
+Federal Election Commission (Revised 03/2011), Page 1
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR FEC
+FORM 3P
+WHO MUST FILE
+All political committees authorized
+in writing by a candidate for the Office
+of President or Vice President must file
+reports of receipts and disbursements on
+FEC Form 3P, whether or not publicly
+funded. A political committee that is
+the authorized committee of candidates
+for both offices shall also use FEC
+Form 3P. NOTE: Committees must file
+reports in an electronic format if they
+have received contributions or made
+expenditures in excess of $50,000
+during a calendar year, or if they have
+reason to expect that they will exceed
+either of those thresholds during the
+calendar year. If the committee has
+reached this level of activity, DO NOT
+FILE THIS FORM ON PAPER. Instead,
+you must file this form in an electronic
+format.
+An authorized committee is
+considered to have reason to expect
+it will exceed the electronic filing
+threshold for the following two calendar
+years after the calendar year in which
+it exceeds $50,000 in contributions or
+expenditures. Exception: This does not
+apply to an authorized committee with
+$50,000 or less in net debts outstanding
+on January 1 of the year following
+the general election that anticipates
+terminating prior to January 1 of the next
+election year, as long as the candidate
+has not qualified as a candidate in the
+next election and does not intend to
+become a federal candidate in the next
+election.
+A new authorized committee with
+no previous receipts or expenditures is
+considered to have reason to expect it
+will exceed the electronic filing threshold
+if it exceeds $12,500 in contributions or
+expenditures during the first calendar
+quarter of the calendar year, or $25,000
+in contributions or expenditures in the
+first half of the calendar year.
+Contact the FEC for more information
+on filing electronically.
+
+WHEN TO FILE
+Election Year
+If on January 1 of the election year the
+committee has received or anticipates
+receiving contributions aggregating
+$100,000 or more, or makes or
+anticipates making expenditures of
+$100,000 or more, it shall file:
+•	 A monthly report no later than the
+20th day after the last day of the
+previous month which shall be
+complete as of the last day of that
+month.
+•	 A 12 Day Pre-Election Report no later
+than the 12th day before the general
+election in which the candidate
+seeks election and must include all
+transactions from the closing date of
+the last report filed through the 20th
+day before the election. A 12 Day
+Pre- Election Report sent by certified
+or registered mail must be mailed
+no later than the 15th day before the
+election.
+•	 A 30 Day Post-General Election
+Report no later than 30 days after
+the general election and must include
+transactions from the closing date of
+the last report filed through the 20th
+day after the general election.
+•	 A year-end report which must include
+all transactions from the closing
+date of the last report filed through
+December 31, and be filed no later
+than January 31 of the following
+calendar year.
+The 12 Day Pre-Election, 30 Day
+Post-General Election, and year-end
+reports are filed in lieu of monthly
+reports for November and December.
+If on January 1 of the election year the
+committee does not anticipate receiving
+contributions aggregating $100,000 or
+more, or does not anticipate making
+expenditures of $100,000 or more, it
+shall file:
+•	 A quarterly report no later than April
+15, July 15, October 15, and January
+31. The report shall be complete as of
+the last day of the previous calendar
+quarter.
+•	 A 12 Day Pre-Election Report no
+
+Page 2, Federal Election Commission (Revised 03/2011)
+
+later than the 12th day before any
+election in which the candidate
+seeks nomination or election and
+must include all transactions from
+the closing date of the last report
+filed through the 20th day before the
+election.
+•	 A 30 Day Post-General Election
+Report filed no later than 30 days
+after the general election and must
+include transactions from the closing
+date of the last report filed through
+the 20th day after the general election
+If the committee receives contributions
+aggregating $100,000 or more, or makes
+expenditures aggregating $100,000 or
+more, the treasurer shall begin filing
+monthly reports at the next reporting
+period.
+Non-Election Year
+During a non-election year the
+treasurer shall file either monthly or
+quarterly reports.
+Timely Filing
+A document is timely filed upon
+delivery to the appropriate office
+(see “Where to File”) by the close
+of the prescribed filing date or upon
+deposit as registered or certified mail
+in an established U.S. Post Office and
+postmarked no later than midnight of
+the day the report is due, except that a
+Pre- Election Report so mailed must be
+postmarked no later than midnight of the
+15th day before the date of the election.
+(The same is true for priority or express
+mail with delivery confirmation or an
+overnight mail service that offers online tracking.) Reports and statements
+sent by first class mail must be received
+by the appropriate office by the close
+of business of the prescribed filing
+date to be timely filed. Reports filed
+electronically must be received and
+validated by the Commission’s computer
+system on or before 11:59 p.m. Eastern
+Standard/ Daylight Savings Time on
+the prescribed filing date in order to be
+considered timely filed.
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+WHERE TO FILE
+All reports and any amendments to
+reports must be filed in original form
+with the Federal Election Commission,
+999 E Street, N.W., Washington, D.C.
+20463. Principal campaign committees
+of Presidential candidates making
+expenditures in states that have qualified
+for the Commission’s state filing waiver
+program are not required to file copies of
+their reports and statements with those
+states. All states and most territories
+have qualified for a filing waiver. A
+complete list of qualified states and
+territories is available from the Federal
+Election Commission.
+TREASURER’S
+RESPONSIBILITY
+A copy of this report shall be
+preserved by the treasurer of the political
+committee for a period of not less than
+3 years after the report was filed. The
+treasurer of the political committee is
+responsible for the timely and complete
+filing of the report and for the accuracy
+of any information contained in it.
+ELECTION CYCLE REPORTING
+Authorized committees must report
+receipts and disbursements on an
+election-cycle basis. The election cycle
+for disclosure purposes begins the day
+after the previous general election for
+a seat or office, and ends on the day of
+the next general election for that seat or
+office. See 11 CFR 100.3(b).
+REPORT PREPARATION
+•	 The reporting schedules should be
+filled out first so that the totals can
+be derived for each category.
+•	 The total figures should be carried
+forward to the Detailed Summary
+Page and then (where appropriate)
+from the Detailed Summary Page to
+the Summary Page.
+
+along with the reports of the principal
+campaign committee.
+LINE BY LINE INSTRUCTIONS
+FOR SUMMARY PAGE
+LINE 1. Print or type the complete name
+and mailing address of your committee.
+LINE 2. Enter the FEC Identification
+Number assigned to the committee.
+LINE 3. Check the appropriate box(es)
+to indicate which election(s) are covered
+by this report. For example, if a political
+committee is raising funds to pay off
+primary debts and simultaneously
+raising funds for the general election,
+check both the “Primary Election” box
+and the “General Election” box.
+LINE 4(a). Check the appropriate box
+for “Type of Report.”
+LINE 4(b). If this is an original report,
+check the “NO” box. If this is an
+amendment to a previous report, check
+the “YES” box.
+LINE 5. Enter the coverage dates (day/
+month/year) for this report. All activity
+from the ending coverage date of the last
+report filed must be included.
+LINE 6. Enter the total amount of
+cash on hand at the beginning of the
+reporting period. This amount includes:
+currency; balance on deposit in banks,
+savings and loan institutions and other
+depository institutions; certificates of
+deposit, traveler’s checks owned by
+the committee, treasury bills and other
+committee investments valued at cost.
+
+LINE 11. Transfer the total amount
+of debts and obligations owed TO the
+committee from Schedule C-P and D-P.
+LINE 12. Transfer the total amount
+of debts and obligations owed BY the
+committee from Schedule C-P and D-P.
+LINE 13. Transfer the total amount of
+expenditures subject to limitation from
+FEC Form 3P, Worksheet, item P.
+LINE 14. Subtract the aggregate election
+cycle-to-date total of contribution
+refunds, (Page 2, Form 3P, Line 28d,
+Column B), from the aggregate election
+cycle-to-date total of contributions
+(Page 2, Form 3P, Line 17e, Column B)
+to arrive at net contributions on Line 14.
+LINE 15. Subtract the aggregate
+election cycle-to-date total of offsets
+to expenditures for operating expenses
+(Page 2, Form 3P, Line 20(a), Column
+B), from the aggregate election cycleto- date total of operating expenditures
+(Page 2, Form 3P, Line 23, Column B).
+SPECIAL INSTRUCTIONS
+FOR REPORT THAT COVERS
+GENERAL ELECTION DAY
+For this report ONLY, principal
+campaign committees must fill out
+Parts III and V on Page 3 (Post-Election
+Detailed Summary Page) in lieu of filling
+out Lines 14 and 15 on the Summary
+Page. This requirement applies to the
+reporting period that includes the date
+of the general election.
+
+LINE 7. Transfer the amount from Page
+2, Form 3P, Column A of Line 22 to
+Line 7.
+LINE 8. Add Lines 6 and 7 to derive the
+figure for Line 8.
+
+•	 The Detailed Summary Page should
+be filled out before completing the
+Summary Page.
+
+LINE 9. Transfer the amount from Page
+2, Form 3P, Column A of Line 30 to
+Line 9.
+
+•	 Report s prepared by other political
+committees authorized by the
+candidate are required to be filed
+
+LINE 10. Subtract Line 9 from Line 8 to
+derive cash on hand at the close of the
+reporting period for Line 10.
+Federal Election Commission (Revised 03/2011), Page 3
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR FEC
+FORM 3P, PAGE 2
+An authorized committee must
+report the total amount of receipts and
+disbursements during the reporting
+period and during the election cycle
+on FEC Form 3P. FEC Form 3P, page
+2 (Detailed Summary of Receipts and
+Disbursements) is broken down into
+various categories of receipts and
+disbursements. Use Schedule A-P or
+Schedule B-P to list each receipt or
+disbursement required to be itemized.
+The total for each category (“Total This
+Period” from Schedule A-P or Schedule
+B-P) should then be added to unitemized
+receipts or disbursements for that
+category, and entered on the appropriate
+line of the detailed summary. If there
+are no receipts or disbursements for a
+particular category for a reporting period
+or election cycle, enter “0.”
+To derive the “election cycle-to-date”
+figure for each category, the political
+committee should add the “election
+cycle-to-date” total from the previous
+report to the “Total This Period” from
+Column A for the current report. For the
+first report filed for a election cycle, the
+“election cycle-to-date” figure is equal
+to the “Total This Period” figure.
+LINE 16. Enter total amount of federal
+funds received by the committee during
+the reporting period. These receipts must
+be itemized on Schedule A-P regardless
+of the amount.
+LINE 17(a)(i). Enter the total amount
+of itemized contributions (other than
+loans) from individuals/persons other
+than political committees on Line 17(a)
+(i). Each contribution made by a person
+who has made one or more contributions
+during the election cycle aggregating
+in excess of $200 must be itemized
+on Schedule A-P. The committee must
+provide the identification (full name,
+mailing address, occupation and name
+of employer) of the person, the date and
+amount of each contribution aggregating
+in excess of $200, the aggregate election
+cycle-to-date total and whether the
+
+contribution is for a primary, general or
+other election. LINE 17(a)(ii) Enter the
+total amount of unitemized contributions
+(other than loans) from individuals/
+persons other than political committees
+on Line 17(a)(ii). LINE 17(a)(iii) For
+Columns A, B, and C, add Lines 17(a)
+(i) and 17(a)(ii) to derive figures for
+Line 17(a)(iii).
+
+the same candidate must be included on
+this line and not on Line 19(b). These
+transfers must be itemized on Schedule
+A-P, regardless of the amount. For
+each transfer, provide the identification
+(full name and mailing address) of the
+committee, the date and amount of
+the transfer and the aggregate election
+cycle- to-date total.
+
+LINE 17(b). Enter the total amount of
+contributions (other than loans) from
+political party committees on Line
+17(b). These contributions must be
+itemized on Schedule A-P regardless
+of the amount. For each contribution,
+provide the identification (full name
+and address) of the committee, the date
+and amount of the contribution, the
+aggregate election cycle-to-date total
+and whether the contribution is for a
+primary, general or other election.
+
+LINE 19(a). Enter the total amount
+of loans made or guaranteed by the
+candidate on Line 19(a). This category
+includes personal loans from the
+candidate and loans from lending
+institutions which are secured, endorsed
+or guaranteed by the candidate and
+used in connection with the candidate’s
+campaign for Federal office. All loans
+made, guaranteed or endorsed by the
+candidate must be itemized on Schedule
+A-P, regardless of the amount. For each
+loan, provide the identification of the
+candidate (full name, mailing address,
+occupation and name of employer), the
+date and amount of the loan and the
+aggregate election cycle-to-date total
+(see also instructions for Schedule C-P1). NOTE: A loan guaranteed by the
+candidate and any other person(s) must
+be apportioned between the candidate
+on Line 17(a) and the other person(s)
+on Line 17(b).
+
+LINE 17(c). Enter the total amount of
+contributions (other than loans) from
+other political committees on Line 17(c).
+These contributions must be itemized on
+Schedule A-P regardless of the amount.
+For each contribution, include the
+aggregate election cycle-to-date total,
+and whether the contribution is for a
+primary, general or other election. Do
+not abbreviate committee names.
+LINE 17(d). Enter the total amount of
+contributions (other than loans) from the
+candidate on Line 17(d). If the candidate
+makes one or more contributions during
+the election cycle aggregating in excess
+of $200, the committee must provide on
+Schedule A- P the identification of the
+candidate (full name, mailing address,
+occupation and name of employer), the
+date and amount of each contribution
+aggregating in excess of $200, and the
+aggregate election cycle-to-date totals.
+LINE 17(e). For both Column A and
+Column B, add Lines 17(a)(iii), 17(b),
+17(c) and 17(d) to derive figures for
+Line 17(e).
+LINE 18. Enter the total amount
+of transfers from other authorized
+committees of the same candidate.
+Loans and loan repayments received
+from other authorized committees of
+
+Page 4, Federal Election Commission (Revised 03/2011)
+
+LINE 19(b). Enter the total amount of
+all other loans received on Line 19(b).
+This category includes all other types of
+loans. These loans must be itemized on
+Schedule A-P, regardless of the amount.
+For each loan provide the identification
+(full name, mailing address and where
+applicable, occupation and name of
+employer) of the person making the
+loan, the date and amount of the loan,
+the aggregate election cycle-to-date
+total and whether the loan is for a
+primary, general or other election.
+The committee must also provide on
+Schedule C-P-1 the identification of any
+endorser or guarantor and the amount of
+the endorsement or guarantee (see also
+instructions for Schedule C-P-1).
+LINE 19(c). For both Column A and
+Column B, add Lines 19(a) and 19(b) to
+derive the figures for Line 19(c).
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+LINE 20(a). Enter the total amount
+of offsets to operating expenditures
+(including refunds, rebates and
+returns of deposits) on Line 20(a).
+For each person who provides rebates,
+refunds and other offsets to operating
+expenditures aggregating in excess
+of $200 during the election cycle, the
+committee must provide on Schedule
+A-P the identification of the person,
+the date and amount of each receipt
+aggregating in excess of $200 and the
+aggregate election cycle-to-date total.
+LINE 20(b). Follow the instructions for
+line 20(a) to report offsets to fundraising
+disbursements.
+LINE 20(c). Follow the instructions for
+line 20(a) to report offsets to legal and
+accounting disbursements.
+LINE 20(d). For both Column A and
+Column B, add Lines 20(a), 20(b) and
+20(c) to derive the figures for Line 20(d).
+LINE 21. Enter the total amount of other
+receipts (including dividends, interest
+and repayments by persons of loans
+made by the committee) on Line 21. For
+each person who provides any dividends,
+interest or other receipts aggregating in
+excess of $200 during the election cycle,
+the committee must provide on Schedule
+A-P the identification of the person,
+the date and amount of each receipt
+aggregating in excess of $200 and the
+aggregate election cycle-to-date totals.
+LINE 22. For both Column A and
+Column B, add Lines 16, 17(e), 18,
+19(c), 20(d) and 21 to derive the figures
+for Line 22.
+LINE 23. Enter the total amount of
+operating expenditures on Line 23.
+Examples of operating expenditures
+are: media advertising, newspaper
+advertising, salaries, travel, rent and
+telephones. For each person who receives
+payments for operating expenditures
+aggregating in excess of $200 during
+the election cycle, the Committee must
+provide on Schedule B- P the full name
+and mailing address, date, amount and
+purpose of the expenditure (see also
+instructions for Schedule B-P).
+
+LINE 24. Enter the total amount of
+transfers to other authorized committees
+of the same candidate on Line 24. These
+transfers must be itemized on Schedule
+B-P, regardless of the amount. For
+each transfer, provide the full name
+and mailing address of the recipient
+committee, date and amount, and state
+that the purpose of the disbursement is
+a “transfer.”
+LINE 25. Enter the total amount of
+fundraising disbursements on Line
+25. For each person who receives
+payments for fundraising disbursements
+aggregating in excess of $200 during
+the election cycle, the committee must
+provide on Schedule B-P the full name
+and mailing address, date, amount and
+purpose of the disbursement.
+LINE 26. Enter the total amount of exempt
+legal and accounting disbursements
+on Line 26. For each person who
+receives payments for exempt legal and
+accounting disbursements aggregating
+in excess of $200 during the election
+cycle, the committee must provide
+on Schedule B- P the full name and
+mailing address, the date and amount
+of each disbursement aggregating in
+excess of $200 and the purpose of the
+disbursement.
+LINE 27(a). Enter the total amount
+of loan repayments of loans made or
+guaranteed by the candidate on Line
+27(a). All loan repayments must be
+itemized on Schedule B-P, regardless
+of the amount. For each person who
+receives a loan repayment, provide the
+full name, mailing address, date and
+amount, and state that the purpose of the
+disbursement is a “loan repayment” (see
+also instructions for Schedule C-P-1).
+LINE 27(b). Enter the total amount of
+loan repayments of all other loans on
+Line 27(b). (See instructions for Line
+27(a) for other reporting requirements.)
+LINE 27(c). For both Column A and
+Column B, add Lines 27(a) and 27(b) to
+derive the figures for Line 27(c).
+LINE 28(a). Enter the total amount of
+contribution refunds to individuals/
+
+persons other than political committees
+on Line 20(a). For each person who
+receives a refund of a contribution which
+was previously itemized on Schedule
+A-P, the committee must provide on
+Schedule B- P the full name, mailing
+address, date and amount, and state
+that the purpose of the disbursement is
+a “contribution refund.”
+LINE 28(b). Enter the total amount of
+contribution refunds to political party
+committees on Line 28(b). All such
+refunds must be itemized on Schedule
+B- P, regardless of the amount. For
+each contribution refund, provide the
+full name, mailing address, date and
+amount, and state that the purpose of the
+disbursement is a “contribution refund.”
+LINE 28(c). Enter the total amount of
+contribution refunds to other political
+committees on Line 28(c). (See
+instructions for Line 28(b) for other
+reporting requirements.)
+LINE 28(d). For both Column A and
+Column B, add Lines 28(a), 28(b) and
+28(c) to derive the figures for Line 28(d).
+LINE 29. Enter the total amount of other
+disbursements on Line 29. For each
+person who receives any disbursement(s)
+not otherwise disclosed that aggregates
+in excess of $200 during the election
+cycle, the committee must provide the
+full name and address of each such
+person, together with the date, amount
+and purpose of any such disbursement.
+LINE 30. For both Column A and
+Column B, add the totals on Lines 23,
+24, 25, 26, 27(c), 28(d) and 29 to derive
+the figures for Line 30.
+LINE 31. Enter the total amount of items
+on hand to be liquidated on Line 31. This
+category is comprised of contributions
+received by the committee in the form
+of stocks, bonds, art objects and other
+similar items to be liquidated. The
+amount of such items on hand at the
+close of the reporting period must be
+disclosed on Line 31. For additional
+information regarding disclosure of
+these items, see 11 CFR 104.13(b).
+
+Federal Election Commission (Revised 03/2011), Page 5
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+SPECIAL INSTRUCTIONS
+FOR REPORT THAT COVERS
+GENERAL ELECTION DAY
+For this report ONLY, principal campaign
+committees must fill out Parts I, II and
+V on Page 3 (Post-Election Detailed
+Summary Page) in lieu of filling out
+Page 2 (Detailed Summary Page). This
+requirement applies to the reporting
+period that includes the date of the
+general election.
+
+Page 6, Federal Election Commission (Revised 03/2011)
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR FEC
+FORM 3P, PAGE 4
+(See Section 106.2 Of FEC
+Regulations)
+There are five general categories of
+expenditures that are to be allocated to a
+campaign in a particular state. The sum
+of these expenditures are to be reported
+on the appropriate line for the state for
+both the reporting period and aggregate
+total-to-date. Each expenditure, in
+the categories listed below, shall be
+allocated to the state it is intended to
+influence. This is not necessarily the
+state in which the expenditure was
+incurred or paid.
+For the complete rules on Allocation
+of Expenditures to States, including
+the methods for allocating categories
+of expenditures, please refer to Title
+11 of the Code of Federal Regulations,
+section 106.2.
+Media Expenditures
+Allocable costs include expenditures
+for campaign advertising distributed
+through print media (newspapers,
+magazines, etc.), radio, television and
+similar types of advertising broadcasts.
+Media expenditures that are not allocable
+to any state need not be reported on
+this page. Such expenditures include
+those incurred for advertisements on
+national networks, national cable or
+in publications distributed nationwide,
+expenditures for media production costs
+and commissions paid in connection
+with print or broadcast media. (Costs
+of shipping material to a broadcaster or
+publisher are not production costs but are
+considered part of the allocable media
+air time or space costs.) Expenditures
+for the cost of media time or space used
+after the primary election has been held
+in a particular state are not allocable to
+that state.
+Expenditures for Mass Mailings
+and Other Campaign Materials
+Allocable costs include expenditures
+for mass mailings of more than 500
+pieces to a particular state (fundraising
+
+and political mail, newsletters, etc.), and
+expenditures for the cost of shipping
+campaign materials (pins, bumper
+stickers, hats, T-Shirts, handbills,
+posters, yard signs, etc.). Expenditures
+for the purchase of the campaign
+materials described above are not
+allocable to any state unless they are
+distributed by mass mail or print media,
+or are used in the state in which they are
+produced. Non-allocable expenditures
+need not be reported on this page.
+Overhead Expenses of State
+Offices and Other Facilities
+Allocable expenses include rent,
+utilities, equipment, furniture, supplies,
+telephone service base charges, etc.
+associated with committee offices whose
+activities are directed at a particular
+state. In addition, expenses associated
+with campaign events held in a state are
+included in allocable overhead. Such
+expenses include costs associated with
+the rental of space in which to hold the
+event, catering, furniture, sound systems,
+staging, decorations, entertainment, etc.
+Fifteen percent of overhead costs may
+be considered exempt compliance costs.
+See 11 CFR 106.2(b)(2)(iii).
+Expenditures for Special
+Telephone Programs
+Special telephone programs include
+voter registration, get-out-the-vote
+efforts, fundraising and telemarketing
+efforts conducted on behalf of the
+candidate. Expenses associated with
+a telephone program targeted at a
+particular state are allocable to that state
+regardless of the location from which the
+calls are made. Such expenses include
+the cost of designing the program, costs
+of installing or renting telephone lines
+and equipment, toll charges, personnel
+costs, consultants’ fees, related travel
+costs, and facilities rental including a
+pro rata portion of national, regional, or
+state office space used for such purposes.
+
+fees, travel costs and other expenses
+associated with designing and conducting
+the poll. Expenditures for conducting a
+nationwide public opinion poll need not
+be allocated to any state.
+Expenses that are not Allocated
+Not included among expenses that are
+allocable to each state are expenditures
+for the administration, staff and overhead
+of the national campaign headquarters.
+Also not included are salaries of staff
+working in the state or travel expenses
+for campaign staff, except as noted in
+the categories above, and consultants’
+fees which relate to national campaign
+strategy.
+Fundraising Expenditures
+Except for direct mail expenses,
+50% of all allocable expenses may be
+considered exempt fundraising. Direct
+mail expenses for mailings occurring
+more than 28 days before a primary
+election may be considered 100%
+exempt fundraising. Those occurring
+within 28 days of a state’s primary may
+be considered 50% fundraising. See 11
+CFR 110.8(c)(2).
+Allocation This Period and Total
+Allocation to Date
+The column “Allocation this
+Period” reflects all allocable operating
+expenditures made by the committee
+during the reporting period, including
+any allocable expenditures made by
+other authorized political committees
+of the candidate. The column “Total
+Allocation To Date” is derived by adding
+the “Total Allocation To Date” from
+the previous report to “Allocation This
+Period” to provide total expenditures
+subject to individual state limits for the
+campaign.
+
+Public Opinion Poll
+Expenditures
+Allocable expenses include
+expenditures incurred for consultants’
+Federal Election Commission (Revised 03/2011), Page 7
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE A-P
+Use Schedule A-P to list each
+receipt required to be itemized. DO
+NOT combine more than one category
+of receipts on the same Schedule A-P.
+Instead, use a separate Schedule A-P
+for each category of receipts. The line
+number of the Detailed Summary Page
+to which each Schedule A-P pertains
+should be identified in the upper right
+hand corner of each Schedule. In
+addition, the committee’s full name
+must be entered in the appropriate
+block. For each receipt required to be
+itemized during the reporting period,
+the political committee must provide the
+identification of the contributor, date and
+amount of the receipt, and the aggregate
+election cycle-to-date total.
+The term “identification” means, in
+the case of an individual, his or her full
+name, including: first name, middle
+name or initial, if available, and last
+name; mailing address; occupation; and
+the name of his or her employer; and, in
+the case of any other person, the person’s
+full name and address.
+The occupation and name of employer
+are only required to be provided for
+receipts from individuals. “Occupation”
+means the principal job title or position
+of an individual, whether or not self
+employed. “Employer” means the
+organization or person by whom an
+individual is employed, and not the
+name of his or her supervisor.
+Authorized committees must indicate
+the election for which the receipt was
+given. In the event the receipt was given
+for an election other than the current
+primary cycle or general election, the
+“Other” block must be checked and the
+type of election or purpose specified.
+The “aggregate election cycle-to-date”
+total must be given for each receipt
+and must equal the total amount that
+the person has given to the committee
+for that particular category of receipts
+during the election cycle. If a receipt is
+the only receipt from a person during
+the election cycle, the aggregate election
+cycle-to-date total must still be entered.
+
+The “Total This Period” amount
+(the last line on Schedule A-P) must
+be added to all other receipts for that
+category which are not itemized and
+carried forward to Column A, “Total
+This Period” of the corresponding line
+of the Detailed Summary Page.
+Contributions to a candidate or
+authorized committee which are not
+designated by the contributor for a
+specific election must be counted toward
+the contributor’s limitation for the next
+election after the contribution is made.
+Contributions may be made for a past
+election only to the extent that the
+recipient has net debts outstanding from
+that particular election. See 11 CFR
+110.1(b).
+Prohibited and Excessive
+Contributions
+If a contribution is received from a
+business entity or is drawn on what is
+or appears to be a business account,
+the political committee must determine
+that the contribution is not from a
+corporation, government contractor, or
+other prohibited source. Otherwise, it
+must be refunded within thirty days of
+its receipt.
+A contribution which appears to be
+excessive, either on its face or when
+aggregated with other contributions
+from the same person, may be
+returned or deposited into a campaign
+depository but not used. If deposited,
+the contributor may be asked if a joint
+contribution was intended and, if so,
+to submit a written reattribution of the
+contribution signed by each contributor.
+The contributor may also be asked
+to redesignate the contribution for a
+different election if such a contribution
+would otherwise be permissible. If
+no redesignation or reattribution is
+received, the excessive contribution
+must be refunded within sixty days of
+its receipt. Both redesignations and
+reattributions are to be reported as memo
+entries on the report covering the period
+in which the committee receives the
+redesignations or reattributions. Indicate
+how the contribution(s) was reported
+initially, followed by the redesignated
+or reattributed entry(ies). See 11 CFR
+
+Page 8, Federal Election Commission (Revised 03/2011)
+
+104.8 for the reporting of these types
+of contributions. Committees receiving
+public funds should also see 11 CFR
+9003.3.
+Contributions In-Kind
+Contributions in-kind (i.e., goods
+and services provided to a political
+committee) are treated as any other
+contribution and must be reported and
+itemized under the appropriate category
+of receipts. For example, a contribution
+in-kind from an individual must be
+itemized on Schedule A-P and reported
+under the category for “Contributions
+From Individuals/Persons Other Than
+Political Committees.” The value of each
+contribution in-kind must be entered in
+the “Amount of Each Receipt This
+Period” column. The amount or value of
+the contribution in-kind is the difference
+between the usual and normal charge for
+the goods or services at the time of the
+contribution and the amount charged
+the political committee. The “aggregate
+election cycle-to-date” total must include
+the total amount of all contributions
+that the person has contributed to the
+committee during the election cycle.
+The item must be labeled “contribution
+in-kind” and include the nature of the
+contribution (e.g., consulting, polling,
+etc.). Each contribution in-kind must
+also be reported in the same manner as
+an operating expense on Schedule B-P
+for the appropriate Line (e.g., Line 23,
+Operating Expenditures) and included
+in the total for that line number.
+Earmarked Contributions
+For each earmarked contribution
+received (regardless of the amount),
+the political committee must report on
+Schedule A-P the name and address of the
+original contributor, the date of receipt
+and the amount of the contribution
+and, if the original contributor makes
+contributions aggregating in excess of
+$200 to the political committee during
+the election cycle, the occupation and
+name of employer. If the contribution
+passes through a political committee
+or Federal candidate, the conduit
+(intermediary) committee must disclose
+each contribution, regardless of the
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+amount, on both Schedule A-P and
+Schedule B-P and include the amount
+under the appropriate category of
+receipts and disbursements. If the
+contribution was passed on in the form
+of the contributor’s check, the conduit
+must disclose each contribution on a
+separate Schedule A-P attached to the
+conduit’s next report and the amounts
+of such contributions are not required
+to be included in the totals for the
+appropriate categories of receipts and
+disbursements. If a political committee
+is not a conduit, but is the intended
+recipient, the political committee must
+report each conduit through which
+the earmarked contribution passed,
+including the name and address of the
+conduit, and whether the contribution was
+passed on in cash, by the contributor’s
+check, or by the conduit’s check. If the
+conduit exercises direction and control
+over the contribution, the earmarked
+contribution must also be attributed
+to the contribution limitations of the
+conduit.
+
+must also be itemized as a negative entry
+on Schedule A-P. If the receipt of the
+check was not required to be reported,
+the return of the check should not be
+reported.
+Best Efforts
+When the treasurer of a political
+committee shows that best efforts have
+been used to obtain, maintain and submit
+the information required, the committee
+shall be considered in compliance with
+the Act. For a detailed explanation
+of when the Treasurer has exercised
+“Best Efforts,” see section 104.7 of
+the Commission’s regulations (11 CFR
+104.7).
+
+Partnership Contributions
+A contribution from a partnership
+must be itemized if it is in excess of or it
+aggregates in excess of $200 during the
+election cycle. If the portion attributed
+to a single partner exceeds $200 during
+the election cycle, or exceeds $200 when
+aggregated with previous contributions
+from that individual during the election
+cycle, the required information for that
+individual’s contribution must also
+be itemized as a memo entry to the
+partnership contribution. See 11 CFR
+110.1(e) and 11 CFR 104.3(a).
+Checks Returned Due to
+Insufficient Funds
+If a contributor’s check is returned
+to the political committee due to
+insufficient funds and the receipt of
+the check was previously reported, the
+political committee must report the
+return under the appropriate category of
+receipts as a negative entry and thereby
+net out the amount of the check from
+the total for that category. If the original
+receipt of the check was itemized on
+Schedule A-P, the return of the check
+Federal Election Commission (Revised 03/2011), Page 9
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE B-P
+GENERAL
+U s e Schedule B-P to list each
+disbursement required to be itemized.
+DO NOT combine more than one
+category of disbursements on the same
+Schedule B-P. Instead, use a separate
+Schedule B-P for each category of
+disbursements. The line number of
+the Detailed Summary Page to which
+each Schedule B-P pertains should
+be identified in the upper right hand
+corner of each Schedule. In addition, the
+committee’s full name must be entered
+in the appropriate block.
+For each disbursement required to be
+itemized during the reporting period, the
+political committee must provide the full
+name, mailing address, date, amount,
+and purpose of the disbursement.
+The term “purpose” means a brief
+statement or description of why the
+disbursement was made. Examples
+of adequate descriptions include the
+following: dinner expenses, media,
+salary, polling, travel, party fees, phone
+banks, travel expenses, travel expense
+reimbursement, and catering costs.
+However, statements or descriptions
+such as “advance,” “election day
+expenses,” “other expenses,” “expense
+reimbursement,” “miscellaneous,”
+“outside services,” “get-out-the-vote,”
+and “voter registration,” would not
+meet the requirement for reporting the
+purpose of an expenditure.
+
+For each contribution to a Federal
+candidate or authorized committee
+indicate in the election check-off box
+the election for which the contribution
+was made. In the event the contribution
+was made for an election prior to the
+current election cycle, the “Other”
+block must be checked and the type of
+election specified (e.g., “General 2000,”
+“Primary 2000”). The election check-off
+boxes provided for each itemized entry
+on Schedule B-P should not be used
+when itemizing operating expenditures.
+The “Total This Period” amount (the last
+line on Schedule B-P) must be added to
+all other disbursements for that category
+that are not itemized and carried forward
+to Column A of the corresponding line
+of the Detailed Summary Page.
+MISCELLANEOUS
+CONTRIBUTIONS IN-KIND	
+Contributions in-kind received by
+the committee which are itemized on
+Schedule A-P must also be itemized for
+the appropriate line number on Schedule
+B-P. In addition, in the “Purpose of
+Disbursement” box include the notation
+“Contribution In-Kind,” and the nature
+(e.g., computers, polling, etc.).
+VOID CHECKS
+Disbursements that are reported and
+later voided should be adjusted by
+a negative entry to the appropriate
+category of disbursement. If the original
+check was itemized on Schedule B-P, the
+negative entry reversing the disclosure
+should also be itemized.
+
+For disbursements that are contributions
+to Federal candidates or authorized
+committees, the committee must include
+under “Purpose of Disbursement” the
+name of the candidate and office sought
+(including State and congressional
+district, where applicable) and the
+aggregate election cycle-to-date
+total of contributions made to that
+candidate or committee in the purpose
+of disbursement box.
+Page 10, Federal Election Commission (Revised 03/2011)
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE C-P
+All loans (regardless of amount) must
+be disclosed on the first report filed with
+the Commission after the date the loan
+is made. When filling out Schedule C-P,
+the committee must enter its full name
+in the box at the top of the page, and use
+a separate Schedule C-P for loans owed
+TO the committee and loans owed BY
+the committee.
+LOANS OWED BY THE
+COMMITTEE
+Itemize each loan received by
+the committee on Schedule A-P for
+the appropriate line of the Detailed
+Summary page an also disclose it on
+Schedule C-P and Schedule C-P-1 (if
+applicable). For each loan owed BY
+the reporting committee, the committee
+must report certain basic information on
+Schedule C-P in the appropriate boxes:
+(1) full name and mailing address of
+the creditor; (2) the election to which
+the loan applies (i.e., primary, general
+or other); (3) the original amount of
+the loan; (4) the cumulative payment to
+date on the loan; and (5) the outstanding
+balance at the close of the reporting
+period (i.e., the remaining unpaid
+portion of the loan).
+If an intermediary is reported as the
+source of the loan, the original source
+of the loan must be disclosed in the first
+box for endorsers and guarantors with a
+notation that the person identified is the
+original source.
+Enter certain additional information
+on Schedule C-P in the box entitled
+TERMS: (1) the date the obligation was
+incurred; (2) the date the loan is due or
+the amortization schedule (if there is no
+due date or amortization schedule, enter
+“None” on the appropriate line); (3) the
+actual rate of interest charged on each
+loan (if the loan does not bear an interest
+rate, enter “None” on the appropriate
+line); and (4) check the box if the loan
+has been secured.
+In instances where the loan has
+endorsers or guarantors, the following
+
+information must be supplied: (1)
+the identification of each endorser or
+guarantor, and (2) the amount of the
+endorsement or guarantee outstanding
+at the close of the reporting period. The
+term “identification” means (a) in the
+case of an individual, his or her full
+name, mailing address, occupation, and
+name of employer; and (b) in the case of
+any other person, the person’s full name
+and address.
+In instances where the loan is derived
+from either a bank loan to the candidate
+or from an advance on the candidate’s
+brokerage account, credit card, home
+equity line of credit or other line of
+credit, report the candidate as the source
+of the loan on Schedule C-P. In addition
+to reporting the terms of the loans in the
+appropriate boxes, disclose the type/
+source of loan the candidate received
+(i.e., bank loan, brokerage account,
+credit card, home equity line of credit,
+other line of credit, or personal funds
+of the candidate) in the first box for
+endorsers and guarantors with a notation
+for loan type or in the box for “Loan
+Source” after the candidate’s name.
+Continue to report loans owed BY
+the committee on Schedule C-P of
+each subsequent report until repaid.
+When a payment is made to reduce or
+extinguish the amount of a loan owed
+BY the committee, the payment must
+be itemized on Schedule B-P, reported
+on the appropriate line of the Detailed
+Summary Page, and included in the
+“Cumulative Payment to Date” column
+on Schedule C-P. If any extension for
+repayment is granted, this should be
+reported on the first report after the
+extension is made, along with the new
+terms or conditions of the extension.
+If a loan is settled for less than
+the reported amount, the reporting
+committee must include a statement
+as to the circumstances and conditions
+under which the debt or obligation was
+extinguished and the amount paid. A
+loan owed BY a political committee
+which is forgiven or settled for less
+than the amount owed is a contribution.
+Enter the total amount of loans owed
+BY the committee at the close of the
+reporting period on the line for “Total
+
+This Period” on the bottom of the last
+page and transferred to Line 3 of the
+last page of Schedule D-P. If no debts or
+obligations are reported on Schedule DP, carry the outstanding balance reported
+for Schedule C-P forward to Line 12 of
+the Summary Page.
+LOANS OWED TO THE
+COMMITTEE
+A loan made by the committee must
+be itemized on Schedule B-P and must
+also be disclosed on Schedule C-P. For
+each loan owed TO the committee, the
+committee must report certain basic
+information on Schedule C-P in the
+appropriate boxes: (1) the full name and
+mailing address of each debtor; (2) if the
+loan was made to a Federal candidate
+or authorized committee, the election
+to which the loan applies (i.e., primary,
+general or other); (3) the original
+amount of the loan; (4) the cumulative
+payment to date on the loan; and (5)
+the outstanding balance at the close of
+the reporting period (i.e., the remaining
+unpaid portion of the loan).
+Certain additional information must
+be entered on Schedule C-P in the
+box entitled TERMS: (1) the date the
+obligation was incurred; (2) the date
+the loan is due or the amortization
+schedule (if there is no due date or
+amortization schedule, enter “None”
+on the appropriate line); (3) the actual
+rate of interest charged on the loan (if
+the loan does not bear an interest rate,
+enter “None” on the appropriate line);
+(4) check the box if the loan has been
+secured. Continue to report loans owed
+TO the committee on each subsequent
+report until repaid. When a payment
+is received to reduce or extinguish
+a loan owed TO the committee, the
+payment must be itemized on Schedule
+A-P, reported on the appropriate line
+of the Detailed Summary Page, and
+included in the “Cumulative Payment
+to Date” column on Schedule C-P. If
+any extension for repayment is granted
+or made, this should be reported on the
+first report after the extension is made,
+along with the new terms or conditions
+of the extension.
+
+Federal Election Commission (Revised 03/2011), Page 11
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+Enter the total amount of loans owed
+TO the committee at the close of the
+reporting period on the line for “Total
+This Period” on the bottom of the last
+page and transferred to Line 3 of the
+last page of Schedule D-P. If no debts or
+obligations are reported on Schedule DP, carry the outstanding balance reported
+on Schedule C-P forward to Line 11 of
+the Summary Page.
+MISCELLANEOUS
+LOANS BY FINANCIAL
+INSTITUTIONS
+A loan of money by a State bank,
+a federally chartered depository
+institution (including a national bank)
+or a depository institution whose
+deposits and accounts are insured
+by the Federal Deposit Insurance
+Corporation, the Federal Savings and
+Loan Insurance Corporation, or the
+National Credit Union Administration
+is not a contribution or an expenditure
+by the lending institution if the loan is
+made in accordance with applicable
+banking laws and regulations and is
+made in the ordinary course of business.
+(See 11 CFR 100.82 and 100.142). A
+Schedule C-P-1 must be filed for each
+loan and line of credit obtained from a
+lending institution. (See Schedule C-P-1
+instructions.)
+CANDIDATE LOANS
+When a candidate obtains a loan that
+is then loaned or given to the campaign
+to influence the candidate’s election
+to federal office, the information the
+principal campaign committee must
+disclose depends on the source of the
+money being loaned. If the candidate
+obtains a bank loan or a loan of money
+derived from an advance on the
+candidate’s brokerage account, credit
+card, home equity line of credit or
+other line of credit, only the candidate
+needs to be listed as the source of the
+loan on Schedule C-P. The type of
+loan the candidate receives (i.e., bank
+loan, brokerage account, credit card,
+home equity line of credit, other line of
+credit, personal funds of the candidate)
+must also be disclosed in either the first
+
+box for endorsers or guarantors with a
+notation for loan type or in the box for
+“Loan Source” after the candidate’s
+name. The term of the loan between
+the candidate and the committee (not
+the terms between the candidate the
+lending institution) must be reported
+in the appropriate boxes along with
+information regarding the endorsers
+and guarantors. If the candidate obtains
+a loan from another person, list the
+other person as the original source
+of the loan and the candidate as the
+intermediary. Loans obtained by an
+individual prior to becoming a candidate
+that are subsequently used to influence
+the candidate’s election to Federal office
+must be reported as an outstanding loan
+owed to the candidate by the principal
+campaign committee, if the loan is
+outstanding at the time an individual
+becomes a candidate.
+LOANS BY POLITICAL
+COMMITTEES
+If a political committee makes a
+loan TO any person, the loan shall be
+subject to the contribution limitations.
+Repayments to the political committee
+of the principal amount of the loan is not
+a contribution by the debtor to the lender
+committee. (See 11 CFR 100.52(b)(5)).
+ENDORSERS AND
+GUARANTORS
+A loan is a contribution by each
+endorser or guarantor. Each endorser
+or guarantor shall be deemed to have
+contributed that portion of the total
+amount of the loan for which he or
+she agreed to be liable in a written
+agreement. (See 11 CFR 100. 52(b)(5)).
+LOAN REPAYMENTS
+Each committee must disclose all
+loan repayments received or made by the
+committee. When a loan repayment is
+received by a committee, the repayment
+must be itemized on Schedule A-P and
+included in the “Cumulative Payment
+to Date” column on Schedule C-P.
+When a loan repayment is made by
+a committee, the repayment must be
+itemized on Schedule B-P and included
+
+Page 12, Federal Election Commission (Revised 03/2011)
+
+in the “Cumulative Payment to Date”
+column on Schedule C-P. Disclose the
+total amount of loan repayments of loans
+made or guaranteed by the candidate
+and the total amount of loan repayments
+of all other loans on the appropriate
+lines of the Detailed Summary Page. 	
+For candidate loans, the candidate’s
+authorized committee may repay the
+loan directly to the candidate or to
+the original lender. The amount of
+repayment must not exceed the amount
+of the principal used for the purpose
+of influencing the candidate’s election
+for Federal office and interest that
+has accrued on that principal. When
+repayments are made to the candidate
+for candidate loans, the committee is
+not required to report the repayments
+made by the candidate to the lending
+institution.
+Background:
+1. FEC Regulations on Loans
+from Lending Institutions
+Schedule C-P-1 seeks information
+on loans—including lines of credit—
+from lending institutions such as state
+or federally chartered banks, federally
+insured savings and loan associations
+or federally insured credit unions. The
+purpose of Schedule C-P-1 is to verify
+that a loan or line of credit does not
+result in a prohibited contribution from
+the lending institution, a violation of the
+federal campaign finance law.
+Under FEC regulations at 11 CFR
+100.82 and 100.142, a loan “made in
+accordance with applicable banking
+laws” and “in the ordinary course of
+business” is not considered a contribution
+or an expenditure if certain conditions
+are met. One of these conditions is that
+the loan “is made on a basis which
+assures repayment.” Schedule C-P-1
+documents whether or not the loan
+complies with these requirements.
+2. FEC Regulations on Loans
+from the Candidate to the
+Committee
+Schedule C-P-1 also seeks information
+when a candidate obtains a bank loan or
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+a loan derived from an advance on the
+candidate’s brokerage account, credit
+card, home equity line of credit, or other
+line of credit available to the candidate,
+including an overdraft made on a
+personal checking or savings account of
+the candidate and that loan is used for the
+purpose of influencing the candidate’s
+election for Federal office. The loan
+must be made in accordance with
+applicable law and under commercially
+reasonable terms, and the person making
+the loan to the candidate must make
+loans in the normal course of business.
+Who Must File Schedule C-P-1
+A political committee authorized by
+a candidate for President that obtains a
+loan or line of credit from a bank or other
+lending institution must file Schedule
+C-P-1. An authorized committee must
+also file Schedule C-P-1 when the
+candidate obtains a bank loan or loan of
+money derived from an advance on the
+candidate’s brokerage account, credit
+card, home equity line of credit, or other
+line of credit and the borrowed funds are
+used for the purpose of influencing the
+candidate’s election for Federal office.
+11 CFR 104.3(d)(1). (See Schedule C-P
+instructions on Candidate Loans.)
+When to File Schedule C-P-1
+A Schedule C-P-1 must be filed
+for each loan and each line of credit
+obtained from a lending institution.
+Or from a candidate, when the loan is
+derived from a bank loan or from an
+advance on the candidate’s brokerage
+account, credit card, home equity line
+of credit or other line of credit. 11 CFR
+104.3(d)(1).
+Loans. A committee must file a Schedule
+C-P-1 with its next report when it
+first obtains a loan and in succeeding
+reporting periods each time the terms
+of the loan are restructured. 11 CFR
+104.3(d)(1) and (3). (A restructured loan
+is considered a new loan.)
+Lines of Credit. A committee must file
+a Schedule C-P-1 with its next report
+when a line of credit is established and
+in succeeding reporting periods each
+
+time any draws are made on the line of
+credit and each time the line of credit
+is restructured to change the repayment
+terms. 11 CFR 104.3(d)(1) and (3).
+Reporting Loans and Lines of
+Credit on Schedules A-P and C-P
+Schedule A-P. When a candidate or
+committee obtains a loan that is used
+for the purpose of influencing the
+candidate’s election for Federal office,
+the committee must itemize the receipt
+on a Schedule A-P for the appropriate
+line number. However, a line of credit is
+itemized on Schedule A-P only when the
+candidate or committee obtains funds by
+making a draw on the credit.
+Schedule C-P. All loans from lending
+institutions must be continuously
+disclosed on Schedule C-P, starting with
+the first report due after the committee
+obtains the loan and continuing with
+each report thereafter until the loan is
+repaid.
+Line-by-Line Instructions
+Schedule C-P Cross-Reference. Enter
+the Schedule C-P page number where
+information on the loan or line of credit
+appears on the “Supplementary” line.
+Name of Committee Obtaining Loan.
+Enter the full name of the reporting
+committee.
+Identification Number. Enter the
+reporting committee’s FEC identification
+number. If the committee is newly
+registered and has not yet obtained a
+number, enter “not yet assigned.”
+
+credit made to the committee directly
+from a lending institution, enter the
+amount of the loan or line of credit.
+If reporting a restructured loan or line
+of credit, enter the amount under the
+new terms. 11 CFR 104.3(d)(1)(i) and
+(3). If a candidate obtains a loan from
+a bank or derived from an advance on
+a brokerage account, credit card, home
+equity line of credit or other line of credit
+and contributes or loans some or all of
+that amount to the committee for the
+purpose of influencing the candidate’s
+election for Federal office report here
+only the amount used for the purpose of
+influencing the candidate’s election for
+Federal office. For loans derived from a
+draw on the candidate’s line of credit the
+committee need only report the amount
+of the draw in this section, and not the
+entire amount of the line of credit.
+Interest Rate. Enter the annual
+percentage rate (APR) of interest on the
+loan or each draw on the line of credit.
+If reporting a restructured loan or line of
+credit, enter the interest rate under the
+new terms. 11 CFR 104.3(d)(1)(ii) and
+(3). For loans from the candidate that are
+obtained from a bank or derived from an
+advance on the candidate’s brokerage
+account, credit card, home equity line
+of credit or other line of credit, provide
+the interest rate for the loan from the
+lending institution to the candidate, not
+the interest rate for the loan from the
+candidate to the committee.
+
+Name/Address of Lender. Enter the
+full name, address and zip code of
+the lending institution. For loans from
+the candidate that are obtained from
+a bank or derived from an advance
+on the candidate’s brokerage account,
+credit card, home equity line of credit
+or other line of credit, the lending
+institution’s full name and address
+should be provided, rather than that of
+the candidate.
+
+Date Incurred or Established. Enter
+the date the candidate or committee
+incurred the debt by signing the loan
+agreement (the original agreement or a
+restructured agreement, as appropriate).
+11 CFR 104.3(d)(1)(i) and (3). For loans
+from the candidate that are obtained
+from a bank or derived from an advance
+on the candidate’s brokerage account,
+credit card, home equity line of credit
+or other line of credit, provide the date
+incurred or established for the loan from
+the lending institution to the candidate,
+not the date incurred or established
+for the loan from the candidate to the
+committee.
+
+Loan Amount. For loans or lines of
+
+Due Date. Enter the date on which full
+
+Federal Election Commission (Revised 03/2011), Page 13
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+repayment of the loan or line of credit is
+due (under the original agreement or a
+restructured agreement, as appropriate).
+11 CFR 104.3(d)(1)(ii) and (3). The due
+date is not required for a loan of money
+from an advance on the candidate’s
+brokerage account, credit card, home
+equity line of credit, or other line
+of credit and such loans used in the
+candidate’s campaign.
+A. Restructured Loans. Check yes
+if the loan or line of credit has been
+restructured to change the terms; enter
+the date on which the original loan or
+line of credit was incurred. 11 CFR
+104.3(d)(3).
+B. Draws on Line of Credit. If
+reporting a draw on a line of credit,
+enter the amount of the draw and the
+outstanding balance owed on the line
+of credit (cumulative draws less any
+repayments made). 11 CFR 104.3(d)
+(1)(ii). This information is not required
+for loans derived from the candidate’s
+home equity line of credit or other line
+of credit and used for the purpose of
+influencing the candidate’s election for
+Federal office.
+C. Secondary Sources of Repayment.
+Check yes if the loan or line of credit was
+endorsed or guaranteed by secondary
+parties. 11 CFR 104.3(d)(1)(iii).
+Information on endorsers and guarantors
+must be disclosed on Schedule C-P.
+(Note that guarantees and endorsements
+of loans are considered contributions;
+see Schedule C-P instructions.)
+D. Traditional Collateral. Check yes
+if the loan or line of credit was obtained
+using traditional sources of collateral,
+and list the specific assets that were
+pledged. Enter the total fair market
+value of the collateral as of the date of
+the loan agreement. Indicate whether the
+lender has a perfected security interest in
+the collateral. 11 CFR 104.3(d)(1)(iii).
+(Note that a perfected security interest
+is a requirement under FEC regulations.
+11 CFR 100.82(e)(1)(i)and 100.142(e)
+(2)(iii).)
+E. Future Receipts as Collateral.
+Check yes if the loan or line of credit
+was obtained using future receipts as
+collateral; list the types of receipts that
+
+were pledged; and enter their estimated
+amount. 11 CFR 104.3(d)(1)(iii). Enter
+the date the separate account was
+established for the deposit of pledged
+receipts. (A depository account is
+required under 11 CFR 100.82(e)(1)
+(i)and 100.142(e)(2)(iii).) Provide the
+full name and address of the depository
+institution where the account was
+established. Enter the date on which the
+candidate or committee authorized the
+U.S. Treasury to make direct deposits
+of public financing payments to the
+account.
+F. Other Means of Obtaining Loan.
+Complete this section if “no” was
+checked in sections C, D, and E or if
+the amount cosigned and/or pledged for
+the loan or line of credit is less than the
+loan amount. If so, state the basis upon
+which the loan was made and the basis
+on which it assures repayment. 11 CFR
+104.3(d)(1)(iv).
+G. Treasurer’s Signature and Date.
+The committee treasurer (or properly
+designated assistant treasurer) must
+sign and date the form; the signer’s
+name should be printed or typed beside
+the signature. The treasurer’s signature
+and date are not required for bank
+loans obtained by the candidate or a
+loan of money from an advance on the
+candidate’s brokerage account, credit
+card, home equity line of credit, or other
+line of credit.
+H. Copy of Loan Agreement. Attach
+a copy of the signed agreement. 11
+CFR 104.3(d)(2). A copy of the loan
+agreement is not required for bank
+loans obtained by the candidate or a
+loan of money from an advance on the
+candidate’s brokerage account, credit
+card, home equity line of credit, or other
+line of credit.
+I. Lender Certification. An authorized
+representative of the lending institution
+must sign and date the form to certify
+that the lender has complied with items I
+through III. 11 CFR 104.3(d)(1)(v). The
+representative’s name should be printed
+or typed beside his or her signature.
+The representative’s title must also be
+entered. Lender certification is no longer
+required for bank loans obtained by the
+candidate or a loan of money from an
+
+Page 14, Federal Election Commission (Revised 03/2011)
+
+advance on the candidate’s brokerage
+account, credit card, home equity line
+of credit, or other line of credit.
+
+INSTRUCTIONS FOR FEC FORM 3P AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE D-P
+When filling out Schedule D-P, the
+committee must enter its full name in
+the box at the top of the page. 	 D O
+NOT combine debts and obligations
+owed to the committee with those owed
+by the committee on the same Schedule
+D-P. Instead, use a separate Schedule
+D-P.
+DEBTS AND OBLIGATIONS
+OWED BY THE COMMITTEE
+(Other Than Loans)
+For debts and obligations owed BY
+the reporting committee at the close
+of the reporting period and which are
+required to be disclosed, the committee
+must report the full name and mailing
+address of each creditor, the amount of
+the debt outstanding at the beginning
+of the period, the amount of the debt
+or obligations incurred this period
+(including any finance charges), the
+pay- ment(s) this period to retire the
+debt or obligation, the outstanding
+balance at the close of the reporting
+period, and the nature or purpose of the
+debt or obligation. The terms “nature”
+and “purpose” mean a brief statement
+or description of why the debt or
+obligation was incurred (e.g., media,
+salary, polling, supplies, mailing).
+A written contract (including a media
+contract), promise, or agreement to make
+an expenditure that has not been paid
+for by the committee is an expenditure
+as of the date the contract, promise or
+obligation is made, and is subject to
+the reporting requirements. Accounts
+payable and written contracts, promises,
+or agreements to make expenditures in
+amounts of $500 or less need not be
+disclosed until outstanding for sixty
+days or more. Note that special reporting
+rules apply when an individual makes
+an advance for a good or service, but
+expects to be reimbursed. See the
+instructions for reporting “reimbursed
+advances by staff” in the Campaign
+Guide for Congressional Candidates
+(also applicable to Presidential
+candidate), Chapter 13.
+
+Debts and obligations owed BY
+the committee must continue to be
+reported on each subsequent report
+until extinguished or settled in a
+manner permitted by Federal Election
+Commission regulations (see 11 CFR
+Part 116 for settlement of debts). When a
+payment is made to reduce or extinguish
+an obligation owed BY the committee,
+the payment must be itemized on
+Schedule B-P, reported on the appropriate
+line of the Detailed Summary Page, and
+included in the “Payment This Period”
+column on Schedule D-P. If a debt or
+obligation is settled for less than the
+reported amount or value, the reporting
+committee must include a statement
+as to the circumstances and conditions
+under which the debt or obligation was
+extinguished and the amount paid. A debt
+owed BY a political committee which
+is forgiven or settled for less than the
+amount owed is a contribution unless the
+debt is forgiven or settled in accordance
+with 11 CFR Part 116. The extension of
+credit by any person for a length of time
+beyond normal business or trade practice
+is a contribution, unless the creditor has
+made a commercially reasonable attempt
+to collect the debt. The total amount of
+debts and obligations owed BY the
+committee at the close of the reporting
+period must be entered at the bottom of
+the last page under “Total this Period”
+and added to the total loans owed BY the
+committee from Schedule C-P. The total
+amount of debts and obligations owed
+BY the committee (including loans)
+must be carried forward to Line 12 of
+the Summary Page.
+
+and the nature or purpose of the debt
+or obligation. The terms “nature” and
+“purpose” mean a brief statement or
+description of why the debt or obligation
+was incurred (e.g., media, salary, polling,
+supplies, mailing).
+Debts and obligations owed TO
+the committee must continue to be
+reported on each subsequent report
+until extinguished or settled in a manner
+permitted by the Federal Election
+Commission regulations (see 11 CFR
+Part 116 for settlement of debts).
+When a payment is received to reduce
+or extinguish a debt or obligation
+owed TO the committee, the payment
+must be itemized on Schedule A-P,
+reported on the appropriate line of the
+Detailed Summary Page, and included
+in the “Payment this Period” column
+on Schedule D-P. Written contracts or
+agreements (such as signed pledge cards)
+or oral promises to make contributions
+are not required to be reported. The total
+amount of debts and obligations owed
+TO the committee at the close of the
+reporting period must be entered at the
+bottom of the last page under “Total This
+Period” and added to the loans owed TO
+the committee from Schedule C-P. The
+total amount of debts and obligation
+owed TO the committee (including
+loans) must be carried forward to Line
+11 of the Summary Page for FEC Form
+3P, Page 1.
+
+DEBTS AND OBLIGATIONS
+OWED TO THE COMMITTEE
+(Other Than Loans)
+For each debt and obligation owed
+TO the committee at the close of the
+reporting period, the committee must
+report: the full name and mailing
+address of each creditor, the amount of
+the debt outstanding at the beginning
+of the period, the amount of the debt
+or obligation incurred this period, the
+payment(s) this period to retire the debt
+or obligation, the outstanding balance
+at the close of the reporting period,
+Federal Election Commission (Revised 03/2011), Page 15
+
+

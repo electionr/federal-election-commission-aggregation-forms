@@ -1,0 +1,681 @@
+INSTRUCTIONS FOR FEC FORM 3L
+
+Federal Election Commission
+
+INSTRUCTIONS FOR FEC FORM 3L
+This form implements disclosure
+requirements set forth in 2 U.S.C.
+434(i) and 11 CFR 104.22.
+Who Must File
+
+Form 3L is filed by authorized committees of federal candidates, political
+party committees and Leadership
+PACs (collectively “reporting committees”) that receive certain bundled
+contributions from lobbyists/registrants and lobbyist/registrant PACs.
+Note: Political committees (except
+for principal campaign committees of Senate candidates and other
+political committees that support or
+oppose only Senate candidates) must
+file reports in an electronic format if
+they have either received contributions or made expenditures in excess
+of $50,000 during a calendar year, or
+if they have reason to expect that they
+will exceed either of those thresholds
+during the calendar year.
+A committee is considered to have
+reason to expect it will exceed the electronic filing threshold for the following
+two calendar years after the calendar
+year in which it exceeds $50,000 in
+contributions or expenditures.
+A new committee with no previous
+contributions or expenditures is considered to have reason to expect it will
+exceed the electronic filing threshold if
+it exceeds $12,500 in contributions or
+expenditures during the first quarter
+of the calendar year, or $25,000 in
+contributions or expenditures in the
+first half of the calendar year.
+If the committee has exceeded or
+expects to exceed this level of activity,
+DO NOT FILE THIS FORM ON
+PAPER. Instead, you must file this
+form in an electronic format.
+Contact the FEC for more information on filing electronically.
+
+Federal Election Commission (Revised 03/09)
+
+When to File
+
+Reporting committees generally
+file FEC Form 3L according to their
+regular quarterly or monthly schedule. Reports filed in January and July
+also cover the semi-annual period. A
+reporting committee must file FEC
+Form 3L for a covered period if
+within that covered period it receives
+two or more bundled contributions
+forwarded by, or credited to, a lobbyist/registrant or lobbyist/registrant
+PAC, and the contributions aggregate
+in excess of the reporting threshold.
+For calendar year 2009 that threshold
+is $16,000, per lobbyist/registrant or
+lobbyist/registrant PAC, per covered
+period.
+Authorized Committees of House
+and Senate Candidates: A House or
+Senate campaign committee with
+bundled contributions in excess of the
+reporting threshold during the covered
+period files FEC Form 3L at the same
+time as its FEC Form 3.
+In any calendar year in which there
+is a “regular” November general election for which the candidate is seeking
+nomination for election or election,
+the reporting deadlines for an authorized committee’s covered periods are
+as follows:
+•Reports for the quarterly covered
+periods are filed no later than April
+15, July 15, October 15 of that election year and January 31 of the following calendar year. These reports
+are required if the committee receives
+bundled contributions in excess of
+the reporting threshold during the
+quarter. Quarterly reports filed on
+July 15 and January 31 must also disclose total reportable bundled contributions for the semi-annual covered
+periods of January 1 through June
+30, and July 1 through December 31,
+respectively. A quarterly report need
+not be filed if a Pre-Election report is
+filed during the period beginning on
+
+the 5th day and ending on the 15th
+day after the close of the calendar
+quarter.
+•Reports for the 12-Day Pre-Election
+covered period include activity from
+the day after the closing date of the
+last report filed through the 20th day
+before the election and are filed no
+later than the 12th day before any
+primary or general election in which
+the candidate seeks election. These
+reports are required if the committee receives bundled contributions
+in excess of the reporting threshold
+during the pre-election covered
+period. A 12-Day Pre-Election
+report sent by certified or registered
+mail must be mailed no later than the
+15th day before the election.
+•Reports for the 30-Day Post-General
+Election covered period include
+activity from the day after the closing
+date of the last report filed through
+the 20th day after the election and are
+filed no later than 30 days after the
+general election. These reports are
+required if the committee receives
+bundled contributions in excess of
+the reporting threshold during the
+post-election covered period.
+In any other calendar year, reports
+for the quarterly covered periods are
+filed no later than April 15, July 15,
+October 15 of that calendar year and
+January 31 of the following calendar
+year. These reports are required if the
+committee receives bundled contributions in excess of the reporting threshold during the quarter. Quarterly
+reports filed on July 15 and January
+31 must also disclose total reportable
+bundled contributions for the semiannual covered periods of January 1
+through June 30, and July 1 through
+December 31, respectively.
+Political Party Committees and
+Leadership PACs: A party committee or Leadership PAC with bundled
+contributions in excess of the reporting threshold during a covered period
+1
+
+INSTRUCTIONS FOR FEC FORM 3L
+files FEC Form 3L at the same time as
+its FEC Form 3X. However, reporting
+committees that file Form 3X on a
+monthly basis may choose to follow
+a quarterly schedule for filing Form
+3L.
+(A) Quarterly/Semi-annual Schedule. In any calendar year in which
+there is a “regular” November general
+election, the reporting deadlines for a
+political party committee or Leadership PAC’s covered periods are as
+follows:
+•Reports for the quarterly covered
+periods are filed no later than April
+15, July 15, October 15 of that
+election year and January 31 of
+the following calendar year. These
+reports are required if the reporting
+committee receives bundled contributions in excess of the reporting
+threshold during the quarter. Quarterly reports filed on July 15 and
+January 31 must also disclose total
+reportable bundled contributions for
+the semi-annual covered periods of
+January 1 through June 30, and July
+1 through December 31, respectively.
+A quarterly report need not be filed if
+a Pre-Election report is filed during
+the period beginning on the 5th day
+and ending on the 15th day after the
+close of the calendar quarter.
+•Pre-Election reports include activity
+from the day after the closing date of
+the last report filed through the 20th
+day before the election and are filed
+no later than the 12th day before any
+primary or general election. These
+reports are required if the committee receives bundled contributions
+in excess of the reporting threshold
+during the covered period. A 12-Day
+Pre-Election report sent by certified
+or registered mail must be mailed
+no later than the 15th day before the
+election.
+•A 30-Day Post-General Election
+Report includes activity from the
+day after the closing date of the last
+report filed through the 20th day
+after the election and must be filed
+no later than 30 days after the general
+election. These reports are required
+if the reporting committee receives
+2	
+
+bundled contributions in excess of
+the reporting threshold for the postelection covered period.
+In any other calendar year, the
+following reports are required if the
+reporting committee receives bundled
+contributions in excess of the reporting threshold during the covered
+period:
+•A Mid-Year Report must be filed no
+later than July 31 of that non-election year and disclose total reportable bundled contributions for the
+covered period beginning January 1
+and ending June 30.
+•A Year-End Report must be filed no
+later than January 31 of the following calendar year and disclose total
+reportable bundled contributions for
+the covered period beginning July 1
+and ending December 31.
+(B) Monthly Schedule. Reports for
+the monthly covered periods must be
+filed no later than 20 days after the
+last day of the month. These reports
+are required if the reporting committee receives bundled contributions
+in excess of the reporting threshold
+during the month. Monthly reports
+filed on July 20 and January 31 must
+also disclose total reportable bundled
+contributions for the semi-annual
+covered periods of January 1 through
+June 30, and July 1 through December 31, respectively. In lieu of the
+Monthly reports due in November
+and December for a year in which
+there is a “regular” November general election, a 12-Day Pre-General
+Election Report must be filed if the
+reporting committee receives bundled
+contributions in excess of the reporting threshold during the pre-election
+covered period (i.e., from the day after
+the closing date of the last report
+filed through the 20th day before the
+election). A 30-Day Post-General
+Election Report must be filed if the
+reporting committee receives bundled
+contributions in excess of the reporting threshold during the post-general
+election covered period (i.e., from the
+day after the closing date of the last
+report filed through the 20th day after
+the election). A Year-End Report must
+be filed no later than January 31 of the
+
+following calendar year if the reporting committee receives bundled contributions in excess of the reporting
+threshold during the covered period
+beginning the day after the closing
+date of the Post-General Election
+Report through December 31.
+Authorized Committees of Presidential Candidates: A Presidential
+campaign committee with bundled
+contributions in excess of the reporting threshold during the covered
+period files FEC Form 3L at the same
+time as its FEC Form 3P. However,
+reporting committees that file Form
+3P on a monthly basis may choose to
+follow a quarterly schedule for filing
+Form 3L.
+(A) Quarterly Schedule. The reporting deadlines for a Presidential committee’s quarterly covered periods are
+as follows:
+•Reports for the quarterly covered
+periods are filed no later than April
+15, July 15, October 15 of that calendar year and January 31 of the following calendar year. These reports
+are required if the committee receives
+bundled contributions in excess of
+the reporting threshold during the
+quarter. Quarterly reports filed on
+July 15 and January 31 must also disclose total reportable bundled contributions for the semi-annual covered
+periods of January 1 through June
+30, and July 1 through December 31,
+respectively. A quarterly report need
+not be filed if a Pre-Election report is
+required to be filed during the period
+beginning on the 5th day and ending
+on the 15th day after the close of the
+calendar quarter.
+•Reports for the 12-Day Pre-Election
+covered period include activity from
+the day after the closing date of the
+last report filed through the 20th day
+before the election and are filed no
+later than the 12th day before any
+primary or general election in which
+the candidate seeks election. These
+reports are required if the committee receives bundled contributions
+in excess of the reporting threshold
+during the pre-election covered
+period. A 12-Day Pre-Election
+report sent by certified or registered
+Federal Election Commission (Revised 03/09)
+
+INSTRUCTIONS FOR FEC FORM 3L
+mail must be mailed no later than the
+15th day before the election.
+•Reports for the 30-Day Post-General
+Election covered period include
+activity from the day after the closing
+date of the last report filed through
+the 20th day after the election and are
+filed no later than 30 days after the
+general election. These reports are
+required if the committee receives
+bundled contributions in excess of
+the reporting threshold during the
+post-election covered period.
+In any other calendar year, reports
+for the quarterly covered periods are
+filed no later than April 15, July 15,
+October 15 of that calendar year, and
+January 31 of the following calendar
+year. These reports are required if the
+committee receives bundled contributions in excess of the reporting threshold during the quarter. Quarterly
+reports filed on July 15 and January
+31 must also disclose total reportable
+bundled contributions for the semiannual covered periods of January 1
+through June 30, and July 1 through
+December 31, respectively.
+(B) Monthly Schedule. Reports for
+the monthly covered periods must be
+filed no later than 20 days after the
+last day of the month. These reports
+are required if the reporting committee
+receives bundled contributions in excess
+of the reporting threshold during the
+month. Monthly reports filed on July
+20 and January 31 must also disclose
+total reportable bundled contributions
+for the semi-annual covered periods of
+January 1 through June 30, and July
+1 through December 31, respectively.
+In lieu of the Monthly reports due in
+November and December for a year in
+which there is a “regular” November
+general election, a 12-Day Pre-General
+Election Report must be filed if the
+reporting committee receives bundled
+contributions in excess of the reporting threshold during the pre-election
+covered period (i.e., from the day after
+the closing date of the last report
+filed through the 20th day before the
+election). A 30-Day Post-General
+Election Report must be filed if the
+reporting committee receives bundled
+contributions in excess of the reportFederal Election Commission (Revised 03/09)
+
+ing threshold during the post-election
+covered period (i.e., from the day after
+the closing date of the last report filed
+through the 20th day after the election).
+A Year-End Report must be filed no
+later than January 31 of the following
+calendar year if the reporting committee received bundled contributions
+in excess of the reporting threshold
+during the covered period that runs
+from the day after the closing date
+of the Post-General Election Report
+through December 31.
+Overlapping Covered Periods: An
+FEC Form 3L filed in July or January may cover more than one covered
+period. As such, reporting committees must calculate the total amount
+of bundled contributions received
+for each covered period to determine
+whether a Form 3L is necessary. If,
+for example, a reporting committee receives bundled contributions
+exceeding the reporting threshold
+for the January 1 through June 30
+semi-annual covered period, then the
+reporting committee must file Form
+3L in July and report information
+about those contributions, even if the
+reporting committee did not receive
+bundled contributions exceeding the
+reporting threshold for the committee’s quarterly, monthly, pre- or postelection covered period.
+Timely Filed: A document is timely
+filed upon delivery to the appropriate
+office (see “Where to File”) by the close
+of the prescribed filing deadline or
+upon deposit as registered or certified
+mail in an established U.S. Post Office
+and postmarked no later than midnight
+of the day the report is due, except that
+a Pre-Election report so mailed must
+be postmarked no later than midnight
+of the 15th day before the date of the
+election. Reports and statements sent
+by first class mail must be received by
+the appropriate office by the close of
+business of the prescribed filing deadline to be timely filed. Reports filed
+electronically must be received and
+validated by the Commission’s computer system on or before 11:59 p.m.
+Eastern Standard/Daylight Savings
+Time on the prescribed filing deadline
+in order to be timely filed.
+
+Changing Filing Frequency: A
+reporting committee may elect to
+change the frequency of its reporting
+on FEC Form 3L to quarterly from
+monthly, or vice versa. A reporting committee may change its filing
+frequency only after notifying the
+Commission in writing of its intention at the time it is scheduled to
+submit a report under its current filing
+frequency. The reporting committee
+will then be required to file the next
+required report under its new filing
+frequency. A reporting committee may
+change its filing frequency no more
+than once per calendar year.
+Where to File
+
+An original report and any amendments to an original report must be
+filed as follows:
+•Political party committees, Leadership PACs and the principal campaign committee of a candidate
+for the Presidency or the House of
+Representatives file with the Federal
+Election Commission, 999 E Street,
+NW, Washington, DC 20463. Other
+authorized committees of the candidate file with the principal campaign
+committee.
+•Committees supporting/opposing
+only Senate candidates, including
+the principal campaign committee of
+a candidate for the Senate, file with
+the Secretary of the Senate, Office
+of Public Records, 232 Hart Senate
+Office Building, Washington, DC
+20510-7116. Mail addressed to the
+Secretary of the Senate should read:
+“Office of Public Records, P.O. Box
+77578, Washington, DC 20013-7578.”
+Other authorized committees of
+the candidate file with the principal
+campaign committee.
+A copy of each report need only
+be filed with the Secretary of State
+(or appropriate State officer) of the
+state in which nomination or election
+is sought if that state has not qualified for the Commission’s state filing
+waiver. A list of qualified states is
+available from the Federal Election
+Commission.
+3
+
+INSTRUCTIONS FOR FEC FORM 3L
+Line-by-Line Instructions
+
+LINE 1. Enter the complete name
+and mailing address of the reporting
+committee.
+
+or post-election covered period, if
+applicable. In box 7(b), enter the total
+amount of bundled contributions for
+the January – June or July – December
+semi-annual period, if applicable.
+
+LINE 2. Enter the FEC Identification
+Number assigned to the reporting
+committee.
+LINE 3. If this is an original report,
+check the “NEW” box. If this is an
+amendment to a previous report,
+check the “AMENDED” box.
+LINE 4. Authorized committees of
+House and Senate candidates enter
+the state and district (as necessary)
+in which the candidate is running for
+office. Presidential campaigns, Leadership PACs and political party committees should leave this line blank.
+LINE 5. Check the appropriate box.
+If the report is a 12-Day Pre-Election
+or 30-Day Post-General Election
+Report, supply the type of election
+(primary, general, convention, special
+or runoff), the date of the election and
+the state in which the election is held.
+If the Pre- or Post-Election Report is
+due in July or January and your July
+15 Quarterly or Year-End Report has
+been waived, check the box to indicate
+that this report also covers the semiannual covered period.
+LINE 6. Enter the coverage dates
+(month/day/year) for this report. If
+this report is being filed in July or
+January, you may need to enter the
+dates for the quarterly, monthly, preor post-election covered period on 6(a)
+and/or check the January 1 – June 30
+or July 1 – December 31 box on 6(b),
+as appropriate.
+LINE 7. Enter the total amount of
+bundled contributions received in
+each covered period identified in Line
+6. Reports filed in July and January
+may include activity from two covered
+periods—(1) the committee’s regular
+quarterly or monthly reporting period,
+the pre-election covered period, or the
+post-election covered period; and (2)
+the semi-annual covered period. In
+box 7(a), enter the total amount of
+bundled contributions received during
+the quarterly, monthly, pre-election,
+4	
+
+Federal Election Commission (Revised 03/09)
+
+INSTRUCTIONS FOR FEC FORM 3L
+
+INSTRUCTIONS FOR
+SCHEDULE A (FEC FORM 3L)
+Reportable Bundled
+Contributions Forwarded
+by or Credited to Lobbyists/
+Registrants and Lobbyist/
+Registrant PACs
+For each lobbyist/registrant or lobbyist/registrant PAC that forwards,
+or is credited with raising more
+than $16,000 in bundled contributions during the covered period, the
+reporting committee must provide
+the bundler’s name, address and the
+aggregate amount of contributions
+bundled during the covered period.1
+On reports filed in July and January,
+use the “Reportable Bundled Contributions during the Semi-annual Covered Period” box to disclose aggregate
+amounts for the January 1-June 30 or
+July 1-December 31 covered period,
+as appropriate. On other reports,
+disclose the aggregate amount for
+each lobbyist/registrant or lobbyist/
+registrant PAC in the “Reportable
+Bundled Contributions during the
+Quarterly/Monthly/Pre-Election or
+Post-Election Covered Period” box.
+If the lobbyist/registrant is an individual, the reporting committee must
+also identify his/her employer. When
+disclosing bundled contributions forwarded by, or credited to, a lobbyist/
+registrant PAC, the reporting committee should enter the lobbyist/registrant
+PAC’s FEC Identification Number.
+(This number is readily available from
+the Commission’s web site or its Public
+
+Disclosure Division.) Do not abbreviate committee names.
+The Total reported amounts (the
+last line on Schedule A) should be
+transferred to the comparable spaces
+on Line 7, Total Reportable Bundled
+Contributions by Lobbyists/Registrants and Lobbyist/Registrant PACs.
+Do not subtract the Total Refunds
+This Period disclosed on Schedule B
+(if any).
+Memo Text: A committee may, if
+it chooses, attach a cover letter or
+memo text to provide any additional
+information supporting or explaining
+the entries on Form 3L
+
+1 The Commission notes that the reporting
+requirements of Form 3L operate independently
+of the prohibitions in the Federal Election Campaign Act of 1971, as amended, and Commission regulations on certain entities making and
+facilitating contributions and acting as conduits or
+intermediaries. A registrant that is a corporation,
+for example, would be prohibited from facilitating
+the making of contributions by persons outside of
+the corporationSection 1 s restricted class. But if
+a reporting committee nonetheless credits the corporation for having raised contributions received
+by that reporting committee, and the amount of
+contributions exceeds the reporting threshold in a
+covered period, information about the corporate
+registrant must be reported
+
+Federal Election Commission (Revised 03/09)
+
+5
+
+INSTRUCTIONS FOR FEC FORM 3L
+
+INSTRUCTIONS FOR
+SCHEDULE B (FEC FORM 3L)
+Refunds of Bundled
+Contributions Forwarded
+by or Credited to Lobbyists/
+Registrants and Lobbyist/
+Registrant PACs
+Reporting committees use Schedule B of Form 3L solely to disclose
+refunds of bundled contributions
+raised by a lobbyist/registrant or lobbyist/registrant PAC.
+Returned vs. Refunded
+Contributions
+
+If a bundled contribution is not
+deposited and is instead returned,
+then it does not aggregate toward the
+reporting threshold for disclosure of
+bundled contributions and it does not
+need to be reported on FEC Form 3L.
+By contrast, bundled contributions
+that are received, deposited and later
+refunded do aggregate toward the
+reporting threshold for the covered
+period in which they were received,
+and must be reported if the reporting
+threshold is exceeded for that covered
+period.
+Reporting Refunds
+
+When the receipt of the bundled
+contribution is reported on Form
+3L, then the refund of the bundled
+contribution should also be reported
+on Form 3L for the covered period in
+which the refund occurred.
+For each refund issued during the
+covered period, provide the full name
+and mailing address of the lobbyist/
+registrant or lobbyist/registrant PAC
+that forwarded, or was credited with
+raising, the contribution and the
+amount. (Report the refund to the
+contributor on Schedule B of Form
+3, 3P or 3X, as appropriate.) On
+reports filed in July and January, use
+the Refunds of Bundled Contributions during the Semi-annual Covered
+Period box to disclose aggregate
+amounts for the January 1-June 30 or
+July 1-December 31 covered period,
+as appropriate.
+6	
+
+The Form 3L disclosure threshold for 2009 is $16,000 per covered
+period. Once a reporting committeeSection 1 s bundled contributions
+from a lobbyist/registrant or lobbyist/
+registrant PAC exceed that threshold,
+the committee must file Form 3L for
+that covered period, regardless of
+any refunds it may have made. For
+example, on August 20, 2009, a lobbyist forwards $17,000 in bundled
+contributions to a reporting committee that files quarterly. The committee deposits the checks, but refunds
+all of the contributions a week later.
+On September 15, the same lobbyist
+forwards an additional $15,000 in
+bundled contributions. Since total
+bundled contributions attributed to
+the lobbyist on August 20 exceeded
+the $16,000 disclosure threshold, the
+committee must report all bundled
+contributions from that lobbyist
+during that quarterly covered period.
+As such, on Schedule A, the committee lists $32,000 ($17,000 + $15,000)
+on Schedule A as the Reportable
+Bundled Contributions during the
+Quarterly/Monthly/Pre-Election or
+Post-Election Covered Period on its
+October 15 Form 3L. The $17,000
+refund would appear in the Refunds
+of Bundled Contributions during
+the Quarterly/Monthly/Pre-Election
+or Post-Election Covered Period on
+Schedule B of that report.
+On November 2, the same lobbyist forwards an additional $10,000 in
+bundled contributions, but does nothing more for the balance of the year.
+Based on that activity alone, the committee would not need to file a Form
+3L for the fourth quarter. However,
+the committee must file a Year-End
+Report because its reportable bundled
+contributions for the overlapping
+semi-annual period (i.e., from July
+1 through December 31) exceed
+the reporting threshold. On Form
+3L Schedule A, the committee lists
+$42,000 ($17,000 + $15,000 + $10,000)
+as the Reportable Bundled Contributions during the Semi-annual Covered
+Period. On Schedule B, the $17,000
+refund would appear in the Refunds
+of Bundled Contributions during the
+Semi-annual Covered Period. Since
+
+the total fourth quarter bundled contributions attributed to the lobbyist
+did not exceed $16,000, the committee
+may enter $0 on Schedule A as the
+Reportable Bundled Contributions
+during the Quarterly/Monthly/PreElection or Post-Election Covered
+Period or leave that box blank.
+The amount refunded, as reported
+on Schedule B of Form 3L will not
+affect the total amount of bundled
+contributions received by the reporting committee, as reported on Schedule A of Form 3L or in Box 7 on page
+1 of Form 3L.
+
+Federal Election Commission (Revised 03/09)
+
+

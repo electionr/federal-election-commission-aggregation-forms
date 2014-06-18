@@ -1,0 +1,323 @@
+INSTRUCTIONS FOR FEC FORM 05 AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR PREPARING FEC FORM 5
+(Report of Independent Expenditures Made and Contributions Received
+to be Used by Persons Other Than Political Committees)
+Who Must File
+Every person, group of persons or
+organization, other than a political
+committee, that makes or contracts to
+make independent expenditures aggregating in excess of $250 with respect to
+a given election in a calendar year must
+report these expenditures by submitting FEC Form 5 or a signed statement
+satisfying the requirements of 11 CFR
+109.10. (Political committees that make
+independent expenditures shall report
+them on FEC Form 3X, Schedule E.)
+Note: Individuals and other persons
+must file this form in an electronic
+format under 11 CFR 104.18 if they
+make independent expenditures in
+excess of $50,000 in a calendar year,
+or if they have reason to expect that
+they will exceed this threshold during
+the calendar year. If you have reached
+this level of activity, you must file this
+form in an electronic format. Contact
+the FEC for more information on filing
+electronically.
+Definitions
+Contribution means any gift, subscription, loan, advance or deposit of
+money or anything of value made by
+any person for the purpose of influencing any election for federal office.
+Independent expenditure means an
+expenditure by a person for a communication expressly advocating the election
+or defeat of a clearly identified candidate that is not made with the cooperation or prior consent of, in consultation
+with, or at the request or suggestion of,
+a candidate or an agent or authorized
+committee of a candidate or a political
+party committee or its agents. 11 CFR
+100.16. For a definition of “expressly
+advocating,” see 11 CFR 100.22.
+Publicly Distributed or Publicly Disseminated. “Publicly distributed” means
+aired, broadcast, cablecast or otherwise
+Federal Election Commission (Revised 09/2013)
+
+disseminated through the facilities of
+a television or radio station or cable
+television or satellite system. 11 CFR
+100.29(b)(3). “Publicly disseminated”
+refers to communications made public
+via other media (e.g., newspapers, magazines, etc.) 11 CFR 104.4(f). See also,
+“Interpretive Rule on When Certain
+Independent Expenditures are ‘Publicly
+Disseminated’ for Reporting Purposes,”
+76 FR 61254 (2011).
+Name of Employer means the organization or person by whom an individual
+is employed, rather than the name of
+his or her supervisor. Individuals who
+are self employed should indicate “selfemployed.”
+Occupation means the principal job
+title or position of an individual.
+Purpose means a brief statement or
+description of why the disbursement
+was made.
+
+When to File
+Each calendar year is divided into
+quarterly reporting periods. Reports for
+independent expenditures are due on
+April 15, July 15, October 15 and January 31 of the following year and must
+include all reportable contributions
+received and independent expenditures
+made from the closing date of the last
+report filed through the end of the calendar quarter for which the report is
+submitted. 11 CFR 109.10(b).
+File reports of independent expenditures made during the calendar
+quarter reporting period in which these
+expenditures aggregate in excess of $250
+with respect to a given election in the
+calendar year, and for any subsequent
+quarter that year in which additional
+independent expenditures for that election of any amount are made.
+In addition to this quarterly reporting of independent expenditures, more
+timely reports are required for indepen-
+
+dent expenditures with respect to the
+same election that either: 1) aggregate
+$10,000 or more and are made more
+than 20 days before the election (“48hour reports”); or 2) aggregate $1,000
+or more and are made less than twenty
+days before the election (“24-hour
+reports”). See below.
+48-Hour Reports
+In addition to quarterly reports, any
+person that makes or contracts to make
+independent expenditures aggregating
+$10,000 or more with respect to a given
+election during the calendar year up to
+and including the 20th day before an
+election must report these expenditures
+within 48 hours. The report must be
+received no later than 11:59 p.m. Eastern Standard/Daylight Time on the
+second day following the date on which
+an independent expenditure is publicly distributed or disseminated. The
+person must continue to file additional
+48-hour reports every time subsequent
+independent expenditures reach the
+$10,000 threshold with respect to the
+same election to which the first report
+related. The report must include all of
+the information required on Form 5
+and by 11 CFR 109.10(e), including a
+statement indicating whether the independent expenditure was in support of,
+or in opposition to, a particular candidate and a verified certification under
+penalty of perjury as to whether such
+expenditure was made in cooperation,
+consultation or concert with, or at the
+request or suggestion of any candidate
+or authorized committee or agent or
+a political party committee or agents
+thereof. All 48-hour reports shall be
+filed with the Federal Election Commission. Filers other than electronic filers
+may submit 48-hour reports by fax (to
+202-219-0174) or electronic mail (to
+2022190174@fec.gov). All filers may
+submit reports online at www.fec.gov.
+Page 1
+
+INSTRUCTIONS FOR FEC FORM 05 AND RELATED SCHEDULES
+
+24-Hour Reports
+In addition to the quarterly reports
+and 48-hour reports, persons who make
+independent expenditures aggregating
+$1,000 or more with respect to a given
+election after the twentieth day but more
+than 24 hours before 12:01a.m. of the
+day of the election must file 24-hour
+reports. The report must be received by
+11:59 p.m. Eastern Standard/Daylight
+Time on the day following the date on
+which an independent expenditure is
+publicly distributed or disseminated.
+These reports must contain all of the
+information required on Form 5 and by
+11 CFR 109.10(e), including a statement
+indicating whether the independent
+expenditure was in support of, or in
+opposition to, a particular candidate
+and a verified certification under penalty of perjury as to whether such
+independent expenditure was made in
+cooperation, consultation or concert
+with, or at the request or suggestion of
+any candidate or authorized committee
+or agent or a political party committee
+or its agents. All 24-hour reports shall
+be filed with the Federal Election Commission. Filers other than electronic
+filers may submit 24-hour reports by
+fax (to 202-219-0174) or electronic mail
+(to 2022190174@fec.gov). All filers may
+submit reports online at www.fec.gov.
+Special Election Reporting
+The Commission establishes separate
+reporting schedules for special elections.
+Contact the Commission for special
+election reporting dates.
+
+Where To File
+File all reports using this Form with
+the Federal Election Commission, 999
+E Street, N.W., Washington, DC 20463.
+Filers other than electronic filers may
+submit reports by fax (to 202-219-0174)
+or electronic mail (to 2022190174@
+fec.gov). All filers may submit reports
+online at www.fec.gov.
+For reports of independent expenditures supporting or opposing a candidate in Guam, Northern Mariana
+Page 2	
+
+Islands or Puerto Rico for the House,
+submit a copy of this form to the territory in which the candidate seeks
+election. For reports of independent
+expenditures made in Guam, Northern
+Mariana Islands or Puerto Rico supporting or opposing a candidate for
+President or Vice President, submit a
+copy of this form to the territory in
+which the expenditure is made. As of
+August 2013, these territories had not
+qualified for the Commission’s state
+filing waiver program.
+Record retention. Persons filing
+independent expenditure reports must
+retain copies of their reports for a
+period of not less than 3 years from
+the date of filing.
+
+Line By Line Instructions
+LINE 1. Name of Individual, Organization or Corporation. Provide the name
+and mailing address of the filer.
+LINE 2. Individual filers—provide
+the name of your employer and your
+occupation.
+LINE 3. FEC Identification Number.
+First time filers—leave this line blank.
+Previous filers with an identification
+number—enter that number.
+LINE 4. Type of Report. (a). Indicate
+the type of report being filed by checking the appropriate box. For “48-Hour”
+and “24-Hour” reports, check the box
+“48-Hour Report” or “24-Hour Report”
+as applicable.
+(b). Indicate if the report is an amendment and, if so, what report it amends.
+LINE 5. Covering Period. For quarterly
+reports, enter the report coverage dates.
+Include all activity from the ending
+coverage date of the last report filed
+or from the date of the filer’s initial
+receipt or disbursement, as appropriate.
+When submitting multiple forms for a
+single period, indicate the current page
+number and total pages submitted for
+the period.
+
+Coverage dates are not required on
+24- and 48-hour reports. Filers that
+nevertheless choose to enter a covering
+period may use the first and last dates
+on which the communication airs. For
+communications that are paid entirely
+in advance and run indefinitely, the filer
+may enter the date on which the communication first airs through the date of
+the applicable election.
+Additional 24- or 48-hour reports are
+required each time subsequent independent expenditures reach the applicable
+$1,000 or $10,000 threshold.
+LINE 6. Total Contributions. Enter
+total contributions received during the
+reporting period, including contributions of $200 or less that were not itemized on Schedule 5-A. When submitting
+multiple forms for a single period, enter
+total on page 1.
+LINE 7. Total Independent Expenditures. Enter the total amount of
+independent expenditures made during
+this reporting period. When submitting
+multiple forms for a single period, enter
+total on page 1.
+Verification
+FEC FORM 5 must be signed by the
+person making the independent expenditure, who must certify verifiably under
+penalty of perjury that the expenditure
+was not made in cooperation, consultation or concert with, or at the request or
+suggestion of any candidate or authorized committee or agent or a political
+party committee or its agents. 11 CFR
+109.10(e)(1)(v) and (2). Electronic filers:
+Type the name of the person making
+the independent expenditure after the
+certification.
+
+Instructions for Schedule 5-A
+(Itemized Receipts)
+Provide the requested information for
+each contribution over $200 that was
+made for the purpose of furthering the
+independent expenditures.
+Federal Election Commission (Revised 09/2013)
+
+INSTRUCTIONS FOR FEC FORM 05 AND RELATED SCHEDULES
+
+Instructions for Schedule
+5-E (Itemized Independent
+Expenditures)
+Once the total of independent expenditures made exceeds $250 per election
+in a calendar year, provide the requested
+information about the payee, the date
+the independent expenditure was made
+and the amount. For purposes of
+determining whether 24- and 48-hour
+Reports must be filed, calculate the
+aggregated amount of expenditures
+(including enforceable contracts obligating funds for disbursement) as of
+the first date on which a communication which constitutes an independent
+expenditure is publicly distributed or
+otherwise publicly disseminated, and as
+of the date that any such communication with respect to the same election
+is subsequently publicly distributed or
+otherwise publicly disseminated. 11
+CFR 104.4(f). See also, “Interpretive
+Rule on When Certain Independent
+Expenditures are ‘Publicly Disseminated’ for Reporting Purposes,” 76 FR
+61254 (2011).
+Indicate under “Purpose of Expenditure,” the specific type of communication made (e.g., television ad, radio
+ad). Along with reporting the purpose
+of the expenditure, filers should also
+broadly characterize each disbursement
+by providing a category/type code, such
+as the example listed below. Note that
+the category/type code is not intended
+to replace or to serve as a substitute for
+the “purpose of disbursement.”
+
+Subtotal the expenditures at the
+bottom of Schedule 5-E and add them
+to the subtotal of unitemized independent expenditures at the bottom of the
+last Schedule 5-E page. Carry the total
+forward to Line 7 of Form 5.
+
+004 Advertising Expenses -including
+general public political advertising
+(e.g., purchases of radio/television
+broadcast/cable time, print advertisements and related production
+costs)
+Identify the candidate supported
+or opposed by the independent expenditure by indicating the candidate’s
+name, office sought and the election
+for which the disbursement was made.
+Also, list the total amount expended in
+the aggregate during the calendar year,
+per election, per office sought.
+
+Federal Election Commission (Revised 09/2013)
+
+Page 3
+
+

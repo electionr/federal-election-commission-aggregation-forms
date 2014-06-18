@@ -1,0 +1,424 @@
+INSTRUCTIONS FOR FEC FORM 1 AND RELATED SCHEDULES
+
+FEDERAL ELECTION COMMISSION
+
+Instructions for Statement of Organization (FEC FORM 1)
+
+When to File
+New political committees must file
+this form to register the committee
+once they exceed the applicable threshold, as described below:
+•Principal campaign committees
+must file this form no later than 10
+days after the candidate designates
+the committee on the Statement of
+Candidacy (FEC FORM 2). Other
+authorized committees file this form
+with the principal campaign committee, which in turn must file this form
+with the appropriate filing offices.
+•Committees sponsored by corporations, labor organizations or trade
+associations (i.e., separate segregated
+funds) must file this form no later
+than 10 days after their establishment.
+•Local political party committees
+must file this form no later than 10
+days after exceeding one of the following thresholds during a calendar
+year: (1) receiving contributions in
+connection with a federal election
+aggregating in excess of $5,000; (2)
+making exempt payments under 11
+CFR 100.80, 100.87, 100.89, 100.140,
+100.147 or 100.149 aggregating
+in excess of $5,000; or (3) making
+contributions or expenditures in
+connection with a federal election
+aggregating in excess of $1,000.
+•All other political committees must
+file this form no later than 10 days
+after receiving contributions or making expenditures in connection with a
+federal election aggregating in excess
+of $1,000 during a calendar year.
+Note: Political committees (except
+for committees required to file with
+the Secretary of the Senate) must file
+reports in an electronic form under
+11 CFR 104.18 if they have either
+received contributions or made expenditures in excess of $50,000 during a
+calendar year, or if they have reason to
+expect that they will exceed either of
+those thresholds during the calendar
+9-00070
+
+Federal Election Commission (Revised 02/09)
+
+year. If your committee has reached
+this level of activity, you must file this
+form in an electronic format.
+A political committee is considered
+to have reason to expect it will exceed
+the electronic filing threshold for the
+next two calendar years after the calendar year in which it exceeds $50,000
+in contributions or expenditures.
+Exception: This does not apply to an
+authorized committee with $50,000
+or less in net debts outstanding on
+January 1 of the year following the
+general election that anticipates terminating prior to January 1 of the next
+election year, as long as the candidate
+has not qualified under 2 U.S.C. §432
+as a candidate in the next election and
+does not intend to become a federal
+candidate in the next election.
+A new committee with no previous contributions or expenditures is
+considered to have reason to expect
+it will exceed the electronic filing
+threshold if it exceeds $12,500 in contributions or expenditures during the
+first calendar quarter of the calendar
+year, or $25,000 in contributions or
+expenditures in the first half of the
+calendar year.
+Contact the FEC for more information on filing electronically.
+Line-by-Line Instructions
+LINE 1. Print or type full name and
+mailing address of the committee. The
+name of a principal campaign committee or other authorized committee
+must include the name of the candidate who authorized the committee.
+A political committee which is not an
+authorized committee can not include
+the name of any candidate in its name,
+except that a delegate committee must
+include the word “delegate(s)” in its
+name and may also include the name
+of the Presidential candidate which it
+supports. A political committee established solely to draft an individual or
+
+to encourage an individual to become
+a candidate may include the name
+of the individual in the name of the
+committee, provided the committee’s
+name clearly indicates that it is a draft
+committee. The name of a separate
+segregated fund must include the full
+name of its connected organization.
+Any abbreviation or acronym used
+by the fund must also be reported.
+Finally, list the committee’s electronic
+mail address and the Internet address
+(URL) of the committee’s official Web
+site, if such a Web site exists.
+LINE 2. State the date the group
+or organization became a political
+committee. If this filing is an amendment, note the date of the change in
+information.
+LINE 3. Only committees that have
+previously filed a Statement of Organization should fill in this block
+with the number that was originally
+assigned to the committee. All new
+committees will be assigned identification numbers when the completed
+statement has been received.
+LINE 4. All political committees registering for the first time check the box
+labeled “NEW.” Committees that have
+previously filed FEC FORM 1 and are
+now submitting changes or corrections
+check the box labeled “AMENDED.”
+If “AMENDED” is checked, complete
+Lines 1 through 4. With respect to
+Lines 5 – 9 include only the change(s)
+in information previously submitted.
+Committees are reminded that any
+change or correction in the information previously filed in the Statement
+of Organization shall be reported no
+later than 10 days following the date of
+the change or correction. Committees
+that are required to file electronically
+are also required to file amendments
+to the Statement of Organization in
+an electronic format.
+Page 1
+
+INSTRUCTIONS FOR FEC FORM 1 AND RELATED SCHEDULES
+
+LINE 5. Check and fill out ONE of
+the eight sections as follows:
+(a) All principal campaign committees check (a) and fill in the corresponding information for the
+candidate under (b).
+(b) All other authorized committees
+check (b) and fill in the corresponding information for the
+candidate. In the boxes for candidate/party affiliation, list the
+abbreviation of the party (e.g., for
+Democratic party, list “DEM,”
+for Republican party, list “REP,”
+for Reform party, list “REF,” for
+Green party, list “GRE” or for
+Independent, list “IND.”) Consult the Commission’s Web site
+at www.fec.gov if unsure of the
+proper abbreviation to use.
+(c) A committee supporting/opposing a single federal candidate
+which is not authorized by a
+candidate checks (c), and includes
+the candidate’s name on the line
+provided. Delegate and draft
+committees must check (c), and
+provide the name of the candidate
+supported.
+(d) All national, State and subordinate
+committees of a political party
+check (d) and fill in whether the
+party is the national party (use
+code NAT), state party (use code
+STA) or subordinate committee
+(use code SUB). In the boxes for
+candidate/party affiliation, list the
+abbreviation of the party (e.g., for
+Democratic party, list “DEM,”
+for Republican party, list “REP,”
+for Reform party, list “REF,” for
+Green party, list “GRE” or for
+Independent, list “IND.”) Consult the Commission’s Web site
+at www.fec.gov if unsure of the
+proper abbreviation to use.
+(e) All separate segregated funds
+check (e). A separate segregated
+fund is a political committee established, financed, maintained
+or controlled by a corporation,
+labor organization, membership
+organization, cooperative or trade
+association. Check the appropriate box to identify the type of connected organization and provide
+Page 2
+
+its name and address on line 6. If
+a lobbyist/registrant established
+or controls the committee, check
+the Lobbyist/Registrant PAC box.
+See 2 U.S.C. 434(i)(7) and 11 CFR
+104.22(a)(2), (3) and (4).
+(f) A committee supporting/opposing
+more than one federal candidate
+and which is not a separate segregated fund or a political party
+committee (i.e., a nonconnected
+committee) checks box (f). If a
+lobbyist/registrant established or
+controls the committee, check the
+Lobbyist/Registrant PAC box. See
+2 U.S.C. 434(i)(7) and 11 CFR
+104.22(a)(2), (3) and (4). In addition, if the committee is directly
+or indirectly established, financed,
+maintained or controlled by a
+federal candidate or officeholder,
+but is not an authorized committee or party, it must check the
+Leadership PAC box and identify
+its sponsor on line 6.
+(g), (h) All joint fundraising representatives must check either (g) or (h).
+A committee established to act as
+a joint fundraising representative
+is a political committee selected
+or established by joint fundraising participants as the committee responsible for keeping joint
+fundraising records, allocating
+proceeds and expenses among
+participants and reporting the
+overall financial activity of the
+fundraiser. If one or more federal
+candidates are participating in the
+joint fundraiser, check (g). If not,
+check (h). List the participating
+committees and their FEC identifications numbers in the space
+provided. NOTE: If a participating committee serves as the joint
+fundraising representative, it must
+check (g) or (h) in addition to the
+appropriate box above (a-f).
+LINE 6. Political committees must list
+all affiliated committees and connected organizations (defined below) as
+follows. Do not leave this line blank.
+If there are no affiliated committees
+as described below, enter “None” on
+this line. Examples of affiliated committees include:
+
+•Principal campaign committees list
+all other committees authorized by
+the same candidate. Under “Relationship,” enter “affiliated.”
+•Political committees authorized by
+the same candidate (other than the
+principal campaign committee) list
+the principal campaign committee
+authorized by the same candidate.
+Under “Relationship,” enter “affiliated.”
+•Political committees which have been
+established, financed, maintained or
+controlled by the highest level parent
+organization (i.e., the corporation,
+labor organization, membership
+organization, cooperative or trade
+association) list:
+•The name of the parent organization.
+Under “Relationship,” enter “connected” AND
+•The name of any other political
+committee(s) established, financed,
+maintained or controlled by the same
+parent organization or by a subsidiary, branch or State, local, or other
+subordinate unit of the same parent
+organization. Under “Relationship,”
+enter “affiliated.”
+Political committees which have been
+established, financed, maintained or
+controlled by a subsidiary, branch or
+State, local, or other subordinate unit
+of an organization list:
+•The name of the subsidiary, branch
+or State, local, or other subordinate
+unit and the name of the parent
+organization of which it is a part.
+Under “Relationship,” enter “connected” AND
+•The name of the highest level political
+committee sponsored by the parent
+organization. Under “Relationship,”
+enter “affiliated.”
+•State party committees list any subordinate committees (i.e., any county,
+district or local committee) under the
+control or direction of the State committee. Under “Relationship,” enter
+“affiliated.” (See 11 CFR 110.3(b).)
+•Subordinate State party committees
+list the State party committee. Under
+“Relationship,” enter “affiliated.”
+(See 11 CFR 110.3(b).)
+•Joint fundraising participants list
+the committee established to act as
+Federal Election Commission (Revised 02/09)
+
+9-00070
+
+INSTRUCTIONS FOR FEC FORM 1 AND RELATED SCHEDULES
+
+the joint fundraising representative.
+Under “Relationship,” enter “joint
+fundraising representative.”
+Leadership PACs (as defined in item
+5(f) above) must identify their sponsoring candidate or officeholder,
+but should not list that candidate’s
+campaign committee as an affiliated
+committee.
+Separate segregated funds must provide the full name and address of
+their “connected organization.” Note:
+The term “connected organization”
+means any organization which is not a
+political committee but which directly
+or indirectly establishes, administers
+or financially supports a political
+committee. A connected organization may be a corporation (including
+a corporation without capital stock),
+a labor organization, a membership
+organization, a cooperative or a trade
+association. The definition of “affiliated committee” is contained at 11
+CFR 100.5(g).
+LINE 7. Enter the name, address
+and committee position or the title of
+custodian of the committee’s books
+and records on Line 7. The telephone
+number is optional, but is helpful in
+expeditiously resolving potential filing
+problems. If the treasurer is the custodian of records, the term “treasurer”
+is sufficient for Line 7.
+LINE 8. Enter the name and address
+of the committee’s treasurer on Line
+8. The name and address of any designated agent (e.g., assistant treasurer)
+must also be included on Line 8. Every
+political committee must have a treasurer and may designate an assistant
+treasurer who shall assume the duties
+and responsibilities of the treasurer, in
+the event the treasurer is unavailable.
+The Commission recommends that
+each political committee designate an
+assistant treasurer because no contribution or expenditure may be accepted
+or made by or on behalf of a political
+committee at a time when there is a
+vacancy in the office of the treasurer.
+No expenditure may be made for or on
+behalf of a political committee without the authorization of its treasurer
+9-00070
+
+Federal Election Commission (Revised 02/09)
+
+or another agent authorized orally or
+in writing by the treasurer.
+LINE 9. The committee must provide
+the name and mailing address of any
+bank, repository, or depository where
+the committee holds funds. Each political committee must have a checking
+account or transaction account at one
+of its depositories. All receipts of a
+political committee must be deposited
+into a designated campaign depository. All disbursements must be made
+by check or similar drafts drawn on
+an account at a designated campaign
+depository, except for expenditures of
+$100 or less made from a petty cash
+fund.
+Submit any additional information
+required for any Line on separate continuation sheets appropriately labeled
+and attached to the Statement of Organization. Indicate in the appropriate
+section when information is continued
+on separate page(s).
+Treasurer’s Responsibilities
+The treasurer of the political committee must preserve a copy of the
+Statement of Organization and each
+amendment for a period of not less
+than 3 years after the date of filing.
+The treasurer of the political committee is personally responsible for
+the timely and complete filing of this
+Statement and for the accuracy of any
+information contained in it.
+Where to File
+The original Statement of Organization (FEC FORM 1) and all
+amendments must be filed with the
+appropriate office as follows:
+•The principal campaign committee
+of a candidate for the House of Representatives and political committees which support or oppose only
+candidates for the House file with
+the Federal Election Commission,
+999 E Street, N.W., Washington,
+DC 20463.
+•The principal campaign committee of
+a candidate for the Senate and political committees which support or oppose only candidates for the Senate
+
+file with the Secretary of the Senate,
+Office of Public Records, 232 Hart
+Senate Office Building, Washington,
+DC 20510-7116. Mail addressed to
+the Secretary of the Senate should
+read: “Office of Public Records, P.O.
+Box 77578, Washington, DC 200137578. ”
+•An authorized committee which is
+not the principal campaign committee of a candidate files with the
+principal campaign committee which
+must forward a copy to the appropriate office listed herein.
+•All other committees, including the
+principal campaign committee of
+a candidate for the office of President or Vice President, file with the
+Federal Election Commission, 999
+E Street, N.W., Washington, DC
+20463.
+Principal campaign committees of
+House and Senate candidates must
+file a copy of this form with the state
+in which the office is sought, with the
+exception of committees of candidates
+in states that have qualified for the
+Commission’s state filing waiver program. Principal campaign committees
+of Presidential candidates must file
+a copy of this form in each state in
+which they have made expenditures,
+with the exception of those states that
+have qualified for the Commission’s
+state filing waiver program. A list of
+qualified states is available from the
+Federal Election Commission.
+Unauthorized political committees
+must continue to file copies of this
+form with the states in which they have
+their headquarters, with the exception of committees that are located in
+states that have qualified for the state
+waiver program.
+The Treasurer must sign the Statement of Organization.
+
+Page 3
+
+

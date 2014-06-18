@@ -1,0 +1,3512 @@
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+FEDERAL ELECTION COMMISSION
+
+Report of Receipts and Disbursements for
+Other than an Authorized Committee (FEC FORM 3X)
+(Filed by party committees and
+political action committees
+(PACs))
+Use FEC FORM 3X to file your
+report. Listed below are the summary
+pages and schedules of FEC FORM
+3X, with an explanation of what each
+discloses.
+FEC FORM 3X: Page 1, Report of
+Receipts and Disbursements
+Identifies the committee, the type of
+report and the reporting period.
+FEC FORM 3X: Page 2, Summary
+Page
+Identifies the committee; discloses
+the committee’s total receipts and
+disbursements for the reporting period
+and the calendar year to date.
+FEC FORM 3X: Pages 3 – 5,
+Detailed Summary Page
+Summarizes receipts and disbursements by type of activity; shows reporting period and calendar year to
+date totals for each type of activity.
+FEC FORM 3X: Schedules
+A:	 Provides detailed information
+for each receipt that is required to be
+itemized. Use a separate Schedule A
+to support each Line number that
+appears on the Detailed Summary
+Page.
+B:	 Provides detailed information
+for each disbursement that is required
+to be itemized. Use a separate Schedule B to support each Line number
+that appears on the Detailed Summary
+Page.
+C:	 Shows all loans, endorsements
+and loan guarantees the committee
+receives or makes.
+C-1: 	Shows all loans and lines of
+credit made by lending institutions to
+the committee.
+D:	 Shows debts and obligations
+owed to or by the committee that are
+required to be disclosed.
+	
+
+Federal Election Commission (Revised 4/2006)
+
+E:	 Shows all independent expenditures made during the reporting
+period. Schedule may also be used
+to separately disclose last-minute
+independent expenditures of $1,000
+or more made between the 20th day
+and 24 hours before the date of an
+election.
+F:	 Shows all coordinated party
+expenditures. (Used by party committees only.)
+H1:	 Shows method of allocation
+for allocated federal and nonfederal
+administrative expenses, exempt activity costs and generic voter drive costs,
+allocated federal/Levin fund “federal
+election activity” expenses (for State,
+district and local party committees
+only) and allocated public communications that refer only to a party (for
+PACs only).
+H2:	 Shows allocation ratios for
+other allocated federal and nonfederal
+activity, including individual fundraising events and direct candidate support appearing on the report.
+H3:	 Shows transfers from nonfederal accounts to federal accounts
+for the purpose of paying allocable
+expenses.
+H4:	 Shows disbursements for allocated federal and nonfederal activity.
+H5:	 Shows transfers of Levin
+funds for allocable federal election
+activity.
+H6:	 Shows disbursements of federal and Levin funds for allocable
+federal election activity.
+L:	 Aggregation page for showing
+receipt and disbursement of Levin
+funds.
+L-A: Memo schedule for itemizing
+receipts of Levin funds.
+L-B: Memo schedule for itemizing
+disbursements of Levin funds.
+Illegible and Non-FEC Forms
+Illegible reports and reports submitted on non-FEC forms are not
+acceptable and must be refiled.
+
+Electronic Filing
+Political committees must file reports in an electronic format under
+11 CFR 104.18 if they either receive
+contributions or make expenditures
+in excess of $50,000 during the calendar year, or if they have reason to
+expect that they will exceed either
+of those thresholds. If the committee has reached this level of activity,
+DO NOT FILE THIS FORM ON
+PAPER. Instead, you must file this
+form in an electronic format. See the
+instructions for more information on
+filing electronically.
+Computerized Format
+FEC FORM 3X may be filed by
+paper filers in a computerized format,
+but the Commission must approve the
+computerized format before the report
+is filed. Submit sample formats to the
+Reports Analysis Division.
+Faxing Forms
+Most reports may not be filed by
+FAX because original signatures are
+required.
+Other Forms and Their Uses
+The forms listed below are also
+available. When ordering, please order
+by form number.
+FEC FORM 1: Statement of
+Organization
+Used by all political committees
+to register under the federal election
+law.
+FEC FORM 1M: Notification of
+Multicandidate Status
+Used by PACs and party committees to notify the Commission of
+their status as a multicandidate committee.
+
+Page 1
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+FEC FORM 7: Report of
+Communications Costs by
+Corporations and Membership
+Organizations
+Used by corporations and labor
+organizations to disclose internal partisan communication costs that exceed
+$2,000 for an election.
+FEC FORM 8: Debt Settlement
+Plan
+Used by terminating committees
+to disclose the terms of debt settlements.
+These Forms may be duplicated.
+To obtain additional forms, call
+the Information Division at 1800/424-9530 or 202/694-1100 or
+visit the FEC’s Web site at www.
+fec.gov.
+
+Page 2	
+
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SUMMARY PAGE (FEC FORM
+3X, PAGES 1–2)
+Who Must File
+Any political committee which
+is not an authorized committee is
+required to file periodic Reports of
+Receipts and Disbursements on FEC
+FORM 3X.
+Note: Political committees must
+file reports in an electronic format
+under 11 CFR 104.18 if they have
+either received contributions or made
+expenditures in excess of $50,000, or
+if they have reason to expect that they
+will exceed either of those thresholds
+during the calendar year. If the committee has reached this level of activity, DO NOT FILE THIS FORM ON
+PAPER. Instead, you must file this
+form in an electronic format.
+A political committee is considered
+to have reason to expect it will exceed
+the electronic filing threshold for the
+next two calendar years after the calendar year in which it exceeds $50,000
+in contributions or expenditures. If it
+is a new committee, it is considered to
+have reason to expect it will exceed the
+electronic filing threshold if it exceeds
+$12,500 in contributions or expenditures during the first calendar quarter
+of the calendar year, or $25,000 in
+contributions or expenditures in the
+first half of the calendar year.
+Contact the FEC for more information on filing electronically.
+ALL POLITICAL COMMITTEES AUTHORIZED IN WRITING BY A CANDIDATE FOR THE
+OFFICE OF PRESIDENT OR VICE
+PRESIDENT MUST FILE ON FEC
+FORM 3P.
+ALL POLITICAL COMMITTEES AUTHORIZED BY A CANDIDATE FOR THE HOUSE OF
+REPRESENTATIVES OR SENATE
+MUST FILE ON FEC FORM 3.
+When to File
+All political committees required to
+file on FEC FORM 3X must file either:
+election and non-election year reports
+as specified in (A) below; or monthly
+reports as specified in (B) below.
+	
+
+Federal Election Commission (Revised 4/2006)
+
+Note: State, district and local committees of political parties that are
+political committees under the Act
+must disclose receipts and disbursements for Federal election activity. If
+the committee’s aggregate amount of
+such receipts and disbursement is less
+than $5,000 in a calendar year, it must
+report only receipts and disbursements
+of Federal funds for Federal election
+activity. If the aggregate amount
+of such receipts and disbursements
+during the calendar year equals or
+exceeds $5,000, the committee must
+report all receipts and disbursements
+for Federal election activity. 2 U.S.C.
+§434(e)(2). The reporting periods for
+political party committees disclosing
+receipts and disbursements for Federal
+election activity are monthly, except
+for pre-general and post-general
+election reports. 2 U.S.C. §434(e)(4)
+(citing 2 U.S.C. §434(a)(4)(B)). Otherwise, political committees that are
+State, district and local committees
+of political parties must file quarterly
+and pre- and post-election reports in
+election years and semi-annual reports
+in non-election years for their other
+activity. 2 U.S.C. §434(a).
+(A) Election Year and NonElection Year Reports
+In any calendar year in which there
+is a “regular” November general
+election, the following reports are required:
+•Quarterly reports must be filed no
+later than April 15, July 15, October
+15 and January 31 of the following
+calendar year. Each such report must
+disclose all transactions from the last
+report filed through the last day of
+the calendar quarter. A quarterly
+report is not required to be filed if a
+Pre-Election report is required to be
+filed during the period beginning on
+the 5th day and ending on the 15th
+day after the close of the calendar
+quarter.
+•Pre-Election reports must be filed no
+later than the 12th day before any
+primary or general election in which
+the committee supports (i.e., makes
+contributions to or expenditures on
+behalf of) or opposes a candidate
+and must include all transactions
+
+from the closing date of the last report filed through the 20th day before
+the election. A 12-Day Pre-Election
+Report sent by certified or registered
+mail must be mailed no later than
+the 15th day before the election. A
+Pre-Primary election report is not
+required where the contribution(s)
+or expenditure(s) has been disclosed
+on a previous report.
+•All committees must file a 30-Day
+Post-General Election Report. A 30Day Post-General Election Report
+must be filed no later than 30-Days
+after the general election and include
+all transactions from the closing date
+of the last report filed through the
+20th day after the general election.
+In any other calendar year, the following reports are required:
+•A Mid Year Report must be filed no
+later than July 31 and include transactions beginning January 1 and
+ending June 30.
+•A Year End Report must be filed no
+later than January 31 of the following
+calendar year and include transactions beginning July 1 and ending
+December 31.
+(B) Monthly Reports
+Monthly reports must be filed no
+later than 20 days after the last day
+of the month and must disclose all
+transactions from the last report filed
+through the last day of the month.
+In lieu of the monthly reports due in
+November and December for a year in
+which there is a “regular” November
+general election, a 12-Day Pre-General
+election report must be filed including
+all transactions from the closing date
+of the last report filed through the
+20th day before the election and a 30Day Post-General election report must
+be filed including all transactions from
+the closing date of the Pre-Election
+report through the 20th day after the
+general election. A Year End Report
+must be filed no later than January
+31 of the following calendar year and
+include transactions from the closing
+date of the Post-General Election
+Report through the last day of the
+calendar year.
+Except for State, district and local party committees required to file
+monthly under 11 CFR 300.36(c)(1)
+Page 3
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+(see above) and national party committees required to file monthly under 11
+CFR 104.5(c)(4), a political committee may elect to change the frequency
+of its reporting from quarterly and
+semi-annually under (A) to monthly
+under (B) or vice versa. A committee
+may change its filing frequency only
+after notifying the Commission in
+writing of its intention at the time it
+files a required report under its current filing frequency. The committee
+will then be required to file the next
+required report under its new filing
+frequency. A committee may change
+its filing frequency no more than once
+per calendar year.
+A document is timely filed upon
+delivery to the appropriate office
+(see “Where To File”) by the close
+of the prescribed filing date or upon
+deposit as registered or certified mail
+in an established U.S. Post Office and
+postmarked no later than midnight of
+the day the report is due, except that
+Pre-Election Reports so mailed must
+be postmarked no later than midnight
+of the 15th day before the date of the
+election. Reports and statements sent
+by first class mail must be received
+by the appropriate office by the close
+of business of the prescribed filing
+date to be timely filed. Reports filed
+electronically are timely filed if the
+report is received and validated by
+the Commission’s computer system
+on or before 11:59 p.m. Eastern Standard/Daylight Savings time on the
+prescribed filing date.
+Where to File
+An original and any amendments
+to an original report must be filed as
+follows:
+•Committees which support or oppose
+only a candidate(s) for the Senate must
+file with the Secretary of the Senate,
+Office of Public Records, 232 Hart
+Senate Office Building, Washington,
+D.C. 20510-7116. Mail addressed to
+the Secretary of the Senate should
+read: “Office of Public Records, P.O.
+Box 5109, Alexandria, VA 223010109.”
+•All other committees must file with
+the Federal Election Commission,
+Page 4	
+
+999 E Street, N.W., Washington,
+D.C. 20463.
+Political committees filing FEC
+FORM 3X must file with the appropriate officer in Guam and Puerto
+Rico a copy of that portion of the
+report applicable to candidates seeking election in those territories (as of
+March 2006, those territories had not
+qualified for the Commission’s state
+filing waiver program).
+
+Line-by-Line Instructions for
+Page 2 (Summary Page)
+
+Report Preparation
+•A political committee may use any
+recordkeeping or accounting system
+which will enable it to comply with
+the Act.
+•The Commission recommends that
+the political committee keep a recordkeeping or accounting system
+that keeps a separate accounting
+for each of the various categories
+of receipts and disbursements on
+pages 3, 4 and 5 (Detailed Summary
+Page). This separate accounting will
+help the political committee fill out
+the reporting forms, since separate
+reporting schedules are required for
+each category.
+•The reporting schedules should be
+filled out so that totals can be derived
+for each category.
+•The total figures should be carried
+forward to pages 3, 4 and 5 (Detailed
+Summary Page) and then (where
+appropriate) from the Detailed
+Summary Page to page 2 (Summary
+Page).
+•Pages 3, 4 and 5 (Detailed Summary
+Page) should be filled out before completing page 2 (Summary Page).
+
+LINE 4. Check the appropriate box
+for “Type of Report”. If the report
+is a 12-Day Pre-Election or 30-Day
+Post-General election report, supply
+the type of election (primary, general,
+convention, special or run-off), the
+date of the election, and the State in
+which the election is held.
+
+Treasurer’s Responsibilities
+A copy of this Report must be preserved by the treasurer of the political
+committee for a period of not less than
+three years from the date of filing. The
+treasurer of the political committee is
+personally responsible for the timely
+and complete filing of the report and
+the accuracy of any information contained in it.
+
+LINE 1. Enter the complete name and
+mailing address of your committee.
+LINE 2. Enter the FEC Identification
+Number assigned to the committee.
+LINE 3. If this is an original report,
+check the “NEW” box. If this is an
+amendment to a previous report,
+check the “AMENDED” box.
+
+LINE 5. Enter the coverage dates for
+this report. All activity from the ending coverage date of the last report
+filed must be included.
+LINE 6(a). Enter the total amount
+of cash on hand at the beginning of
+the calendar year. The term “cash on
+hand” includes: currency; balance on
+deposit in banks, savings and loan
+institutions, and other depository institutions; traveler’s checks owned by
+the committee; certificates of deposit,
+treasury bills and other committee
+investments valued at cost.
+LINE 6(b). Enter the total amount of
+cash on hand at the beginning of the
+reporting period.
+LINE 6(c). Transfer the amounts from
+Column A and Column B of Line 19
+to the corresponding Columns on
+Line 6(c).
+LINE 6(d). Add Lines 6(b) and 6(c) to
+derive the figure for Column A, and
+add Lines 6(a) and 6(c) to derive the
+figure for Column B.
+LINE 7. Transfer the amounts from
+Column A and Column B of Line
+31 to the corresponding Columns on
+Line 7.
+LINE 8. For both Column A and
+Column B subtract Line 7 from Line
+
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+6(d) to derive the figure (which should
+be the same for both columns) for cash
+on hand at the close of the reporting
+period of Line 8.
+LINE 9. Transfer the total amount of
+debts and obligations owed TO the
+committee from Schedule C or D.
+LINE 10. Transfer the total amount
+of debts and obligations owed BY the
+committee from Schedule C or D.
+Multicandidate Committee
+Status
+Check box if the political committee has qualified as a “multicandidate
+committee” and has filed FORM 1M.
+A committee qualifies as a “multicandidate committee” when it:
+(i)	 has been registered with the Commission or Secretary of the Senate
+for at least six months;
+(ii)	has received contributions for
+federal elections from more than
+50 persons; and
+(iii)	(except for any State political
+party organization) has made contributions to five or more federal
+candidates; or satisfies requirements (i)-(iii) by affiliation with
+another committee.
+
+	
+
+Federal Election Commission (Revised 4/2006)
+
+Page 5
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+DETAILED SUMMARY PAGE
+(FEC FORM 3X, PAGES 3, 4
+AND 5)
+A political committee must report
+the total amount of receipts and
+disbursements during the reporting
+period and during the calendar year
+for each category of receipts and disbursements on FEC FORM 3X. The
+committee’s full name and the coverage dates of the report must be entered
+in the appropriate blocks. If there are
+no receipts or disbursements for a particular category for a reporting period
+or calendar year, enter “0”.
+To derive the “Calendar Year-toDate” figure for each category, the
+political committee should add the
+“Calendar Year-to-Date” total from
+the previous report to the “Total This
+Period” from Column A for the current report. For the first report filed
+for a calendar year, the “Calendar
+Year-to-Date” figure is equal to the
+“Total This Period” figure.
+LINE 11(a)(i). Itemized Contributions
+from Individuals/Persons Other Than
+Political Committees. Enter the total
+amount of contributions (other than
+loans) from individuals, partnerships,
+and other persons who are not political committees that are required to be
+itemized on Schedule A. For each such
+person who has made one or more
+contributions during the calendar
+year aggregating in excess of $200, the
+committee must itemize on Schedule
+A and provide the identification (full
+name, mailing address, occupation
+and name of employer) of the person,
+date and amount of each contribution
+aggregating in excess of $200 and the
+aggregate year-to-date total.
+LINE 11(a)(ii). Unitemized Contributions from Individuals/Persons Other
+Than Political Committees. Enter
+the total amount of all contributions
+from individuals/persons other than
+political committees not required to
+be itemized on Schedule A.
+
+Page 6	
+
+LINE 11(a)(iii). Total Contributions
+from Individuals/Persons Other Than
+Political Committees. Add Lines
+11(a)(i) and 11(a)(ii) to derive the figure for Column A. For the Column B
+figure, see above instructions on how
+to calculate the Calendar Year-toDate figure.
+LINE 11(b). Contributions from Political Party Committees. For political
+committees (other than political party
+committees), enter the total amount
+of contributions (other than loans)
+from political party committees on
+Line 11(b). These contributions must
+be itemized on Schedule A, regardless
+of the amount. For each contribution, provide the identification (full
+name and address) of the committee,
+date and amount of the contribution
+and the aggregate year-to-date total.
+Political party committees should use
+Line 12.
+LINE 11(c). Contributions from
+Other Political Committees (such as
+PACs). Enter the total amount of
+contributions (other than loans) from
+other political committees on Line
+11(c). These contributions must be
+itemized on Schedule A, regardless of
+the amount. For each contribution,
+provide the identification (full name
+and address) of the committee, date
+and amount of the contribution and
+the aggregate year-to-date total. Do
+not abbreviate committee names.
+LINE 11(d). Total Contributions. For
+both Column A and Column B add
+Lines 11(a)(iii), 11(b) and 11(c) to
+derive the figures for Line 11(d).
+LINE 12. Transfers from Affiliated/
+Other Party Committees. Political
+party committees must enter the total
+amount of transfers from other party
+committees on Line 12. All other
+political committees must enter the
+total amount of transfers from other
+affiliated committees on Line 12. (See
+also 11 CFR 102.5 and 102.6.) Loans
+and loan repayments received from
+other political party committees or
+affiliated committees (as appropriate)
+must be included on Line 12, and not
+on Line 13. These transfers must be
+
+itemized on Schedule A, regardless of
+the amount. For each transfer provide
+the identification (full name and mailing address) of the committee, date
+and amount of the transfer and the
+aggregate year-to-date total.
+LINE 13. All Loans Received. Enter
+the total amount of loans received
+(other than loans from affiliated/other
+party committees) on Line 13. All
+loans received by the committee must
+be itemized on Schedule A, regardless of the amount. For each loan,
+provide the identification (full name,
+mailing address and, where applicable,
+occupation and name of employer)
+of the person making the loan, date
+and amount of the loan and the aggregate year-to-date total. The committee must also provide on Schedule
+C the identification of any endorser
+or guarantor and the amount of the
+endorsement or guarantee. (See also
+instructions for Schedule C.)
+LINE 14. Loan Repayments Received. Enter the total amount of
+loan repayments received (other than
+loan repayments from affiliated/other
+party committees) on Line 14. All loan
+repayments received by the committee must be itemized on Schedule A,
+regardless of the amount. For each
+loan repayment, provide the identification of the person making the loan
+repayment, date and amount of the
+loan repayment and the aggregate
+year-to-date total.
+LINE 15. Offsets to Operating Expenditures. Enter the total amount
+of offsets to operating expenditures
+(including refunds, rebates, and returns of deposits) on Line 15. For
+each person who provides rebates,
+refunds and other offsets to operating
+expenditures aggregating in excess of
+$200 for the calendar year, the committee must provide on Schedule A the
+identification of the person, date and
+amount of each receipt aggregating
+in excess of $200 and the aggregate
+year-to-date total.
+
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+LINE 16. Refunds of Contributions
+Made to Federal Candidates and
+Other Political Committees. Enter the
+total amount of refunds of contributions made to federal candidates and
+other political committees on Line
+16. If the original check was passed
+through the account of the recipient
+committee and a check for the refund
+is written on the recipient committee’s
+account, the refund must be itemized
+as a receipt on Schedule A, regardless
+of the amount, and the amount of the
+refund must be included in the total
+figure for Line 16. For each contribution refund received, provide the
+full name and address of the federal
+candidate or political committee, date
+and amount of the refund and the aggregate year-to-date total. DO NOT
+use this Line if the original check is
+returned uncashed. The return must
+be reported as a negative entry on
+Schedule B and subtracted from the
+total amount for Line 23.
+
+LINE 18(b). Transfers from Levin
+Funds. Enter the total of any transfers from Levin funds brought to
+the federal account or a separate allocation account in order to pay for
+allocated federal/Levin “federal election activity.” Only committees with
+separate federal and Levin funds who
+undertake allocated federal election
+activity should report transfers from
+Levin funds or accounts. The total
+transfers for this period come from
+the last page of Schedule H5 which
+itemizes any such transfers made for
+allocated activity.
+
+LINE 17. Other Federal Receipts. Enter the total amount of other receipts
+(including dividends and interest) on
+Line 17. For each person who provides any dividends, interest or other
+receipts aggregating in excess of $200
+for the calendar year, the committee
+must provide on Schedule A the identification of the person, the date and
+amount of each receipt aggregating
+in excess of $200 and the aggregate
+year-to-date total.
+
+LINE 20. Total Federal Receipts. This
+Line represents the difference between
+total receipts reported on Line 19 and
+the sum of any transfers into the federal account by nonfederal account(s)
+for allocated activity or from Levin
+funds for allocated federal election
+activity. The value is equal to Line 19
+minus Line 18(c).
+
+LINE 18(a). Transfers from Nonfederal Account for Allocated Activity.
+Enter the total of any transfers from
+nonfederal accounts to the federal account or a separate allocation account
+in order to pay for allocated federal/
+nonfederal activity. Only committees
+with separate federal and nonfederal
+accounts who undertake allocated
+activity affecting both types of campaigns may make transfers among
+these accounts. The total transfers for
+this period come from the last page of
+Schedule H3 which itemizes any such
+transfers made for allocated activity.
+See the instructions for Schedule H3
+for more information.
+
+	
+
+Federal Election Commission (Revised 4/2006)
+
+LINE 18(c). Total Transfers. For both
+Column A and Column B add Lines
+18(a) and 18(b) to derive the figures
+for Line 18(c).
+LINE 19. Total Receipts. For both
+Column A and Column B add the
+totals on Lines 11(d), 12, 13, 14, 15,
+16, 17, and 18(c) to derive the figures
+for Line 19.
+
+LINE 21. Note: Line 21(a) is required
+only for those committees undertaking
+activity which is allocated among federal and nonfederal accounts. Committees with no nonfederal accounts,
+or who do not undertake activities
+which are allocated among federal
+and nonfederal accounts complete
+only Lines 21(b) and (c). All operating expenses for those purely federal
+committees must be included on Line
+21(b).
+Operating Expenditures: Enter the
+total amount of operating expenditures and allocated federal/nonfederal
+activity on the appropriate Line under Line 21. Examples of operating
+expenditures are: travel, rent and
+telephones. Committees report only
+those operating expenditures paid for
+from committee funds.
+
+LINE 21(a). Allocated Federal/Nonfederal Activity. Enter the federal
+portion of all operating expenses for
+allocated federal and nonfederal activity on Line 21(a)(i). This is equal to the
+federal share value from the bottom
+of the last page of Schedule H4 for
+this period. These allocated activities
+– including allocated disbursements
+for administrative expenses, generic
+voter drives, fundraising expenses and
+direct candidate support – must be
+itemized on Schedule H4 regardless
+of amount. Separate segregated funds
+and nonconnected committees must
+also include allocated disbursements
+for public communications that refer
+only to a party, while party committees must include disbursements for allocable exempt activity. Line 21(a)(ii)
+contains the sum of the nonfederal
+share of operating expenses for allocated federal and nonfederal activity.
+This value also is brought forward
+from the last page of Schedule H4 for
+this period. See the instructions for
+Schedule H4 for more information.
+LINE 21(b). Other Federal Operating
+Expenditures. Enter on Line 21(b)
+the sum of all other federal operating
+expenditures, including those itemized
+on Schedule B as well as any unitemized federal operating expenditures.
+Separate segregated funds and nonconnected committees must report
+disbursements for public communications and voter drives that refer to
+federal candidates (but not nonfederal
+candidates), or refer to federal candidates and a party (but not nonfederal
+candidates), on Line 21(b) or Line 23,
+as appropriate. See the instructions for
+Schedule B for more information. For
+each person who receives payments for
+other federal operating expenditures
+aggregating in excess of $200 for the
+calendar year, the committee must
+provide on Schedule B the full name
+and mailing address, date and amount
+of the expenditure.
+
+Page 7
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+LINE 21(c). Total Operating Expenditures. Enter the total of the amounts
+listed on Lines 21(a)(i), 21(a)(ii) and
+21(b).
+LINE 22. Transfers to Affiliated/
+Other Party Committees. Political
+party committees must enter the total amount of transfers to all other
+political party committees on Line 22.
+All other political committees must
+enter the total amount of transfers to
+other affiliated committees on Line
+22. Loans and loan repayments made
+to other political party committees or
+affiliated committees (as appropriate)
+must be included on Line 22, not on
+Line 26 or 27. These transfers must be
+itemized on Schedule B, regardless of
+the amount. For each transfer, provide
+the full name and mailing address of
+the recipient committee, date, amount
+and state that the purpose of the disbursement is a “transfer.”
+LINE 23. Contributions to Federal
+Candidates/Committees and Other
+Political Committees. Enter the total
+amount of contributions to federal
+candidates and other federally-registered political committees on Line 23,
+including any in-kind contributions
+made. These contributions must be
+itemized on Schedule B, regardless of
+the amount. DO NOT include transfers reported on Line 22 on this Line.
+Do not enter contributions made to
+nonfederal candidates or committees
+on this Line, but on Line 29. For each
+contribution to a federal candidate
+or political committee, provide the
+full name and address of the political committee or candidate, date and
+amount of the contribution and, in
+the case of a candidate or authorized
+committee, the office sought by the
+candidate. (Include State and congressional district, where applicable.)
+LINE 24. Independent Expenditures.
+Enter the total amount of independent
+expenditures on Line 24. (See also the
+instructions for Schedule E.)
+
+Page 8	
+
+LINE 25. Coordinated Party Expenditures. For political party committees,
+enter the total amount of coordinated
+party expenditures made by the committee pursuant to 2 U.S.C. §441a(d)
+on Line 25. Note: Political committees
+which are not political party committees may not make coordinated party
+expenditures pursuant to the special
+allowance at 2 U.S.C. §441a(d). (See
+also the instructions for Schedule F.)
+
+LINE 28(b). Refunds of Contributions to Political Party Committees.
+Enter the total amount of contribution
+refunds to political party committees
+on Line 28(b). All such refunds must
+be itemized on Schedule B, regardless
+of the amount. For each contribution
+refund, provide the full name, mailing
+address, date, amount and state that
+the purpose of the disbursement is a
+“contribution refund.”
+
+LINE 26. Loan Repayments Made.
+Enter the total amount of loan repayments made on Line 26. All loan
+repayments made must be itemized on
+Schedule B, regardless of the amount.
+For each person who receives a loan
+repayment, provide the full name,
+mailing address, date, amount, and
+state that the purpose of the disbursement is a “loan repayment.”
+
+LINE 28(c). Refunds of Contributions to Other Political Committees.
+Enter the total amount of contribution refunds to other political committees on Line 28(c). (See instructions
+for Line 28(b) for other reporting
+requirements.)
+
+LINE 27. Loans Made. Enter the
+total amount of loans made (excluding transfers reported on Line 22) on
+Line 27. For each loan made by the
+committee provide the full name and
+mailing address of the person, date
+and amount of the loan, and state
+that the purpose of the disbursement
+is a “loan.”
+LINE 28(a). Refunds of Contributions Made to Individuals/Persons
+Other Than Political Committees. Enter the total amount of contribution
+refunds to individuals/persons other
+than political committees on Line
+28(a). For each person who receives
+a refund of a contribution which
+was previously itemized on Schedule
+A, the committee must provide on
+Schedule B the full name, mailing
+address, date, amount and state that
+the purpose of the disbursement is a
+“contribution refund.”
+
+LINE 28(d). Total Contribution Refunds. For both Column A and Column B add the totals on Lines 28(a),
+28(b) and 28(c) to derive the figures
+for Line 28(d).
+LINE 29. Other Disbursements. Enter
+the total amount of other disbursements (including contributions to
+nonfederal candidates) on Line 29.
+Separate segregated funds and nonconnected committees that use their
+federal accounts to pay for any portion
+of a public communication or voter
+drive that refers to nonfederal candidates (but not federal candidates) or
+to nonfederal candidates and a party
+(but not federal candidates) must enter
+those disbursements on Line 29. See
+the instructions for Schedule B for
+more information. For each such person who receives any disbursement(s)
+not otherwise disclosed where the aggregate amount or value is in excess
+of $200, the committee must provide
+the full name and address of each
+such person, together with the date,
+amount and purpose of any such
+disbursement.
+
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+LINE 30. Federal Election Activity.
+Only State, district and local party
+committees making disbursements for
+federal election activities as defined by
+2 U.S.C. §431(20) and 11 CFR 100.24
+must enter figures on Line 30. See the
+instructions for Schedules B, H1, H5
+and H6 for more information. Break
+out such disbursements as follows:
+LINE 30(a). Allocated Federal Election Activity. Enter the total amount
+of the federal portion of all such
+disbursements for allocable federal
+election activity on Line 30(a)(i). This
+is equal to the federal share value
+from the bottom of the last page of
+Schedule H6 for this period. All
+such disbursements must be itemized
+regardless of amount on Schedule
+H6. Enter the total amount of the
+Levin share of disbursements for allocable federal election activity on Line
+30(a)(ii). (See also the instructions for
+Schedules H1, H5 and H6 for definitions of “allocable federal election
+activity” and more information.) Note
+that if the federal election activity is
+not allocable under 11 CFR 300.33,
+or if the party committee chooses
+to pay for allocable federal election
+activity completely from its federal
+account, those payments must instead
+be reported on Line 30(b) below and
+itemized as required on Schedule B.)
+
+LINE 30(c). Total Federal Election
+Activity. For Column A and Column
+B, add the totals on Lines 30(a)(i),
+30(a)(ii) and 30(b) to derive the figures
+for Line 30(c).
+LINE 31. Total Disbursements. For
+Column A and Column B add the
+totals on Lines 21(c), 22, 23, 24, 25,
+26, 27, 28(d), 29 and 30(c) to derive
+the figures for Line 31.
+LINE 32. Total Federal Disbursements. Subtract from Line 31 (total
+disbursements) the total nonfederal
+share of disbursements from Line
+21(a)(ii) and the total Levin share of
+disbursements from Line 30(a)(ii).
+LINES 33-38. Enter the figures requested and complete the calculations
+as noted.
+
+LINE 30(b). Federal Election Activity Paid Entirely With Federal Funds.
+Enter the total amount of all disbursements made for public communications that qualify as federal election
+activity under 11 CFR 100.24(b)(3)
+and the total amount of all disbursements made to pay the salary of any
+employee of a State, district or local
+party committee who spends over
+25% of his or her compensated time
+in a given month on federal election
+activities or on activities in connection
+with a federal election. See 11 CFR
+100.24(b)(4). Itemize all such disbursements of $200 or more on Schedule B
+for Line 30(b). (See also the instructions for Schedule B.)
+
+	
+
+Federal Election Commission (Revised 4/2006)
+
+Page 9
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE A, ITEMIZED
+RECEIPTS (FEC FORM 3X)
+The Detailed Summary Page is
+broken down into various categories
+of receipts. Use Schedule A to list
+each receipt required to be itemized.
+DO NOT combine more than one category of receipts on the same Schedule
+A. Instead, use a separate Schedule
+A for each category of receipts. The
+Line number of the Detailed Summary Page to which each Schedule
+A pertains should be identified in the
+upper right corner of each Schedule.
+In addition, the committee’s full name
+must be entered in the appropriate
+block. For each receipt required to be
+itemized during the reporting period,
+the political committee must provide
+the identification, date and amount of
+the receipt, and the aggregate year-todate total. If disclosing a contribution
+from a federal political committee, the
+committee should enter the committee’s FEC identification number. (This
+number is readily available from the
+Commission’s Web site or its Public
+Disclosure Division.)
+The term “identification” means,
+in the case of an individual, his or her
+full name, including: first name, middle
+name or initial, if available, and last
+name; mailing address; occupation;
+and the name of his or her employer;
+and, in the case of any other person, the
+person’s full name and address. Do not
+abbreviate committee names.
+The occupation and name of employer is only required to be provided
+for receipts from individuals. “Occupation” means the principal job title or
+position of an individual and whether
+or not self-employed. “Employer”
+means the organization or person by
+whom an individual is employed, and
+not the name of his or her supervisor.
+The “receipt for” block does not apply to contributions received by political committees. Only use these blocks
+for receipts relating to refunds or loan
+repayments received from federal candidates. The “aggregate year-to-date”
+total must be given for each receipt
+and must equal the total amount that
+Page 10	
+
+the person has given to the committee
+for that particular category of receipts
+for the calendar year. If a receipt is the
+only receipt from a person during the
+calendar year, the aggregate year-todate total must still be entered.
+Add the “Total This Period” amount
+(the last Line on Schedule A) to all
+other receipts for that category which
+are not itemized and carry it forward to
+Column A of the corresponding Line
+of the Detailed Summary Page.
+If a contribution is received from a
+business entity or is drawn on what is
+or appears to be a business account,
+the political committee must determine
+that the contribution is not from a
+corporation, government contractor,
+or other prohibited source. If the contribution is from a prohibited source,
+the committee must refund it within
+thirty days of its receipt.
+A contribution that appears to be
+excessive, either on its face or when aggregated with other contributions from
+the same person, may be reattributed,
+if either is applicable, or it may be returned or deposited into a committee
+depository but not used. If deposited,
+the contributor may be asked if a joint
+contribution was intended and, if so, to
+submit a written reattribution of the
+contribution signed by each contributor. Alternatively, contributions may
+also be presumptively reattributed to
+a joint contributor whose name also
+appears imprinted on the contribution check if the reattribution will not
+cause the contributor to exceed any
+contribution limits. If the committee
+presumptively reattributes the excessive contribution, the committee must
+notify the contributor of its action,
+and offer the opportunity to request a
+refund, within sixty days of its receipt
+of the original contribution. Written
+reattributions are to be reported as
+memo entries on the report covering
+the period in which the committee
+receives the reattributions. Indicate
+how the contribution(s) was reported
+initially, followed by the reattributed
+entry(ies). Presumptive reattributions
+must also be noted as such. See 11 CFR
+110.1(k)(3)(ii)(B) for presumptive reattributions, and 11 CFR 104.8 and the
+Campaign Guide for the reporting of
+
+these types of contributions.
+Contributions In-Kind. Contributions in-kind (i.e., goods and services
+provided to a political committee)
+are treated as any other contribution
+and must be reported and itemized
+under the appropriate category of
+receipts. For example, itemize a contribution in-kind from an individual
+on Schedule A and report it under the
+category for “Contributions From Individuals/Persons Other Than Political
+Committees.” Enter the value of each
+contribution in-kind in the “Amount
+of Each Receipt This Period” column.
+The amount or value of the contribution in-kind is the difference between
+the usual and normal charge for the
+goods or services at the time of the
+contribution and the amount charged
+the political committee. The “aggregate year-to-date” total must include
+the total amount of all contributions
+which the person has contributed to the
+committee during the calendar year.
+The item must be labeled “contribution
+in-kind” and include the nature of the
+contribution (e.g., consulting, polling,
+etc.). Each contribution in-kind must
+also be reported in the same manner
+as an operating expense on Schedule B
+and included in the total for “Operating Expenditures.” (Note: A political
+committee that makes a contribution
+in-kind only reports it as a disbursement and itemizes the transaction on
+Schedule B with a notation “contribution in-kind.” The itemization must
+include the purpose of the expenditure
+(e.g., consulting, polling, etc.) and the
+aggregated year-to-date amount. The
+committee receiving the contribution
+in-kind must report it as both a receipt
+and an expenditure.)
+Report contributions of stocks,
+bonds, art objects, and other similar
+items to be liquidated as follows:
+(1) If the item has not been liquidated
+at the close of the reporting period, the committee must record
+as a memo entry (not as cash) on
+Schedule A the item’s fair market
+value on the date received, including the name and mailing address
+(and when in excess of $200, the
+occupation and name of the emFederal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+ployer) of the contributor. Enter
+the total amount of items to be
+liquidated under “Total This Period” on the last Line of Schedule
+A. This amount must NOT be
+carried forward to the Detailed
+Summary Page.
+(2) When the item is sold, the committee must report the proceeds and
+include them in the appropriate
+categories on the Detailed Summary Page. It must also report
+the (i) name and mailing address
+(and, where in excess of $200, the
+occupation and name of employer)
+of the purchaser on Schedule A, if
+purchased directly from the committee (the purchaser is considered
+to have made a contribution to the
+committee); and (ii) the identification of the original contributor on
+Schedule A.
+Exempt Legal or Accounting Services. Legal or accounting services
+rendered to or on behalf of any political committee are not contributions or
+expenditures and are not, therefore,
+subject to the contribution limitations
+and prohibitions, if the person paying
+for the services is the regular employer
+of the individual rendering the services
+and if the services are solely to ensure
+compliance with the Act.
+The political committee must itemize as a memo entry on a separate
+Schedule A each person who provides
+legal or accounting services to the political committee in an aggregate value
+or amount in excess of $200 within the
+calendar year, together with the date
+of receipt and amount or value of the
+exempt legal or accounting services,
+and state that the receipt is for “exempt
+legal or accounting service.” Enter
+the total amount of exempt legal or
+accounting services on the Line for
+“Total This Period” on the bottom of
+Schedule A, but do not carry it forward
+to any category or Line number on the
+Detailed Summary Page.
+Earmarked Contributions. For each
+earmarked contribution received (regardless of the amount), the political
+committee must report on Schedule A
+the name and address of the original
+	
+
+Federal Election Commission (Revised 4/2006)
+
+contributor, the date of receipt, the
+amount of the contribution and, if the
+original contributor makes contributions aggregating in excess of $200 to
+the political committee during the calendar year, the occupation and name
+of employer. If the contribution passes
+through the political committee’s account and is forwarded to another political committee or federal candidate,
+the conduit committee must disclose
+each contribution, regardless of the
+amount, on both Schedule A and
+Schedule B and include the amount
+under the appropriate category of
+receipts and disbursements. If the
+contribution was passed on in the form
+of the contributor’s check, the conduit
+must disclose each contribution on a
+separate Schedule A attached to the
+conduit’s (intermediary) next report.
+The amounts of such contributions
+are not required to be included in the
+totals for the appropriate categories of
+receipts and disbursements. If a political committee is not a conduit, but is
+the intended recipient, report each
+conduit through which the earmarked
+contribution passed, including the
+name and address of the conduit, and
+whether the contribution was passed
+on in cash, by the contributor’s check,
+or by the conduit’s check. If the conduit exercises direction and control
+over the contribution, the earmarked
+contribution must also be attributed
+to the contribution limitations of the
+conduit.
+Checks Returned Due to Insufficient
+Funds. If a contributor’s check is returned to the political committee due
+to insufficient funds and the receipt of
+the check was previously reported, the
+political committee must report the
+return under the appropriate category
+of receipts as a negative entry and net
+out the amount of the check from the
+total for that category. If the original
+receipt of the check was itemized on
+Schedule A, the return of the check
+must also be itemized as a negative
+entry on Schedule A. If the receipt of
+the check was never reported, do not
+report the return of the check.
+
+Check Refunded to the Committee.
+A contribution may be refunded to the
+committee in one of two ways:
+(1) The original check is returned
+uncashed. If the contribution
+was reported, report the return
+as a negative entry on Schedule
+B, and subtract the amount of
+the contribution refund from the
+disbursement totals on the Line of
+the Detailed Summary Page that it
+was reported on.
+(2) The original check is not returned
+and the refund is made by a check
+from the recipient of the contribution. Such a transaction should be
+reported as a receipt on Schedule
+A for the appropriate Line of the
+Detailed Summary Page. This procedure is applicable regardless of
+whether the amount refunded is a
+full or only a partial refund of the
+contribution or whether the contribution was previously reported.
+Best Efforts. When the treasurer
+of a political committee shows that
+best efforts have been used to obtain,
+maintain and submit the information
+required, the committee shall be considered in compliance with the Act.
+With regard to reporting the
+identification of each person whose
+contribution(s) to the committee and
+its affiliated committees aggregate
+in excess of $200 in a calendar year,
+the treasurer will only be deemed to
+have exercised best efforts to obtain,
+maintain and report the required information if all written solicitations
+for contributions include a clear request for the information (i.e., name,
+mailing address, occupation, name
+of employer) and include an accurate
+statement of federal law regarding the
+collection and reporting of individual
+contributor identifications. In addition, for each contribution requiring
+itemization which lacks contributor
+information, the treasurer must,
+within 30-Days of receipt of the contribution, make one effort to obtain
+the missing information. See 11 CFR
+104.7 and the Campaign Guide for
+more information.
+
+Page 11
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE B, ITEMIZED
+DISBURSEMENTS
+(FEC FORM 3X)
+The Detailed Summary Page is
+broken down into various categories
+of disbursements. Use Schedule B to
+list each disbursement required to be
+itemized. DO NOT combine more
+than one category of disbursements
+on the same Schedule B. Instead, use a
+separate Schedule B for each category
+of disbursements. The Line number of
+the Detailed Summary Page to which
+each Schedule B pertains must be
+identified in the upper right corner of
+each Schedule. In addition, the committee’s full name must be entered in
+the appropriate block. After itemizing
+the required disbursements for each
+separate line number, add the “Total
+This Period” amount (the last line on
+Schedule B for that Line number) to all
+other disbursements for that category
+which are not itemized and carry the
+total forward to Column A of the
+corresponding Line of the Detailed
+Summary Page.
+Required Information. For each
+disbursement required to be itemized
+during the reporting period, the political committee must provide the full
+name, mailing address, date, amount,
+and purpose of the disbursement.
+Purpose of Disbursement. The term
+“purpose” means a brief statement or
+description of why the disbursement
+was made. Examples of adequate
+descriptions include the following:
+dinner expenses, media, salary, polling, travel, party fees, phone banks,
+travel expenses and catering costs.
+However, statements or descriptions
+such as “advance,” “election day expenses,” “other expenses,” “expense
+reimbursement,” “miscellaneous,”
+“outside services,” “get-out-the-vote,”
+and “voter registration,” would not
+meet the requirement for reporting
+the purpose of an expenditure. If the
+disbursement is a “loan repayment,”
+“contribution refund,” or other similar
+category of disbursement (other than
+Page 12	
+
+an operating expenditure), the name
+of the category of disbursement (i.e.,
+“loan repayment,” etc.) is sufficient to
+meet the requirement for reporting the
+purpose of an expenditure.
+Along with reporting the purpose
+of the expenditure as required above,
+the committee should also broadly
+characterize disbursements by providing the code for each category of
+disbursement. Examples of the types
+of disbursements that fall within each
+of the broad categories are listed below.
+Use only one code for each itemized
+disbursement. In cases where the disbursement was for several purposes, the
+political committee should assign one
+code according to the primary purpose
+of the disbursement. Note that some of
+the category titles are not acceptable as
+the “purpose” of the disbursement and
+that the categories are not intended to
+replace or to serve as a substitute for
+the “purpose of disbursement.”
+001	Administrative/Salary/Overhead
+Expenses (e.g., rent, staff salaries,
+postage, office supplies, equipment,
+furniture, ballot access fees, petition drives, party fees and legal and
+accounting expenses)
+002	Travel Expenses—including travel
+reimbursement expenses (e.g.,
+costs of commercial carrier tickets;
+reimbursements for use of private
+vehicles; advance payments for
+use of corporate aircraft; lodging
+and meal expenses incurred during
+travel)
+003	Solicitation and Fundraising
+Expenses (e.g., costs for direct
+mail solicitations and fundraising
+events including printing, mailing
+lists, consultant fees, call lists, invitations, catering costs and room
+rental)
+004	Advertising Expenses—including
+general public political advertising
+(e.g., purchases of radio/television
+broadcast/cable time, print advertisements and related production
+costs)
+005	Polling Expenses
+006	Campaign Materials (e.g., buttons,
+bumper stickers, brochures, mass
+mailings, pens, posters and balloons)
+
+007	Campaign Event Expenses (e.g.,
+costs associated with candidate appearances, campaign rallies, town
+meetings, phone banks, including
+catering costs, door to door getout-the-vote efforts and driving
+voters to the polls)
+008	Transfers (e.g., to other affiliated/
+party committees)
+009	Loans (e.g., loans made or repayments of loans received)
+010	Refunds of Contributions (e.g.,
+contribution refunds to individuals/persons, political party committees or other political committees)
+011	Political Contributions (e.g., contributions to other federal committees and candidates, and donations
+to nonfederal candidates and committees)
+012	Donations (e.g., donations to
+charitable or civic organizations)
+Contributions to Federal Candidates. For disbursements that are
+contributions to federal candidates,
+or authorized committees, list, in the
+appropriate boxes, the name of the
+candidate and office sought (including
+State and congressional district, where
+applicable).
+For each contribution to a federal
+candidate or authorized committee, indicate in the election check-off box the
+election for which the contribution was
+made. Contributions to a candidate or
+authorized committee that are not designated by the contributor for a specific
+election must be counted toward the
+contributor’s limitation for the next
+election after the contribution is made.
+Contributions may be made for a past
+election only to the extent that the recipient has net debts outstanding from
+that particular election. In the event the
+contribution was made for an election
+prior to the current election cycle, the
+“Other” box must be checked and the
+type of election specified (e.g., “General 2004,” “Primary 2004”) and debt
+retirement (if applicable). The election
+check-off boxes provided for each
+itemized entry on Schedule B should
+not be used when itemizing operating
+expenditures. For in-kind contributions, including coordinated public
+communications, note “in-kind.”
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+Contributions In-Kind Received
+Contributions in-kind received by
+the committee which are itemized on
+Schedule A must also be itemized as
+an operating expenditure on Schedule
+B. In addition, in the “Purpose of
+Disbursement” box include the notation “Contribution In-Kind,” and
+the nature of the expenditure (e.g.,
+consulting, polling, etc.).
+Disbursements for Federal
+Election Activities That Are
+Made Entirely With Federal
+Funds (State, District and Local
+Party Committees Only)
+Certain federal election activities
+under 2 U.S.C. §431(20)(A)(iii) and
+(iv) conducted by State, district or
+local party committees must be paid
+for with federal funds only. These
+activities are:
+•	Disbursements for public communications that refer to a clearly
+identified candidate for federal office
+and that promote, support, attack
+or oppose any candidate for federal
+office. Identify the candidate supported or opposed when itemizing
+such disbursements.
+•	Disbursements for the salary of any
+employee who spends more than 25
+percent of his or her compensated
+time in a given month on activities in
+connection with a federal election.
+Disbursements for other federal
+election activities may be allocated
+between federal funds and Levin
+funds. 2 U.S.C. §431(20)(A)(i) and
+(ii). State, district or local party committees must itemize such allocated
+disbursements for federal election
+activity on Schedules H5 and H6; for
+more information and definitions of
+“allocable federal election activity,”
+see the instructions for Schedule H1,
+H5 and H6. However, a State, district
+or local political party committee
+may choose to pay for such allocable
+federal election activities with 100%
+federal funds (that is, they may choose
+not to allocate the disbursements even
+though they could do so).
+
+	
+
+Federal Election Commission (Revised 4/2006)
+
+Use Schedule B to report disbursements of federal funds for federal
+election activities made entirely with
+federal funds. This includes disbursements for federal election activities
+that may not be allocated, and those
+that may be allocated, but which are
+not in fact allocated (i.e., that are made
+with 100% federal funds). Itemize
+such disbursements of $200 or more
+on Schedule B for Line 30(b). When
+itemizing disbursements for public
+communications, identify the candidate supported or opposed.
+Disbursements for Public
+Communications and Voter
+Drives (Separate Segregated
+Funds and Nonconnected
+Committees Only)
+Public Communication/Voter Drive
+– Federal. A separate segregated fund
+or nonconnected committee that disburses funds for a public communication or a voter drive that refers only
+to a federal candidate, or to both a
+political party and a federal candidate
+(but not a nonfederal candidate) must
+pay for such disbursements solely out
+of its federal account. Voter drives
+are subject to this requirement only
+if there is a reference to a clearly
+identified federal candidate in printed
+materials, scripted messages or written
+instructions. Itemize such disbursements as “Other Federal Operating
+Expenditures” on Schedule B for Line
+21b. The committee may identify the
+federal candidate referred to in the
+communication or voter drive in the
+space provided. (Exceptions: (1) If
+the communication or voter drive has
+been coordinated with a candidate or
+political party, the committee must
+report the disbursement as an in-kind
+contribution on Schedule B for Line
+23 regardless of amount. See “Contributions to Federal Candidates”
+above for more information. (2) If
+the communication would otherwise
+satisfy the definition of an “electioneering communication” under 11 CFR
+100.29(a), the committee must report
+it as an expenditure on Line 21b or 23,
+and itemize it on a Schedule B for that
+Line, as appropriate.)
+
+Public Communications/Voter
+Drives – Nonfederal. A separate
+segregated fund or nonconnected
+committee that pays for a public communication or a voter drive that refers
+only to a nonfederal candidate, or to
+both a political party and a nonfederal
+candidate (but not a federal candidate)
+may pay for such a disbursement solely
+out of its nonfederal account. Voter
+drives are subject to this requirement
+only if there is a reference to a clearly
+identified nonfederal candidate in
+printed materials, scripted messages
+or written instructions. If it chooses
+to use its federal account to pay for a
+portion of the expense, categorize the
+disbursement by the federal account as
+an “other disbursement” on Line 29
+and itemize on a Schedule B for Line
+29 if necessary.
+Public Communications/Voter
+Drives Referencing Party Only or
+Both Federal/Nonfederal Candidates.
+If a separate segregated fund or
+nonconencted committee chooses to
+allocate disbursements for public communications or voter drives that refer
+to both federal and nonfederal candidates, regardless of any reference to a
+political party, or that refer to a party
+only, the federal/nonfederal disbursements must be reported accordingly
+as allocated expenditures. For more
+information, see the instructions for
+Schedules H1, H2 and H4. Alternatively, if the committee pays for such
+expenditures solely with federal funds,
+or if it does not have a nonfederal
+account, itemize the disbursements
+according to the instructions for itemizing “Public Communication/Voter
+Drive – Federal,” above.
+
+Page 13
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE C, LOANS
+(FEC FORM 3X)
+A loan is a contribution at the
+time it is made and is a contribution
+to the extent it remains unpaid. A
+LOAN WHICH EXCEEDS THE
+CONTRIBUTION LIMITATIONS
+IS UNLAWFUL WHETHER OR
+NOT IT IS REPAID. The aggregate
+amount loaned to a candidate or committee by another individual or political committee, when added to other
+contributions from that individual or
+political committee to that candidate
+or committee, shall not exceed the
+contribution limitations. A loan, to
+the extent it is repaid, is no longer a
+contribution. All loans to a political
+committee (regardless of amount)
+must be disclosed on the first report
+filed with the Commission after the
+date the loan is made.
+When filling out Schedule C, the
+committee must enter its full name in
+the box at the top of the page.
+DO NOT combine loans owed TO
+the committee with those owed BY
+the committee on the same Schedule
+C. Instead, use a separate Schedule C.
+Each loan should be reported separately until extinguished.
+Loans Owed By the Committee
+When a loan is received by the
+committee, it must be itemized on
+Schedule A and must also be disclosed
+on Schedule C (see also instructions
+for Schedule A for itemizing loans
+received by the committee). For each
+loan owed BY the reporting committee at the close of the reporting period,
+the committee must report certain
+basic information on Schedule C in
+the appropriate boxes: (1) full name,
+mailing address and zip code of the
+creditor; (2) if the committee is an
+authorized committee, the election to
+which the loan applies (i.e., primary,
+general or other); (3) the original
+amount of the loan; (4) the cumulative
+payment to date on the loan; and (5)
+the outstanding balance at the close of
+
+Page 14	
+
+the reporting period (i.e., the remaining unpaid portion of the loan).
+Certain additional information
+must be entered on Schedule C in the
+box entitled TERMS: (1) if an intermediary is reported as the source of
+the loan, the original source of the
+loan (which must be disclosed in the
+first box for endorsers and guarantors
+with a notation that the person identified is the original source); (2) the date
+the obligation was incurred; (3) the
+date the loan is due or the amortization schedule (if there is no due date or
+amortization schedule, enter “None”
+on the appropriate Line); (4) the actual
+rate of interest charged on each loan
+(if the loan does not bear an interest
+rate, enter “None” on the appropriate
+Line); and (5) check the box if the loan
+has been secured.
+In instances where the loan has
+endorsers or guarantors, the following information must be supplied: (1)
+the identification of each endorser or
+guarantor, and (2) the amount of the
+endorsement or guarantee outstanding at the close of the reporting period.
+The term “identification” means (a) in
+the case of an individual, his or her full
+name, mailing address, occupation,
+and name of employer; and (b) in the
+case of any other person, the person’s
+full name and address.
+Loans owed BY the committee
+must continue to be reported on each
+subsequent report until repaid. When
+a payment is made to reduce or extinguish the amount of a loan owed BY
+the committee, the payment must be
+itemized on Schedule B, reported on
+the appropriate Line of the Detailed
+Summary Page, and included in the
+“Cumulative Payment to Date” column on Schedule C. If any extension
+for repayment is granted, this should
+be reported on the first report after the
+extension is made.
+If a loan is settled for less than the
+reported amount, the reporting committee must include a statement as to
+the circumstances and conditions under which the debt or obligation was
+extinguished and the amount paid. A
+loan owed BY a political committee
+which is forgiven or settled for less
+than the amount owed is a contribu-
+
+tion. The total amount of loans owed
+BY the committee at the close of the
+reporting period must be entered on
+the Line for “Total This Period” on
+the bottom of the last page and transferred to Line 3 of the last page of
+Schedule D. If no debts or obligations
+are reported on Schedule D, carry the
+outstanding balance forward to the
+Summary Page.
+Loans Owed To the Committee
+When a loan is made by the committee, it must be itemized on Schedule B
+and must also be disclosed on Schedule
+C (see also instructions for Schedule B
+for itemizing loans made by the committee). For each loan owed TO the
+committee at the close of the reporting period, the committee must report
+certain basic information on Schedule
+C in the appropriate boxes: (1) the full
+name, mailing address and zip code of
+each debtor; (2) if the loan was made
+by a political committee other than an
+authorized committee and was made to
+a federal candidate or authorized committee, the election to which the loan
+applies (i.e., primary, general or other);
+(3) the original amount of the loan; (4)
+the cumulative payment to date on the
+loan; and (5) the outstanding balance at
+the close of the reporting period (i.e., the
+remaining unpaid portion of the loan).
+Certain additional information must
+be entered on Schedule C in the box
+entitled TERMS: (1) the date the obligation was incurred; (2) the date the loan
+is due or the amortization schedule (if
+there is no due date or amortization
+schedule, enter “None” on the appropriate Line; (3) the actual rate of interest
+charged on the loan (if the loan does not
+bear an interest rate, enter “None” on
+the appropriate Line); and (4) check the
+box if the loan has been secured. Loans
+owed TO the committee must continue
+to be reported on each subsequent report
+until repaid. When a payment is received
+to reduce or extinguish a loan owed TO
+the committee, the payment must be
+itemized on Schedule A, reported on
+the appropriate Line of the Detailed
+Summary Page, and included in the
+“Cumulative Payment to Date” column
+
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+on Schedule C. If any extension of repayment is granted or made, this should
+be reported on the first report after the
+extension is made.
+The total amount of loans owed TO
+the committee at the close of the reporting period must be entered on the Line
+for “Total This Period” on the bottom of
+the last page and transferred to Line 3 of
+the last page of Schedule D. If no debts
+or obligations are reported on Schedule
+D, carry the outstanding balance forward to the Summary Page.
+Miscellaneous
+Loans by Financial Institutions.
+A loan of money by a State bank, a
+federally chartered depository institution (including a national bank) or a
+depository institution whose deposits
+and accounts are insured by the Federal Deposit Insurance Corporation
+or the National Credit Union Administration is not a contribution by the
+lending institution if the loan is made
+in accordance with applicable banking laws and regulations and is made
+in the ordinary course of business.
+A loan will be deemed to be made in
+the ordinary course of business if it:
+bears the usual and customary interest rate of the lending institution for
+the category of loan involved; is made
+on a basis that assures repayment; is
+evidenced by a written instrument;
+and is subject to a due date or an
+amortization schedule.
+Loans by Political Committees. If a
+political committee makes a loan TO
+any person, the loan shall be subject
+to the contribution limitations. Repayment to the political committee
+of the principal amount of the loan
+is not a contribution by the debtor to
+the lender committee. The repayment
+must be made with funds which are
+permissible under the Act. The payment of interest to the committee by
+the debtor is a contribution only to the
+extent that the interest paid exceeds a
+commercially reasonable rate prevailing at the time the loan is made. All
+
+	
+
+Federal Election Commission (Revised 4/2006)
+
+payments of interest must be made
+from funds which are permissible
+under the Act.
+Endorsers and Guarantors. A loan
+is a contribution by each endorser or
+guarantor. Each endorser or guarantor shall be deemed to have contributed that portion of the total amount of
+the loan for which he or she agreed to
+be liable in a written agreement. Any
+reduction in the unpaid balance of the
+loan shall reduce proportionately the
+amount endorsed or guaranteed by
+each endorser or guarantor in such
+written agreement. In the event that
+such agreement does not stipulate
+the portion of the loan for which
+each endorser or guarantor is liable,
+the loan shall be considered a loan
+by each endorser or guarantor in the
+same proportion to the unpaid balance that each endorser or guarantor
+bears to the total number of endorsers
+or guarantors.
+Loan Repayments. Each committee must disclose all loan payments
+received or made by the committee.
+When a loan repayment is received by
+a committee, the repayment must be
+itemized on Schedule A and included
+in the “Cumulative Payment to Date”
+column on Schedule C. When a loan
+repayment is made by a committee, the
+repayment must be itemized on Schedule B and included in the “Cumulative
+Payment to Date” column on Schedule
+C. Disclose the total amount of loan
+repayments received and the total
+amount of loan repayments made on
+the appropriate Lines of the Detailed
+Summary Page.
+
+Page 15
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE C-1, LOANS AND
+LINES OF CREDIT FROM
+LENDING INSTITUTIONS
+(FEC FORM 3X)
+
+when a line of credit is established and
+in succeeding reporting periods each
+time any draws are made on the line
+of credit and each time the line of
+credit is restructured to change the
+repayment terms. 11 CFR 104.3(d)(1)
+and (3).
+
+Interest Rate. Enter the annual percentage rate (APR) of interest on the
+loan or each draw on the line of credit.
+If reporting a restructured loan or line
+of credit, enter the interest rate under
+the new terms. 11 CFR 104.3(d)(1)(ii)
+and (3).
+
+Background: FEC Regulations
+on Loans from Lending
+Institutions
+Schedule C-1 seeks information
+on loans—including lines of credit—
+from lending institutions such as state
+or federally chartered banks, federally
+insured savings and loan associations
+or federally insured credit unions. The
+purpose of Schedule C-1 is to verify
+that a loan or line of credit does not result in a prohibited contribution from
+the lending institution, a violation of
+the federal campaign finance law.
+Under FEC regulations at 11 CFR
+100.82 and 100.142, a loan “made in
+accordance with applicable banking
+laws” and “in the ordinary course of
+business” is not considered a contribution if certain conditions are met.
+One of these conditions is that the
+loan “is made on a basis which assures
+repayment.” Schedule C-1 documents
+whether or not the loan complies with
+these requirements.
+
+Reporting Loans and Lines of
+Credit on Schedules A and C
+
+Date Incurred or Established. Enter
+the date the committee incurred the
+debt by signing the loan agreement
+(the original agreement or a restructured agreement, as appropriate). 11
+CFR 104.3(d)(1)(i) and (3).
+
+Who Must File Schedule C-1
+A political committee that obtains
+a loan or line of credit from a bank
+or other lending institution must file
+Schedule C-1.
+
+Schedule A. When a committee
+obtains a loan, the committee must
+itemize the receipt on a Schedule A
+for the appropriate Line number.
+However, a line of credit is itemized on
+Schedule A only when the committee
+obtains funds by making a draw on
+the credit.
+Schedule C. As with all loans, loans
+from lending institutions (including
+lines of credit) must be continuously
+disclosed on Schedule C, starting with
+the first report due after the committee
+obtains the loan and continuing with
+each report thereafter until the loan
+is repaid.
+Line-by-Line Instructions
+Schedule C Cross-Reference. Enter
+the Schedule C page number where
+information on the loan or line of
+credit appears.
+Name of Committee Obtaining
+Loan. Enter the full name of the reporting committee.
+
+When to File Schedule C-1
+A Schedule C-1 must be filed for
+each loan and each line of credit obtained from a lending institution. 11
+CFR 104.3(d)(1).
+
+Identification Number. Enter the
+reporting committee’s FEC identification number. If the committee is newly
+registered and has not yet obtained a
+number, enter “not yet assigned.”
+
+Loans. A committee must file a
+Schedule C-1 with its next report when
+it first obtains a loan and in succeeding
+reporting periods each time the terms
+of the loan are restructured. 11 CFR
+104.3(d)(1) and (3). (A restructured
+loan is considered a new loan.)
+
+Name/Address of Lender. Enter the
+full name, address and zip code of the
+lending institution.
+
+Lines of Credit. A committee must
+file a Schedule C-1 with its next report
+Page 16	
+
+Loan Amount. Enter the amount of
+the loan or line of credit. If reporting
+a restructured loan or line of credit,
+enter the amount under the new terms.
+11 CFR 104.3(d)(1)(i) and (3).
+
+Due Date. Enter the date on which
+full repayment of the loan or line of
+credit is due (under the original agreement or a restructured agreement, as
+appropriate). 11 CFR 104.3(d)(1)(ii)
+and (3).
+A. Restructured Loans. Check yes
+if the loan or line of credit has been
+restructured to change the terms; enter
+the date on which the original loan or
+line of credit was incurred. 11 CFR
+104.3(d)(3).
+B. Draws on Line of Credit. If
+reporting a draw on a line of credit,
+enter the amount of the draw and
+the outstanding balance owed on
+the line of credit (cumulative draws
+less any repayments made). 11 CFR
+104.3(d)(1)(ii).
+C. Secondary Sources of Repayment. Check yes if the loan or line
+of credit was endorsed or guaranteed by secondary parties. 11 CFR
+104.3(d)(1)(iii). Information on endorsers and guarantors must be
+disclosed on Schedule C. (Note that
+guarantees and endorsements of
+loans are considered contributions;
+see Schedule C instructions.)
+D. Traditional Collateral. Check
+yes if the loan or line of credit was
+obtained using traditional sources of
+collateral, and list the specific assets
+that were pledged. Enter the total fair
+market value of the collateral as of the
+date of the loan agreement. Indicate
+whether the lender has a perfected
+security interest in the collateral. 11
+CFR 104.3(d)(1)(iii). (Note that a
+perfected security interest is a requirement under FEC regulations. 11 CFR
+100.82(e)(1)(i) and 100.142(e)(1)(i)).
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+E. Future Receipts as Collateral.
+Check yes if the loan or line of credit
+was obtained using future receipts as
+collateral; list the types of receipts that
+were pledged; and enter their estimated
+amount. 11 CFR 104.3(d)(1)(iii). Enter the date the separate account was
+established for the deposit of pledged
+receipts. (A depository account is
+required under 11 CFR 100.82(e)(2)
+and 100.142(e)(2).) Provide the full
+name and address of the depository
+institution where the account was
+established.
+F. Other Means of Obtaining Loan.
+Complete this section if “no” was
+checked in sections C, D, and E or if
+the amount cosigned and/or pledged
+for the loan or line of credit is less than
+the loan amount. If so, state the basis
+upon which the loan was made and the
+basis on which it assures repayment.
+11 CFR 104.3(d)(1)(iv).
+G. Treasurer’s Signature and Date.
+The committee treasurer (or properly
+designated assistant treasurer) must
+sign and date the form; the signer’s
+name should be printed or typed beside the signature.
+H. Copy of Loan Agreement. Attach a copy of the signed agreement.
+11 CFR 104.3(d)(2).
+I. Lender Certification. An authorized representative of the lending
+institution must sign and date the
+form to certify that the lender has
+complied with items I through III.
+11 CFR 104.3(d)(1)(v). The representative’s name should be printed
+or typed beside his or her signature.
+The representative’s title must also be
+entered.
+
+	
+
+Federal Election Commission (Revised 4/2006)
+
+Page 17
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE D, DEBTS AND
+OBLIGATIONS
+(FEC FORM 3X)
+When filling out Schedule D, the
+committee must enter its full name in
+the box at the top of the page.
+DO NOT combine debts and obligations owed to the committee with
+those owed by the committee on the
+same Schedule D. Instead, use a separate Schedule D.
+Debts and Obligations Owed
+BY the Committee (Other Than
+Loans)
+For debts and obligations owed BY
+the reporting committee at the close
+of the reporting period and which
+are required to be disclosed, the committee must report the full name and
+mailing address of each creditor, the
+amount of the debt outstanding at the
+beginning of the period, the amount
+of the debt or obligation incurred this
+period (including any finance charges),
+the payment(s) this period to retire the
+debt or obligation, the outstanding
+balance at the close of the reporting
+period and the nature or purpose of
+the debt and obligation. The terms
+“nature” or “purpose” mean a brief
+statement or description of why the
+debt or obligation was incurred (e.g.,
+media, salary, polling, supplies, mailing).
+A written contract (including a
+media contract), promise, or agreement to make an expenditure which
+has not been paid for by the committee is an expenditure as of the date
+the contract, promise or obligation
+is made and is subject to the reporting requirements. Accounts payable
+and written contracts, promises, or
+agreements to make expenditures, in
+amounts of $500 or less, need not be
+disclosed until outstanding for sixty
+days or more.
+Debts and obligations owed BY
+the committee must continue to be
+reported on each subsequent report
+until extinguished or settled in a manPage 18	
+
+ner permitted by Federal Election
+Commission regulations (see 11 CFR
+Part 116 for settlement of corporate
+debts). When a payment is made to
+reduce or extinguish an obligation
+owed BY the committee, the payment must be itemized on Schedule
+B, reported on the appropriate line
+of the Detailed Summary Page, and
+included in the “Payment This Period” column on Schedule D. If a
+debt or obligation is settled for less
+than the reported amount or value,
+the reporting committee must include
+a statement as to the circumstances
+and conditions under which the debt
+or obligation was extinguished and
+the amount paid. A debt owed BY a
+political committee which is forgiven
+or settled for less than the amount
+owed is a contribution unless the debt
+is forgiven or settled in accordance
+with 11 CFR Part 116. The extension
+of credit by any person for a length
+of time beyond normal business or
+trade practice is a contribution, unless
+the creditor has made a commercially
+reasonable attempt to collect the debt.
+The total amount of debts and obligations owed BY the committee during
+the reporting period must be entered
+at the bottom of the last page under
+“Total This Period” and added to the
+total loans owed BY the committee
+from Schedule C. The total amount
+of debts and obligations owed BY
+the committee (including loans) must
+be carried forward to the Summary
+Page.
+
+statement or description of why the
+debt or obligation was incurred (e.g.,
+media, salary, polling, supplies, mailing). Written contracts or agreements
+(such as signed pledge cards), or oral
+promises to make contributions are
+not required to be reported.
+Debts and obligations owed TO
+the committee must continue to be
+reported on each subsequent report
+until extinguished. When a payment
+is received to reduce or extinguish a
+debt or obligation owed TO the committee, the payment must be itemized
+on Schedule A, reported on the appropriate line of the Detailed Summary
+Page, and included in the “Payment
+This Period” column on Schedule D.
+The total amount of debts and obligations owed TO the committee during
+the reporting period must be entered
+at the bottom of the last page under
+“Total This Period” and added to the
+total loans owed TO the committee
+from Schedule C. The total amount
+of debts and obligations owed TO
+the committee (including loans) must
+be carried forward to the Summary
+Page.
+
+Debts and Obligations Owed
+TO the Committee (Other Than
+Loans)
+For each debt and obligation owed
+TO the committee at the close of the
+reporting period, the committee must
+report: the full name and mailing address of each debtor, the amount of
+the debt outstanding at the beginning
+of the period, the amount of the debt
+or obligation incurred this period, the
+payment(s) this period to retire the
+debt or obligation, the outstanding
+balance at the close of the reporting
+period and the nature or purpose of
+the debt or obligation. The terms
+“nature” or “purpose” mean a brief
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE E, ITEMIZED
+INDEPENDENT
+EXPENDITURES
+(FEC FORM 3X)
+General
+Definition
+The term “independent expenditure” means: “an expenditure by a
+person for a communication expressly
+advocating the election or defeat of a
+clearly identified candidate that is not
+made in cooperation, consultation or
+concert with, or at the request or suggestion of, a candidate, a candidate’s
+authorized committee or their agents,
+or a political party committee or its
+agents.
+When to File
+Any political committee that makes
+independent expenditures must report such independent expenditures
+on Schedule E for the applicable
+reporting period. Special additional
+reporting procedures apply to expenditures aggregating $1,000 or more
+and made within 20 days before an
+election; these are described below
+under “24-hour reports”. In addition,
+special reporting procedures apply to
+expenditures aggregating $10,000 or
+more and are described below under
+“48-hour reports.”
+48-Hour Reports
+Any political committee that makes
+or contracts to make independent
+expenditures regarding a particular
+election (e.g., a particular party’s Presidential nomination or a particular
+Senate general election) aggregating
+$10,000 or more during the calendar
+year up to and including the 20th day
+before an election must ensure that
+the Commission receives a report of
+these expenditures no later than 11:59
+p.m. Eastern Standard/Daylight Time
+of the second day following the date
+on which the independent expenditure
+	
+
+Federal Election Commission (Revised 09/2013)
+
+meeting the $10,000 threshold is publicly distributed or otherwise publicly
+disseminated. See Explanation and
+Justification for 11 CFR 104.4(f).
+The committee must continue to file
+additional 48-hour reports each time
+subsequent independent expenditures
+reach the $10,000 threshold with
+respect to the same election to which
+the first report related. For purposes
+of determining whether 48-hour reports must be filed, aggregations of
+independent expenditures must be
+calculated as of the first date on which
+a communication that constitutes an
+independent expenditure is publicly
+distributed or otherwise publicly disseminated. See 11 CFR 104.4(f).
+The report must include all of the
+information required on Schedule E
+and be filed with the Federal Election
+Commission. Committees that are
+not electronic filers may file 48-hour
+reports by fax (to 202-219-0174) or
+electronic mail (to 2022190174@fec.
+gov). All filers may submit 48-hour
+reports online at www.fec.gov.
+24-Hour Reports
+The committee must file a report
+of any independent expenditures aggregating $1,000 or more made after
+the 20th day, but more than 24 hours
+before an election, before 12:01 A.M.
+of the day of the election. The committee must ensure that the Commission receives the report no later than
+11:59 p.m. Eastern Standard/Daylight
+Time of the day following the date on
+which the $1,000 threshold is reached
+during the final 20 days before the
+election. For purposes of determining whether 24-hour reports must be
+filed, aggregations of independent
+expenditures must be calculated as of
+the first date on which a communication that constitutes an independent
+expenditure is publicly distributed or
+otherwise publicly disseminated. See
+Explanation and Justification for 11
+CFR 104.4(f). The report must include all of the information required
+on Schedule E and be filed with the
+Federal Election Commission. The
+committee must file a new 24-hour
+
+report each time it makes subsequent
+independent expenditures relating to
+the same election and aggregating
+$1,000 or more. Committees that are
+not electronic filers may file 24-hour
+reports by fax (to 202-219-0174) or
+electronic mail (to 2022190174@fec.
+gov). All filers may submit 24-hour
+reports online at www.fec.gov.
+Line By Line Instructions
+For Schedule E, enter the full name
+of the committee and the FEC Identification Number in the appropriate
+boxes at the top of the page. Check
+the box “48-hour report” or “24-hour
+report” if applicable.
+For each person who receives a
+payment or disbursement during the
+calendar year aggregating in excess of
+$200 in connection with an independent expenditure, provide on Schedule
+E: the full name, mailing address, and
+zip code of the payee receiving any disbursement; the date the independent
+expenditure is publicly distributed
+or disseminated, and/or the date of
+disbursement/obligation, as appropriate (see below); and the amount
+and the purpose of the independent
+expenditure (e.g., radio, television,
+newspaper). Also indicate, in the election check-off box, the election for
+which the independent expenditure
+was made, whether the independent
+expenditure is in support of, or in opposition to a particular candidate, as
+well as the candidate name and office
+sought by such candidate (including
+State and Congressional district, when
+applicable).
+In situations where the committee incurs a reportable obligation for
+an independent expenditure in one
+reporting period, and the communication will be publicly disseminated in
+a future reporting period, report the
+obligation on Schedule D (Debts and
+Obligations) in the first period and, in
+the future reporting period, report the
+independent expenditure on Schedule
+E referencing the debt on Schedule D
+(using a memo entry if actual payment has not been made). Continue
+to report the debt on Schedule D and
+Page 19
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+itemize payments on it using Schedule
+E until the debt is extinguished.
+In situations where the committee
+pays in advance for an independent expenditure in one reporting period and
+the communication will be publicly
+disseminated in a future reporting period, report the payment on Schedule
+B as an operating expenditure. When,
+in a subsequent reporting period, the
+communication is publicly disseminated, itemize the independent expenditure and its date of dissemination on
+Schedule E, and itemize the previous
+expenditure again as a negative entry
+on Schedule B so that total disbursements are not inflated. Alternatively,
+in such situations, if the committee
+wishes to disclose the independent
+expenditure before the communication is publicly disseminated, it could
+report the independent expenditure on
+Schedule E for the reporting period
+in which the disbursement is made.
+If the reported information does not
+change between when this Schedule E
+is filed and when the communication is
+publicly disseminated, the committee
+has no further reporting obligation for
+this independent expenditure, except
+for the 24/48-hour report if applicable.
+Finally, in situations where the
+communication is publicly disseminated and paid for during the same
+reporting period, report the independent expenditure on Schedule E and
+disclose the date of disbursement. The
+date the communication was publicly
+distributed or disseminated also may
+be voluntarily disclosed.
+Along with reporting the purpose
+of the expenditure as required above,
+the committee should also broadly
+characterize each disbursement by
+providing a category/type code, such
+as the example listed below. Note that
+the category/type code is not intended
+to replace or to serve as a substitute
+for the “purpose of disbursement.”
+
+In addition, provide the name of
+the candidate, the office sought by
+the candidate (including State and
+Congressional District, where applicable), and whether the independent
+expenditure was in support of, or in
+opposition to, the candidate. Also,
+list the total amount expended in the
+aggregate during the calendar year, per
+election, per office sought. A subtotal
+of itemized expenditures must be disclosed on Line (a) of the last Schedule
+E filed. A subtotal of independent
+expenditures not required to be itemized must also be disclosed on Line (b)
+of the last Schedule E filed.
+The total of all independent expenditures (Line (c)) is carried forward to
+the appropriate Line of the Detailed
+Summary Page.
+Certification
+The treasurer of the committee
+must sign Schedule E (for electronically-filed reports, type the name of the
+treasurer) and certify under penalty of
+perjury that the expenditure was not in
+fact made in cooperation, consultation
+or concert with, or at the request or
+suggestion of, any candidate or authorized committee or agent thereof. If
+the committee is not a political party
+committee, it must also certify that the
+expenditure was not, in fact, made in
+cooperation, consultation or concert
+with, or at the request or suggestion
+of a political party committee or its
+agents.
+Note: Any other person or entity
+(other than a political committee) that
+makes an independent expenditure
+must file on FEC FORM 5, or, if not
+required to file electronically, may file
+by Form 5 or letter.
+
+004	 Advertising Expenses -including
+general public political advertising (e.g., purchases of radio/
+television broadcast/cable time,
+print advertisements and related
+production costs).
+
+Page 20	
+
+Federal
+FederalElection
+ElectionCommission
+Commission(Revised
+(Revised09/2013)
+2/2009)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE F, ITEMIZED
+COORDINATED PARTY
+EXPENDITURES MADE BY
+POLITICAL PARTIES
+(FEC FORM 3X)
+Definition and Limitations
+The Federal Election Campaign Act
+provides political party committees
+with special spending limits on behalf
+of their candidates in the general election (2 U.S.C. §441a(d)). These special
+spending limits do not apply in primary
+elections, are not contributions to the
+candidate and are not contributions
+in-kind reported on Schedule B. These
+spending limits are separate from
+expenditures made by the candidate’s
+authorized committee(s). Expenditures made under 2 U.S.C. §441a(d) are
+reported by the political party committee or designated agent and not by the
+candidate or the candidate’s authorized
+committee(s) on whose behalf the expenditure was made.
+National party political committees
+are subject to separate limits for Presidential, Senate and House general elections. State party political committees
+are subject to separate limits for Senate
+and House general elections, but may
+not make any separate expenditures in
+the Presidential general election, unless
+designated by the national committee
+of the political party. Within a State,
+committees subordinate to a State
+party political committee (county, city,
+local, etc.) are included within the State
+party political committee limits.
+The formulas for the party spending
+limits are as follows:
+President:	$0.02 times the national
+Voting Age Population,
+adjusted to reflect the latest
+cost-of-living increase.
+Senate:	 The greater of: (a) $0.02
+times the state Voting Age
+Population, adjusted to reflect the latest cost-of-living
+increase; or (b) $20,000,
+adjusted to reflect the latest
+cost-of-living increase.
+	
+
+Federal Election Commission (Revised 2/2009)
+
+House1:	 $10,000 adjusted to reflect
+the latest cost-of-living increase.
+Who Must File
+Any political party committee or
+designated agent that makes coordinated party expenditures must itemize
+each expenditure on Schedule F. For
+each coordinated party expenditure;
+provide the full name and mailing address of the payee, date and amount
+of the expenditure, the purpose of the
+expenditure (e.g., polling, campaign
+consulting, media preparation, etc.)
+and the name of the office sought by
+(including State and Congressional
+district, when applicable) the candidate on whose behalf the expenditure
+was made.
+Along with reporting the purpose
+of the expenditure as required above,
+the committee should also broadly
+characterize disbursements by providing the code for each category of disbursement. Examples of the types of
+disbursements that fall within each of
+the broad categories are listed below.
+Use only one code for each itemized
+disbursement. In cases where the disbursement was for several purposes,
+the political committee should assign
+one code according to the primary
+purpose of the disbursement. Note
+that some of the category titles are
+not acceptable as the “purpose” of the
+disbursement and that the categories
+are not intended to replace or to serve
+as a substitute for the “purpose of
+disbursement.”
+001	Administrative/Salary/Overhead
+Expenses (e.g., rent, staff salaries,
+postage, office supplies, equipment, furniture, ballot access fees,
+petition drives, party fees and
+legal and accounting expenses)
+002	Travel Expenses—including
+travel reimbursement expenses
+(e.g., costs of commercial carrier tickets; reimbursements for
+use of private vehicles; advance
+payments for use of corporate air1 In the case of a candidate for election to the
+House of Representatives from a State which is
+entitled to only one Representative, the Senate
+party spending limits are applicable.
+
+craft; lodging and meal expenses
+incurred during travel)
+003	Solicitation and Fundraising
+Expenses (e.g., costs for direct
+mail solicitations and fundraising
+events including printing, mailing
+lists, consultant fees, call lists, invitations, catering costs and room
+rental)
+004	 Advertising Expenses—including
+general public political advertising (e.g., purchases of radio/
+television broadcast/cable time,
+print advertisements and related
+production costs)
+005	 Polling Expenses
+006	Campaign Materials (e.g., buttons, bumper stickers, brochures,
+mass mailings, pens, posters and
+balloons)
+007	 Campaign Event Expenses (e.g.,
+costs associated with candidate
+appearances, campaign rallies,
+town meetings, phone banks,
+including catering costs, door to
+door get-out-the-vote efforts and
+driving voters to the polls)
+011	Political Contributions (e.g.,
+contributions to other federal
+committees and candidates, and
+donations to non-federal candidates and committees)
+In addition, the committee must
+provide the amount of coordinated
+expenditures made on behalf of each
+candidate for the general election.
+Expenditures made on behalf of more
+than one candidate should be attributed to each candidate in proportion
+to, and should be reported to reflect,
+the benefit reasonably expected to be
+derived.
+Designated Agents
+The national committee of a political party may make coordinated party
+expenditures for candidates through
+any designated agent including any
+State or subordinate party political
+committees.
+The State party political committee
+m ay d e s i g n at e a s ag e n t s a ny
+subordinate committee (county, city,
+local, etc.). The State party political
+Page 21
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+committee shall be responsible for
+insuring that the expenditures of
+the entire party organization within
+the State are within the limitations,
+including receiving reports from
+any subordinate committee making
+expenditures, and filing consolidated
+reports showing all expenditures in
+the State.
+Committees reporting to the Commission for designated agents should
+use a separate Schedule F for each
+agent. Expenditures made by designated agents should not be included in
+the reporting committee’s totals on the
+Detailed Summary Page. The figure
+carried forward to the Detailed Summary Page should be the amount of
+coordinated party expenditures made
+by the reporting committee.
+
+Page 22	
+
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE H1, METHOD
+OF ALLOCATION FOR
+ALLOCATED FEDERAL
+AND NONFEDERAL
+ADMINISTRATIVE EXPENSES,
+GENERIC VOTER DRIVE
+COSTS, EXEMPT ACTIVITY
+COSTS, ALLOCATED
+FEDERAL/LEVIN FUND
+“FEDERAL ELECTION
+ACTIVITY” EXPENSES
+AND ALLOCATED PUBLIC
+COMMUNICATIONS THAT
+REFER TO ANY POLITICAL
+PARTY (BUT NOT A
+CANDIDATE)
+(FEC FORM 3X)
+
+Who Must File Schedule H1
+Any State, district and local party
+committee, separate segregated fund or
+nonconnected committee that chooses
+to allocate allocable expenses must report the allocation methods and ratios
+used on Schedule H1 and/or H2 as
+explained below and in the instructions
+for Schedule H2.
+When Allocation is Permitted
+An unauthorized committee that
+is active in both federal and nonfederal elections, and that has established
+separate federal and nonfederal accounts, may either make all payments
+for allocable administrative and generic
+voter drive expenses and – for party
+committees – allocable exempt activity
+costs, with federally permissible funds or
+make such payments by allocating the
+expenses between its federal and nonfederal accounts according to specified
+allocation methods. A State, district or
+local party committee engaging in allocable federal election activities may pay
+for such activities entirely with federal
+funds, or may allocate such payments
+between its federal account and Levin
+funds, according to specified allocation
+	
+
+Federal Election Commission (Revised 4/2006)
+
+methods. A separate segregated fund or
+nonconnected committee that makes
+disbursements for public communications or voter drives that refer only to
+a political party (not a candidate) may
+allocate such expenditures, but must
+report the allocation method and ratio
+using Schedule H1.
+When to Use Schedule H1
+State, District and Local Party Committees. State, district and local party
+committees that choose to allocate allocable expenses must report on Schedule
+H1 the allocation methods and ratios
+used for administrative expenses, the
+costs of generic voter drives, the costs of
+allocable exempt activities and the costs
+of allocable “federal election activities”
+as defined at 11 CFR 100.24. Such committees must use Schedule H2 to report
+the allocation methods and ratios used
+for allocable fundraising and the costs
+of allocable direct candidate support.
+Separate Segregated Funds and Nonconnected Committees. Separate segregated funds and nonconnected committees that choose to allocate allocable
+expenses must report the allocation
+methods and ratios used on Schedule
+H1 for administrative expenses, generic
+voter drives and public communications
+that refer only to a political party (not a
+candidate for federal or nonfederal office). (Note: A separate segregated fund
+need not report administrative expenses
+paid for by the committee’s connected
+organization.) Such committees must
+use Schedule H2 to report the allocation
+methods and ratios used for allocable
+fundraising and the costs of allocable
+direct candidate support, including
+public communications or voter drives
+that refer to both federal and nonfederal
+candidates, or both federal and nonfederal candidates and a political party.
+(Note: A separate segregated fund need
+not report fundraising expenses paid for
+by the committee’s connected organization.) See the instructions for Schedule
+H2 for more information.
+
+Definitions
+The term “generic voter drive” means
+any voter identification, voter registration, or get-out-the-vote drive, or any
+other activity that urges the general
+public to register, vote or support candidates of a particular party or associated
+with a particular issue, without clearly
+identifying a candidate. (Note that such
+activity in a special election involving
+only a federal candidate is treated as if
+it mentions a specific candidate.)
+The term “Nonfederal account”
+means an account that contains funds
+to be used in connection with a State
+or local election or allocable expenses
+as permitted by 11 CFR 106.7, 300.30
+and 300.33. 11 CFR 300.2(j).
+The term “Levin funds” means funds
+that are raised and that are or will be
+disbursed for specific “federal election
+activity” pursuant to 11 CFR 300.31
+and 300.32. 11 CFR 300.2(i).
+The term “allocable Federal election
+activity” means
+•	Voter registration activity (i.e. contacting individuals by telephone, in person
+or by other individualized means, to
+assist them in registering to vote (see 11
+CFR 100.24(a)(2)) during the period
+that begins on the date that is 120 days
+before the date that a regularly scheduled federal election is held and that
+ends on the date of the election; or
+Any of the following, when conducted during the period of time beginning
+on the date of the earliest filing deadline
+for primary ballot access for federal
+candidates, or in those States that do not
+conduct primary elections, on January
+1 of each even numbered year through
+the date of the general election (including any general election runoff). In the
+case of a special election, the applicable
+period runs from the date on which the
+date of the special election is set and
+ends on the date of the special election.
+See 11 CFR 100.24(a)(1).
+•	Voter identification (i.e., acquiring
+information about potential voters,
+including but not limited to, obtaining
+voter lists and creating or enhancing
+voter lists by verifying or adding information about the likelihood of voting
+in a specific election or for specific candidates. See 11 CFR 100.24(a)(4));
+•	Generic campaign activity, (i.e., a
+Page 23
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+public communication that promotes
+or opposes a political party and does
+not promote or oppose a clearly identified federal candidate or a nonfederal
+candidate. See 11 CFR 100.25); or
+•	Get-out-the-vote activity (i.e., contacting registered voters by telephone,
+in person or by other individualized
+means, to assist them in engaging
+in the act of voting. See 11 CFR
+100.24(a)(3)). 11 CFR 100.24(b)(1)
+and (2).
+
+cation, with each report that discloses
+an allocated disbursement for the
+above categories of expenses. 11 CFR
+104.10(b)(1). Supply a separate Schedule H1 for each different ratio the
+committee used during the reporting
+period. For each ratio disclosed, check
+the appropriate box(es) to indicate
+the category(ies) of disbursements to
+which the ratio applies.
+
+Line-by-Line Instructions and
+When To File
+Enter the committee’s full name in
+the appropriate block.
+State, district and local party committees must allocate their administrative expenses, generic voter drive
+costs, allocable exempt activity costs
+and costs for allocable “federal election activity” according to a fixed
+percentage. (See 11 CFR 106.7(d) and
+300.33(b).) Check the appropriate
+box on Schedule H1, Method of Allocation, to indicate the fixed federal
+percentage. The percentage is based
+on whether a Presidential candidate,
+a Senate candidate, both or neither
+are expected on the ballot in the next
+general federal election.
+File Schedule H1 with the first FEC
+Form 3X submitted each year. 11 CFR
+104.17(b)(1).
+Nonconnected committees and
+separate segregated funds that choose
+to allocate must allocate their administrative expenses, generic voter drive
+costs and costs for public communications that refer only to a political party
+(not a candidate) according to the flat
+minimum federal percentage – 50 %.
+(See 11 CFR 106.6(b).) Committees
+must use at least 50% federal funds
+to pay for these expenses. (To indicate
+that the committee is using an exact
+50/50 ratio, check the box indicated.)
+The committee may choose to spend
+more than 50% federal funds, but must
+show the percentage of federal and
+nonfederal funds used in the boxes
+provided.
+File Schedule H1, Method of Allo-
+
+Page 24	
+
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE H2, ALLOCATION
+RATIOS
+(To Be Used For Allocable Federal
+and Nonfederal Fundraising and Direct
+Candidate Support)
+Who Must File
+Any State, district or local party
+committee, separate segregated fund
+or nonconnected committee that is
+active in both federal and nonfederal
+elections, and that has established separate federal and nonfederal accounts,
+may either make all payments for allocable activity with federally permissible
+funds, or may allocate expenses for its
+allocable activities between its federal
+and nonfederal accounts according to
+specified allocation methods. Committees that choose to allocate expenses for
+certain allocable activities must report
+the allocation ratios used for each activity on Schedule H2, Allocation Ratios.
+The categories of allocable activity
+referred to on this Schedule include (1)
+fundraising events through which both
+federal and nonfederal funds are collected by one committee and (2) activities providing direct candidate support
+to both specific federal and specific
+nonfederal candidates. (For separate
+segregated funds and nonconnected
+committees only, this includes public
+communications or voter drives that
+refer to both federal and nonfederal
+candidates, regardless of any reference
+to a political party. Party committees may not allocate such expenses
+between their federal and nonfederal
+accounts; instead, they must treat them
+as “federal election activity” and report
+them accordingly on Line 30. See the
+instructions for Schedules B, H5 and
+H6 for more information.)
+When To File
+Schedule H2, the Allocation Ratios
+Schedule, must accompany each FEC
+Form 3X filed by a committee that discloses a disbursement for an allocated
+federal and nonfederal fundraising
+event or direct candidate support activity.
+	
+
+Federal Election Commission (Revised 4/2006)
+
+Methods of Allocation
+(1) Fundraising expenses are to
+be allocated according to the “funds
+received method,” whereby allocation
+is based on the ratio of funds received
+by the committee’s federal account as
+compared to the total funds received
+by all of the committee’s accounts
+from each allocable fundraising event.
+Detailed instructions for calculating
+this ratio are contained in 11 CFR
+106.7(d)(4) (for party committees) and
+11 CFR 106.6(d) (for nonconnected
+committees and separate segregated
+funds).
+(2) The costs of direct candidate
+support activities are to be allocated
+according to a ratio based on the
+benefit expected to be derived by each
+candidate. Detailed instructions for calculating this ratio are contained in 11
+CFR 106.1(a) and 11 CFR 106.6(f)(3)
+(for certain public communications and
+voter drives by nonconnected committees and separate segregated funds).
+Line-by-Line Instructions
+Enter the name of each activity or
+event in the appropriate blocks.
+Note: Each individual fundraising
+event or activity providing direct candidate support must be assigned a unique
+identifying title or code. The exact
+title or code must be used consistently
+throughout a committee’s reports when
+disclosing transactions related to that
+activity or event.
+The committee must enter the percentage of costs allocated to its federal
+account and its nonfederal account
+for each individual activity or event.
+These percentages are to be calculated
+according to the appropriate allocation
+method for each category of activity.
+For each individual activity or event,
+the committee must indicate whether it
+is a fundraising event or an activity providing direct candidate support. If the
+event represents activity for more than
+one category, the committee must list
+each category on a separate Line. The
+committee must also indicate whether
+the allocation ratio is new, revised or
+the same as previously reported for that
+activity or event.
+
+Page 25
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE H3, TRANSFERS
+FROM NONFEDERAL
+ACCOUNTS FOR ALLOCATED
+FEDERAL/NONFEDERAL
+ACTIVITY
+(To Be Used to Show Transfers
+From Nonfederal Accounts to Federal
+Accounts For The Purpose of Paying
+Allocable Expenses)
+Who Must File
+Any State, district or local party
+committee, separate segregated fund
+or nonconnected committee that is
+active in both federal and nonfederal
+elections, and that has established
+separate federal and nonfederal accounts, may either make all payments
+for allocable activity with federally
+permissible funds, or may allocate
+expenses for its allocable activities
+between its federal and nonfederal
+accounts according to specified allocation methods. A committee that
+chooses to allocate allocable expenses
+must pay the bills for those expenses
+from either its federal account or from
+a separate allocation account which
+is also a federal account subject to
+the FECA’s reporting requirements.
+The committee may transfer funds
+from its nonfederal account to either
+of these federal accounts, solely for
+the purpose of paying the nonfederal
+share of allocable expenses. All such
+transfers must occur not more than 10
+days before or 60 days after the payments for which they are intended are
+made, and must be itemized on Schedule H3. This Schedule is used only in
+support of Line 18(a) of the Detailed
+Summary Page. All other federal account receipts should be itemized as
+required on Schedule A or Schedule
+H5, as appropriate.
+When To File
+Schedule H3 must be filed for each
+reporting period in which any funds
+are transferred from a nonfederal account to a federal account for the purpose of paying the nonfederal share of
+a committee’s allocable expenses.
+Page 26	
+
+Line-by-Line Instructions
+Name of Account; Date of Receipt;
+Total Amount Transferred. The committee must enter its full name, the
+name of the nonfederal account from
+which each transfer is made, and the
+date and total amount of the transfer
+in the appropriate blocks.
+Each transfer from a nonfederal
+account to a federal account may include funds intended to pay for more
+than one allocable activity. Therefore,
+the committee must indicate on Lines
+i) through vi) the purposes for which
+each transfer is made, and the amount
+designated for each such purpose.
+Line i) List the total amount used for
+administrative expenses.
+Line ii) List the total amount used for
+generic voter drive costs.
+Line iii) List the amount used for
+each allocable exempt activity (State,
+district and local party committees
+only).
+Line iv) List the amount used for allocable direct fundraising activity.
+Line v) List the amount used for
+allocable direct candidate support.
+For separate segregated funds and
+nonconnected committees only, this
+includes amounts used for public
+communications or voter drives referencing both federal and nonfederal
+candidates (regardless of any reference
+to a political party).
+Note: In the space provided on
+Lines iv and v, list the activity or event
+identifier used on Schedule H2, Allocation Ratios, to identify each separate
+fundraising event or direct candidate
+support activity.
+Line vi) List the amount used for public communications referring only to
+a political party (separate segregated
+funds and nonconnected committees
+only).
+Compute subtotals for each line
+at the bottom of each page for the
+transfers itemized on that page. Carry
+the “Total This Period” for the column
+“Total Amount Transferred” forward
+to Line 18(a) of the Detailed Summary Page.
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS
+FOR SCHEDULE H4,
+DISBURSEMENTS FOR
+ALLOCATED FEDERAL/
+NONFEDERAL ACTIVITY
+(FEC FORM 3X)
+(To Be Used For Allocated Federal/
+Nonfederal Activity)
+Who Must File
+Any State, district or local party
+committee, separate segregated fund
+or nonconnected committee that is
+active in both federal and nonfederal
+elections, and that has established
+separate federal and nonfederal accounts, may either make all payments
+for allocable activity with federally
+permissible funds, or may allocate
+expenses for its allocable activities
+between its federal and nonfederal
+accounts according to specified allocation methods. A committee that
+chooses to allocate allocable expenses
+must pay the bills for those expenses
+from either its federal account or from
+a separate allocation account which is
+also a federal account subject to the
+FECA’s reporting requirements. The
+committee may transfer funds within
+specified time limits from its nonfederal account to cover the nonfederal
+share of the allocated expense. The
+committee must itemize each allocated
+disbursement for activity allocated
+between its federal and nonfederal
+accounts as made from its federal account or separate allocation account
+on Schedule H4. Only disbursements
+supporting Line 21(a), Allocated
+Federal/Nonfederal Activity, of the
+Detailed Summary Page are reported
+on Schedule H4. Disbursements supporting Line 21(b), Other Federal Operating Expenditures, of the Detailed
+Summary Page must be itemized on
+Schedule B, as required. All other disbursements from the federal account
+must also be itemized, as required, on
+Schedules B or E and by State, district
+and local party committees also on
+Schedules F or H6, as appropriate.
+
+	
+
+Federal Election Commission (Revised 4/2006)
+
+When to File
+Schedule H4 must be filed for each
+reporting period in which disbursements are made from a committee’s
+federal account or separate allocation
+account to pay for allocated federal/
+nonfederal expenses under 11 CFR
+106.6 or 106.7.
+Line-by-Line Instructions
+Enter the committee’s full name in
+the appropriate block of each page.
+For each disbursement itemized
+during the reporting period, provide
+the payee’s full name and mailing address, the date, and the purpose for
+which the disbursement was made.
+Note: Purpose
+(a)	 Purpose. The term “purpose”
+means a brief statement or description
+of why the disbursement was made.
+Examples of adequate descriptions
+include the following: salary (in the
+case of a party committee, only allocable when an employee spends
+25 percent or less of his or her time
+in a given month on federal election
+activity or activity in connection with
+a federal election), dinner expenses,
+media, polling, travel, party fees,
+phone banks, travel expenses and
+catering costs. However, descriptions
+such as “advance,” “election day expenses,” “other expenses,” “expense
+reimbursement,” “miscellaneous,”
+“outside services,” “get-out-the-vote”
+and “voter registration,” would not
+meet the requirement for reporting the
+purpose of a disbursement.
+(b)	 Category/Type Code. Along
+with reporting the purpose of the
+expenditure as required above, the
+committee should also broadly characterize disbursements by providing
+the category/type code for each category of disbursement. Examples of
+the types of disbursements that fall
+within each of the broad categories
+are listed below. Use only one code for
+each itemized disbursement. In cases
+where the disbursement was for several purposes, the political committee
+should assign one code according to
+the primary purpose of the disburse-
+
+ment. Note that some of the category
+titles are not acceptable as the “purpose” of the disbursement and that
+the categories are not intended to
+replace or to serve as a substitute for
+the “purpose of disbursement.”
+001	Administrative/Overhead Expenses (e.g., rent, postage, office
+supplies, equipment, furniture,
+ballot access fees, petition drives,
+party fees and legal and accounting expenses)
+002	Travel Expenses—including travel
+reimbursement expenses (e.g.,
+costs of commercial carrier tickets;
+reimbursements for use of private
+vehicles; advance payments for
+use of corporate aircraft; lodging
+and meal expenses incurred during
+travel)
+003	Solicitation and Fundraising
+Expenses (e.g., costs for direct
+mail solicitations and fundraising
+events including printing, mailing
+lists, consultant fees, call lists, invitations, catering costs and room
+rental)
+004	Advertising Expenses—including
+general public political advertising
+(e.g., purchases of radio/television
+broadcast/cable time, print advertisements and related production
+costs)
+005	Polling Expenses
+006	Campaign Materials (e.g., buttons, bumper stickers, brochures,
+mass mailings, pens, posters and
+balloons)
+007	Campaign Event Expenses (e.g.,
+costs associated with candidate
+appearances, campaign rallies,
+town meetings, phone banks,
+including catering costs, door to
+door get-out-the-vote efforts and
+driving voters to the polls)
+008	Transfers (e.g., to other affiliated/
+party committees)
+009	Loans (e.g., loans made or repayments of loans received)
+010	Refunds of Contributions (e.g.,
+contribution refunds to individuals/persons, political party committees or other political committees)
+
+Page 27
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+011	Political Contributions (e.g.,
+contributions to other federal
+committees and candidates, and
+donations to nonfederal candidates and committees)
+012	Donations (e.g., donations to
+charitable or civic organizations)
+(c)	 Unique Activity or Event Identifier. If the disbursement was for an
+allocable fundraising event or allocable
+direct federal and nonfederal candidate
+support, the activity or event must be
+identified by the unique activity or
+event identifier assigned to it on Schedule H2, Allocation Ratios, in addition
+to the purpose for which the disbursement was made.
+Allocated Activity or Event. Identify the type of “allocated activity or
+event” for which each disbursement
+is made by checking the appropriate
+box. (Note for separate segregated funds
+and nonconnected committees only:
+For public communications that are
+made by a nonconnected committee
+or separate segregated fund and that
+refer only to a political party, check
+“Public Comm (ref to Party Only) by
+PAC.” For public communications and
+voter drives that refer to both federal
+and nonfederal candidates, regardless
+of any reference to a political party,
+check “Direct Candidate Support.”)
+A disbursement representing payment
+for more than one type of activity is
+reported as a memo entry followed by
+a break down of the disbursement by
+type of activity, with the appropriate
+boxes checked. The committee must
+also enter the aggregate amount of all
+disbursements made year-to-date as of
+this report for each type of activity or
+individual event. For fundraising and
+direct candidate support, a separate
+aggregate amount must be reported
+for each individual activity or event.
+For administrative expenses, generic
+voter drive activity, allocable exempt
+activities and allocable public communications that refer only to a party
+and are made by a separate segregated
+fund or nonconnected committee, one
+aggregate amount for all disbursements
+in that type is sufficient.
+Enter the total amount of each
+disbursement in the appropriate box.
+For each disbursement for allocated
+Page 28	
+
+expenses, the committee must enter
+the total amounts allocated to the
+federal and nonfederal accounts in the
+appropriate boxes. For State, district
+and local party committees disclosing
+administrative expenses, allocable exempt activities and generic voter drive
+costs, the federal and nonfederal shares
+are derived from the fixed percentage
+stated on Schedule H1, Method of
+Allocation. For separate segregated
+funds and nonconnected committees
+disclosing administrative expenses, generic voter drive costs and public communications that refer only to a party,
+the federal and nonfederal shares are
+derived from the flat minimum federal
+percentage ratio disclosed on Schedule
+H1 for that type of disbursement. For
+the costs of fundraising and direct
+candidate support, these amounts are
+derived from the percentages stated for
+each event on Schedule H2, Allocation Ratios. (Note that administrative
+and fundraising expenses are neither
+allocated nor disclosed by a separate
+segregated fund when those costs are
+paid by its connected organization.)
+If an allocated disbursement was
+made, in whole or in part, for direct
+candidate support (e.g., an in-kind
+contribution benefiting both specific federal and specific nonfederal
+candidates), the federal share of the
+disbursement must be disclosed on
+Schedule B, E or F, supporting Line
+23, 24 or 25 of the Detailed Summary
+Page, as appropriate and disclosed as a
+memo entry in the “Federal Share” box
+on Schedule H4. The “Federal Share”
+box on Schedule H4 should contain a
+reference to Schedule B, E or F and
+the appropriate Line number of the
+Detailed Summary Page on which this
+information is reported. The nonfederal share of the disbursement must be
+entered in the “Nonfederal Share” box
+on Schedule H4.
+Compute subtotals for each page
+and totals for the reporting period for
+the total amount of disbursements, and
+for the total federal and nonfederal
+shares. The “Total This Period” for the
+federal share and the nonfederal share
+are carried forward to Lines 21(a)(i)
+and 21(a)(ii), respectively, of the Detailed Summary Page.
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE H5, TRANSFERS
+OF LEVIN FUNDS RECEIVED
+(FEC FORM 3X)
+(To Be Used to Show Transfers
+of Levin Funds from Nonfederal
+Account or Levin Account
+to Federal Account For The
+Purpose of Paying Allocable
+Expenses for Federal Election
+Activity)
+Who Must File
+Any State, district or local party
+committee that is a political committee and engages in allocable federal
+election activities must file. (Definitiions of “allocable federal election
+activities” appear on the instructions
+for Schedule H1.)
+Reporting committees may either
+make all payments for that allocable
+federal election activity with federally
+permissible funds, or may allocate
+expenses for it between its federal
+account and Levin funds, according
+to the fixed percentage reported on
+Schedule H1. A party committee that
+chooses to allocate allocable expenses
+for “federal election activity” must
+pay for those expenses from either its
+federal account or from a separate
+allocation account which is also a
+federal account subject to the FECA’s
+reporting requirements. The committee may transfer Levin funds from its
+Levin account or nonfederal account
+to either of these federal accounts,
+solely for the purpose of paying the
+Levin share of allocable expenses. All
+such transfers must occur not more
+than 10 days before or 60 days after the
+payments for which they are intended
+are made, and must be itemized as receipts on Schedule H5. This Schedule
+is used only in support of Line 18(b)
+of the Detailed Summary Page.
+
+	
+
+Federal Election Commission (Revised 4/2006)
+
+Line-by-Line Instructions
+Name of Committee: Enter the
+committee’s full name.
+For each transfer made, complete a
+block as follows:
+Account Name: Enter the name
+of the Levin account or the name of
+the non-federal account from which
+a transfer of Levin funds has been
+made.
+Breakdown of Transfer Received:
+Note: Each transfer of Levin funds
+to a federal account may include funds
+intended to pay for more than one type
+of allocable federal election activity.
+Therefore, the committee must indicate in each block on Lines i) through
+iv) the amount of each transfer for
+each type of allocable federal election
+activity.
+1. Enter the date and total amount
+of the transfer in the appropriate
+blocks.
+2. Line i): List the total amount to be
+used for voter registration costs.
+3. Line ii): List the amount to be used
+for voter identification costs.
+4. Line iii): List the amount to be used
+for get-out-the-vote costs.
+5. Line iv): List the amount to be
+used for the costs of generic campaign activity (i.e., public communications covered by 11 CFR
+100.25).
+Compute subtotals as indicated
+at the bottom of each page for the
+transfers itemized on that page. Carry
+forward the “Total This Period” for
+the column “Total Amount Transferred” to Line 18(b) of the Detailed
+Summary Page.
+When To File
+File Schedule H5 for each reporting
+period in which any Levin funds are
+transferred to a federal account for the
+purpose of paying the Levin share of
+a committee’s allocable expenses.
+
+Page 29
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS
+FOR SCHEDULE H6,
+DISBURSEMENTS OF
+FEDERAL AND LEVIN FUNDS
+FOR ALLOCATED FEDERAL
+ELECTION ACTIVITY (FEC
+FORM 3X)
+(To Be Used For Allocated
+Federal/Levin Federal Election
+Activity)
+Who Must File
+Any State, district or local party
+committee that engages in allocable
+federal election activities (see 11 CFR
+300.32 and 300.33 and the instructions for Schedule H1), and that has
+established separate federal and Levin
+accounts, or that has raised Levin
+funds, may either make all payments
+for allocable federal election activity
+with federally permissible funds, or
+may allocate expenses for its allocable
+federal election activity between its
+federal account and Levin funds
+according to the fixed percentage reported on Schedule H1. A committee
+that chooses to allocate federal election activity expenses must pay for
+those expenses from either its federal
+account or from a separate allocation
+account which is also a federal account subject to the FECA’s reporting
+requirements. The committee may
+transfer Levin funds within specified
+time limits to cover the Levin share of
+the allocated expense. The committee
+must itemize each allocated disbursement made from its federal account
+or separate allocation account for
+allocable federal election activity on
+Schedule H6. Only disbursements
+supporting Line 30(a), Allocated Federal Election Activity, of the Detailed
+Summary Page should be reported on
+Schedule H6. Disbursements supporting Line 30(b), Federal Election Activity Paid Entirely with Federal Funds,
+should be reported on Schedule B for
+Line 30(b), as required. Itemize all
+other disbursements from the federal
+account, as required, on Schedule B,
+E, F or H4.
+Page 30	
+
+Line-by-Line Instructions
+Enter the committee’s full name in
+the appropriate block of each page.
+For each disbursement itemized
+during the reporting period, provide:
+1. The payee’s full name and mailing
+address;
+2. The date; and
+3. The purpose for which the disbursement was made.
+Purpose: The term “purpose”
+means a brief statement or description of why the disbursement was
+made. Examples of adequate descriptions include the following: dinner
+expenses, media, polling, travel, party
+fees, phone banks, travel expenses and
+catering costs. However, descriptions
+such as “advance,” “election day expenses,” “other expenses,” “expense
+reimbursement,” “miscellaneous,”
+“outside services,” “get-out-the-vote,”
+and “voter registration,” would not
+meet the requirement for reporting the
+purpose of a disbursement.
+Identify the “type of allocated activity” for which each disbursement
+is made by checking the appropriate
+box. A disbursement representing
+payment for more than one category
+of activity is reported as a memo entry followed by a break down of the
+disbursement by category of activity,
+with the appropriate boxes checked.
+The committee must also enter the aggregate amount of all disbursements
+made year-to-date for each category
+of activity or individual event.
+The total amount of each disbursement must be entered in the appropriate box. For each disbursement,
+enter the total amounts allocated to
+the federal account and Levin funds
+in the appropriate boxes. The federal
+and Levin shares are derived from the
+percentage stated on the Schedule H1,
+Method of Allocation.
+
+Federal Election Commission (Revised 4/2006)
+
+INSTRUCTIONS FOR FEC FORM 3X AND RELATED SCHEDULES
+
+INSTRUCTIONS FOR
+SCHEDULE L, AGGREGATION
+PAGE, LEVIN FUNDS OF
+STATE, DISTRICT OR LOCAL
+PARTY COMMITTEES (FEC
+FORM 3X)
+Who Must File
+All State, district or local party
+committees that are political committees under 11 CFR 100.5 must disclose
+certain information about Levin funds
+raised, and transferred or otherwise
+disbursed by the committee. Every
+reporting period, each such committee
+must file an Aggregation Page summarizing the receipts and disbursements
+of its Levin funds for that reporting
+period and for the calendar year-todate. The committee may disclose and
+itemize under 11 CFR 300.36(b)(2)(iv)
+its receipt of Levin funds either at
+the time the receipts are first received
+and deposited or at a later date when
+the committee makes Levin disbursements out of Levin-eligible funds. If a
+committee maintains a separate Levin
+account, the committee must disclose
+and itemize the Levin receipts when
+they are deposited in the Levin account. A separate Aggregation Page
+must be submitted for each of the
+committee’s accounts that handles
+Levin funds, whether that account is a
+dedicated “Levin account” or whether
+it is another non-federal account. The
+committee must also attach Schedule
+L-A and Schedule L-B, itemizing the
+receipts and disbursements of Levin
+funds.
+Line-by-Line Instructions
+Enter the committee’s full name
+and the coverage dates of the report
+in the appropriate blocks.
+To calculate the “Calendar Yearto-Date” figure for each Line, the
+committee should add the figure from
+the same Line of its previous report to
+the “Total This Period” for the current
+report. For the first report filed in a
+calendar year, the “Calendar Yearto-Date” figure and the “Total This
+Period” figure will be the same.
+	
+
+Federal Election Commission (Revised 4/2006)
+
+If there were no receipts or disbursements for a particular Line during the
+reporting period or the calendar year,
+enter “0” on the appropriate Lines.
+
+LINE 8. Enter the “Total This Period”
+figure from Line 3.
+
+Receipts (Schedule L-A)
+
+LINE 10. Enter the “Total This Period” figure from Line 6.
+
+LINE 1. Enter the total amount of
+receipts of Levin funds from individuals, committees and other entities. For
+each individual or entity who has
+made one or more donations during
+the calendar year, the committee must
+disclose in a memo Schedule L-A the
+following information: the identification of the individual (full name,
+mailing address, name of employer
+and occupation) or entity (full name
+and mailing address), and the date of
+receipt and amount of each donation
+aggregating $200 or more. (See also
+instructions for Schedule A).
+LINE 2. Enter the total of any other
+receipts disclosed in a memo Schedule
+L-A.
+LINE 3. Add the total of Line 1 and
+Line 2.
+
+LINE 9. Add Lines 7 and 8 to derive
+the subtotal for receipts.
+
+LINE 11. Subtract Line 10 from Line
+9 to derive the figure for Levin funds
+on hand at the close of the reporting
+period.
+When To File
+Submit Schedule L, the Levin
+Funds Aggregation Page, and supporting memo Schedules L-A and L-B
+with each report once the committee
+has combined receipts and disbursements of $5,000 or more in the aggregate for “federal election activity”
+during the calendar year as defined at
+11 CFR 100.24. Note that once this
+threshold is passed, the committee
+must file FEC reports on a monthly
+basis. 11 CFR 300.36(c)(1).
+
+Disbursements (Schedule L-B)
+LINE 4. Enter the total amount of
+transfers of Levin funds made to
+the committee’s federal account or
+allocation account for each category
+of allocable federal election activity.
+Itemize each such transfer on a memo
+Schedule L-B in full. (See also instructions for Schedule B).
+LINE 5. Enter the total amount of
+all other disbursements disclosed on
+a memo Schedule L-B. All such disbursements must be itemized if they
+exceed $200 or more.
+LINE 6. Add Lines 4(e) and 5 to derive
+the figure for total disbursements.
+Summary
+LINE 7. Enter the total amount of
+cash on hand at the beginning of
+the reporting period. For Column B
+(“Calendar Year-to-Date”), enter the
+total amount of cash on hand as of
+January 1 of the calendar year.
+
+Page 31
+
+
